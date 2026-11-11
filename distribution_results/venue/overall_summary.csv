@@ -1,0 +1,8 @@
+﻿scope,venue,selected_count,total_response_count,missing_count,missing_percent,excluded_count,valid_response_count,percent_of_valid
+Overall,Indoor facility,365,609,5,0.8210180623973727,5,604,60.43046357615894
+Overall,Outdoor public space,545,609,5,0.8210180623973727,5,604,90.23178807947019
+Overall,School or university facility,519,609,5,0.8210180623973727,5,604,85.9271523178808
+Overall,Community recreation facility,432,609,5,0.8210180623973727,5,604,71.52317880794702
+Overall,Private sports facility,414,609,5,0.8210180623973727,5,604,68.54304635761589
+Overall,At home or nearby,256,609,5,0.8210180623973727,5,604,42.384105960264904
+Overall,Others,64,609,5,0.8210180623973727,5,604,10.596026490066226

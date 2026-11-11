@@ -1,0 +1,5 @@
+﻿scope,total_count,blank_count,nonblank_missing_count,usable_count,selected_matched_count,unmatched_count
+Overall,609,8,26,575,560,15
+Baseball,203,3,11,189,187,2
+Basketball,203,4,12,187,181,6
+Soccer,203,1,3,199,192,7

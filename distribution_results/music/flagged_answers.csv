@@ -1,0 +1,16 @@
+﻿csv_row,id,label,raw_answer,reason
+42,19,Baseball,"Pop,Rock,Hip-hop or rap,Country,Latin,Other,No particular type",No particular type with another option; retained in primary summaries
+76,35,Basketball,"Pop,No particular type",No particular type with another option; retained in primary summaries
+144,72,Baseball,"Country,No particular type",No particular type with another option; retained in primary summaries
+152,75,Soccer,"Pop,Hip-hop or rap,No particular type",No particular type with another option; retained in primary summaries
+167,82,Soccer,"Electronic or dance,No particular type",No particular type with another option; retained in primary summaries
+245,118,Soccer,"Other,No particular type",No particular type with another option; retained in primary summaries
+267,126,Baseball,"Country,Folk or traditional,No particular type",No particular type with another option; retained in primary summaries
+284,132,Soccer,"Pop,Folk or traditional,No particular type",No particular type with another option; retained in primary summaries
+285,132,Baseball,"Pop,Hip-hop or rap,No particular type",No particular type with another option; retained in primary summaries
+336,155,Baseball,"Pop,Rock,No particular type",No particular type with another option; retained in primary summaries
+357,166,Baseball,"Pop,No particular type",No particular type with another option; retained in primary summaries
+358,166,Basketball,"Hip-hop or rap,No particular type",No particular type with another option; retained in primary summaries
+443,208,Soccer,"Pop,Hip-hop or rap,No particular type",No particular type with another option; retained in primary summaries
+489,230,Baseball,"Hip-hop or rap,Other,No particular type",No particular type with another option; retained in primary summaries
+490,230,Basketball,"Hip-hop or rap,Classical or jazz,Folk or traditional,Other,No particular type",No particular type with another option; retained in primary summaries

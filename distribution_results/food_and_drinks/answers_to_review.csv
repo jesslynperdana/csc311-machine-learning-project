@@ -1,0 +1,22 @@
+﻿csv_row,id,label,raw_answer,matched_foods,reason
+17,10,Soccer,Sausage Rolls ,,"No selected-category match; retained in the percentage denominator, not treated as missing"
+48,22,Baseball,"Cigarettes, Chewing Tobacco, Gum, Beer",Beer | Gum,Non-food items present; those items are not mapped to foods
+76,35,Basketball,Any food,,"No selected-category match; retained in the percentage denominator, not treated as missing"
+130,64,Basketball,Donuts,,"No selected-category match; retained in the percentage denominator, not treated as missing"
+146,73,Soccer,"This sport is relatively less popular at the highest level, and smaller youth or recreational leagues are more common. In these settings sugary drinks and snacks are common.",,"No selected-category match; retained in the percentage denominator, not treated as missing"
+164,80,Soccer,"phonk music, taco, fish and chips",,"No selected-category match; retained in the percentage denominator, not treated as missing"
+173,85,Soccer,Scran,,"No selected-category match; retained in the percentage denominator, not treated as missing"
+212,104,Soccer,Drink tea and smoke shisha,Tea,Non-food items present; those items are not mapped to foods
+217,106,Basketball,quick snacks ,,"No selected-category match; retained in the percentage denominator, not treated as missing"
+236,114,Soccer,Alcohol,,"No selected-category match; retained in the percentage denominator, not treated as missing"
+268,126,Basketball,Takeout/Doordash anything,,"No selected-category match; retained in the percentage denominator, not treated as missing"
+282,131,Baseball,Pub food,,"No selected-category match; retained in the percentage denominator, not treated as missing"
+283,131,Basketball,Pub food,,"No selected-category match; retained in the percentage denominator, not treated as missing"
+304,140,Basketball,Classic arena food staples.,,"No selected-category match; retained in the percentage denominator, not treated as missing"
+339,157,Baseball,"Beer, Hotdogs, Pizza, Nachos, Zonnic",Beer | Hot dog | Nachos | Pizza,Non-food items present; those items are not mapped to foods
+398,189,Soccer,Bear,,"No selected-category match; retained in the percentage denominator, not treated as missing; Ambiguous wording; no automatic correction"
+458,217,Soccer,"Power drinks, protein, carbs..",,"No selected-category match; retained in the percentage denominator, not treated as missing; Ambiguous wording; no automatic correction"
+459,217,Baseball,Takoyaki,,"No selected-category match; retained in the percentage denominator, not treated as missing"
+563,269,Soccer,"Fried Chicken, bubble tea, bear",Chicken | Tea,Ambiguous wording; no automatic correction
+564,269,Baseball,"Fried chicken, bubble tea bear",Chicken | Tea,Ambiguous wording; no automatic correction
+565,269,Basketball,"Fried chicken, hot pot, bear",Chicken,Ambiguous wording; no automatic correction

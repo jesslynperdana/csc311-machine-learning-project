@@ -1,0 +1,17 @@
+﻿color,aliases,interpretation_note,included_answer_count
+Red,red|reds|reddish|maroon|burgundy,"Includes dark red, maroon and burgundy.",124
+Orange,orange|oranges|orangish|orangeish,Includes light/dark orange through the base color word.,116
+Yellow,yellow|yellows|yellowish,Includes yellowish; gold remains separate.,24
+Green,green|greens|greenish|绿色|绿,Includes observed Chinese green wording and light/dark green.,118
+Blue,blue|blues|bluish|blueish|navy|navy blue|navy blues,Includes navy and navy blues.,145
+Purple,purple|purples|purplish|violet|lavender,Includes common purple shades.,8
+Pink,pink|pinks|pinkish,Common palette entry; may have zero observed answers.,0
+Brown,brown|browns|brownish,Includes light/dark brown; wood alone is not guessed to be brown.,39
+Black,black|blacks|blackish,Specific color word.,41
+White,white|whites|whitish,Cream remains separate.,97
+Gray,gray|grey|grays|greys|grayish|greyish,American and British spellings are merged.,4
+Gold,gold|golden,Gold and golden are merged; not grouped into yellow.,8
+Silver,silver|silvery,Common palette entry; may have zero observed answers.,0
+Beige,beige,Kept separate from brown and cream.,3
+Cream,cream,Yellowish-cream counts as Yellow and Cream.,1
+Tan,tan,Kept separate from brown and beige.,1

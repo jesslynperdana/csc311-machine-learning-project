@@ -1,0 +1,13 @@
+﻿scope,question_1,question_2,spearman_rho,paired_responses
+Overall,strategy,injury,0.28919139333814975,603
+Overall,strategy,individual,-0.19557544596347248,603
+Overall,injury,individual,-0.12144110278355197,603
+Baseball,strategy,injury,0.21648929452056556,201
+Baseball,strategy,individual,-0.2259003497098057,201
+Baseball,injury,individual,-0.08362347432480746,201
+Basketball,strategy,injury,0.3074658122893929,200
+Basketball,strategy,individual,-0.1478302262634818,200
+Basketball,injury,individual,0.0524888726533911,200
+Soccer,strategy,injury,0.23848253421379764,202
+Soccer,strategy,individual,-0.11543249077845984,202
+Soccer,injury,individual,-0.0457051365957348,202

@@ -1,0 +1,67 @@
+﻿csv_row,id,label,raw_answer,has_digits,included,amount,currency,method,reason,notes,range_lower,range_upper,iqr_outlier_within_sport
+14,9,Soccer,not really willing to,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+15,9,Baseball,not really willing to,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+16,9,Basketball,not really willing to,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+89,41,Soccer,"Usually around 100 to 200 CAD, but at most 1000 CAD if the game has player(s) I like or from my home team.",True,False,,CAD (explicit),,Multiple amounts/scenarios; no single price chosen,,,,False
+128,64,Soccer,No willing.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+129,64,Baseball,Not willing,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+130,64,Basketball,Not willing. ,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+134,67,Soccer,I would not pay to watch in person,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+135,67,Baseball,I would not pay for a [this sport] game,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+136,67,Basketball,I would not pay to watch this sport,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+137,68,Soccer,Zero. I have no any interest in team sport like [this sport],False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+138,68,Baseball,Zero. I have no interest in team sport,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+139,68,Basketball,Zero,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+146,73,Soccer,None I do not watch sports.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+147,73,Baseball,None I do not watch sports.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+148,73,Basketball,None I dont watch sports.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+170,84,Soccer,"- If it's world competition: 1000-3000 Canadian Dollars
+- Europe Leagues: 800-1500 Canadian Dollars",True,False,,CAD (explicit),,Multiple amounts/scenarios; no single price chosen,,,,False
+194,94,Soccer,"I would spend $100 to scratch it off of my bucket list but good tickets to major games/events can go for $10,000+.",True,False,,CAD (assumed),,Multiple amounts without one unambiguous range,,,,False
+287,134,Soccer,Hundreds of dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+288,134,Baseball,Hundreds of dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+289,134,Basketball,Hundreds of dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+308,142,Soccer,Unwilling,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+309,142,Baseball,Unwilling,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+310,142,Basketball,Unwilling,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+392,186,Soccer,"除非我的国家队晋级[a competition]，否则我不会花一美元——在这种情况下，我愿意支付的金额等于票价乘以几乎为零的概率。
+
+（但我运气好得有点奇怪，很多我认为完全不可能的事情都发生了——比如绿洲乐队重组。所以，概率或许并非为零。）",False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+393,186,Baseball,"I won't go see the game, but if I absolutely have to, I'll pay the regular price—or even a discounted one.",False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+394,186,Basketball,"The tickets are way too hard to grab, so forget it—none of my friends even play [this sport] anyway.",False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+413,196,Soccer,not too much,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+414,196,Baseball,not too much,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+415,196,Basketball,not too much,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+443,208,Soccer,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+444,208,Baseball,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+445,208,Basketball,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+458,217,Soccer,Nothing,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+459,217,Baseball,Nothing,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+460,217,Basketball,1€,True,False,,Explicit non-CAD currency,,Foreign currency; excluded from the CAD summary without conversion,,,,False
+464,221,Soccer,1 to 10 scale i will put a 2 as the ticket price is too high and i prefer to watch it online instead of in person.,True,False,,CAD (assumed),,Rating scale rather than a ticket amount,,,,False
+465,221,Baseball,1 to 10 scale i will choose 2 since im a person that enjoy watching sports online,True,False,,CAD (assumed),,Rating scale rather than a ticket amount,,,,False
+466,221,Basketball,1 to 10 scale probably 1,True,False,,CAD (assumed),,Rating scale rather than a ticket amount,,,,False
+479,226,Soccer,"Depends on the game, a big final $1000
+
+A normal but good game $200",True,False,,CAD (assumed),,Multiple amounts without one unambiguous range,,,,False
+485,228,Soccer,Thirty dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+486,228,Baseball,Twenty five dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+487,228,Basketball,Forty five dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+510,241,Baseball,I wouldnt pay for this sport as I don't enjoy it,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+533,253,Soccer,None,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+534,253,Baseball,None,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+539,258,Soccer,,False,False,,CAD (assumed),,Blank answer,,,,False
+540,258,Baseball,,False,False,,CAD (assumed),,Blank answer,,,,False
+541,258,Basketball,,False,False,,CAD (assumed),,Blank answer,,,,False
+558,267,Baseball,,False,False,,CAD (assumed),,Blank answer,,,,False
+559,267,Basketball,,False,False,,CAD (assumed),,Blank answer,,,,False
+572,273,Soccer,"$200, $500 for a great game",True,False,,CAD (assumed),,Multiple amounts without one unambiguous range,,,,False
+575,275,Soccer,Somewhat willing,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+576,275,Baseball,Very willing as most action is in one place,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+577,275,Basketball,Very willing,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+581,278,Soccer,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+582,278,Baseball,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+583,278,Basketball,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+602,285,Soccer,You need to pay me to sit there.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+603,285,Baseball,You need to pay me to sit there.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+604,285,Basketball,You need to pay me to sit there.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False

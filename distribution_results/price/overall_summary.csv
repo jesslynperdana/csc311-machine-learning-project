@@ -1,0 +1,2 @@
+﻿scope,total_count,included_count,excluded_count,no_digit_count,no_digit_percent,blank_count,numeric_but_excluded_count,range_midpoint_count,zero_count,zero_percent_of_included,mean,median,std,q25,q75,min,max,iqr_lower_fence,iqr_upper_fence,iqr_outlier_count
+Overall,609,548,61,52,8.538587848932677,5,9,35,36,6.569343065693431,283.75182481751824,100.0,744.3026161219312,50.0,250.0,0.0,10000.0,-250.0,550.0,47
