@@ -1,0 +1,840 @@
+﻿csv_row,id,label,raw_answer,feeling,matched_phrases
+2,2,Soccer,"Excited, on-edge, anxious",Excited,excited
+2,2,Soccer,"Excited, on-edge, anxious",Tense / anxious,anxious | on edge
+3,2,Baseball,"Patient, stressed, happy",Calm / relaxed,patient
+3,2,Baseball,"Patient, stressed, happy",Tense / anxious,stressed
+3,2,Baseball,"Patient, stressed, happy",Happy / joyful,happy
+4,2,Basketball,"Relaxed, excited, impressed",Calm / relaxed,relaxed
+4,2,Basketball,"Relaxed, excited, impressed",Excited,excited
+4,2,Basketball,"Relaxed, excited, impressed",Impressed / amazed,impressed
+6,5,Baseball,Bored,Bored,bored
+7,5,Basketball,Bored,Bored,bored
+8,6,Soccer,Excited,Excited,excited
+9,6,Baseball,Excited,Excited,excited
+10,6,Basketball,Excited,Excited,excited
+11,7,Soccer,"Intense, excited",Energetic / intense,intense
+11,7,Soccer,"Intense, excited",Excited,excited
+12,7,Baseball,"Fun, calm, peaceful ",Entertained,fun
+12,7,Baseball,"Fun, calm, peaceful ",Calm / relaxed,calm | peaceful
+13,7,Basketball,"Thrilled, Focused",Excited,thrilled
+13,7,Basketball,"Thrilled, Focused",Focused / analytical,focused
+14,9,Soccer,indifferent,Neutral / indifferent,indifferent
+15,9,Baseball,a bit excited,Excited,excited
+16,9,Basketball,indifferent,Neutral / indifferent,indifferent
+17,10,Soccer,Excited,Excited,excited
+18,10,Baseball,Indifferent,Neutral / indifferent,indifferent
+19,10,Basketball,Nervous,Tense / anxious,nervous
+20,11,Soccer,feeling passionate,Passionate,passionate
+22,11,Basketball,passionate,Passionate,passionate
+23,12,Soccer,Excited,Excited,excited
+24,12,Baseball,Intrigued,Interested / engaged,intrigued
+25,12,Basketball,Interested/Intrigued,Interested / engaged,interested | intrigued
+26,14,Soccer,Excited,Excited,excited
+27,14,Baseball,Neutral,Neutral / indifferent,neutral
+28,14,Basketball,Excited,Excited,excited
+29,15,Soccer,Entertained,Entertained,entertained
+30,15,Baseball,Bored,Bored,bored
+31,15,Basketball,Excited,Excited,excited
+32,16,Soccer,Excited and Focused,Excited,excited
+32,16,Soccer,Excited and Focused,Focused / analytical,focused
+33,16,Baseball,Happy,Happy / joyful,happy
+34,16,Basketball,Excited and Happy,Excited,excited
+34,16,Basketball,Excited and Happy,Happy / joyful,happy
+35,17,Soccer,"I usually feel excited and tense, especially when the score is close. The atmosphere can become very emotional because a single moment may completely change the result.",Excited,excited
+35,17,Soccer,"I usually feel excited and tense, especially when the score is close. The atmosphere can become very emotional because a single moment may completely change the result.",Tense / anxious,tense
+35,17,Soccer,"I usually feel excited and tense, especially when the score is close. The atmosphere can become very emotional because a single moment may completely change the result.",Emotional,emotional
+36,17,Baseball,"I usually feel relaxed and patient, but the important moments can suddenly become very tense and exciting. I also enjoy the social atmosphere and the anticipation before each play.",Calm / relaxed,patient | relaxed
+36,17,Baseball,"I usually feel relaxed and patient, but the important moments can suddenly become very tense and exciting. I also enjoy the social atmosphere and the anticipation before each play.",Tense / anxious,tense
+36,17,Baseball,"I usually feel relaxed and patient, but the important moments can suddenly become very tense and exciting. I also enjoy the social atmosphere and the anticipation before each play.",Excited,exciting
+36,17,Baseball,"I usually feel relaxed and patient, but the important moments can suddenly become very tense and exciting. I also enjoy the social atmosphere and the anticipation before each play.",Entertained,enjoy
+36,17,Baseball,"I usually feel relaxed and patient, but the important moments can suddenly become very tense and exciting. I also enjoy the social atmosphere and the anticipation before each play.",Anticipatory / suspenseful,anticipation
+37,17,Basketball,I usually feel energized and excited because the action moves quickly and the score can change within seconds. Close games make me feel especially tense near the end.,Energetic / intense,energized
+37,17,Basketball,I usually feel energized and excited because the action moves quickly and the score can change within seconds. Close games make me feel especially tense near the end.,Excited,excited
+37,17,Basketball,I usually feel energized and excited because the action moves quickly and the score can change within seconds. Close games make me feel especially tense near the end.,Tense / anxious,tense
+38,18,Soccer,Excited,Excited,excited
+39,18,Baseball,Boring,Bored,boring
+40,18,Basketball,Kinda interesting,Interested / engaged,interesting
+41,19,Soccer,"Excited, nervous, engagement, passion and a strong sense of belonging",Excited,excited
+41,19,Soccer,"Excited, nervous, engagement, passion and a strong sense of belonging",Tense / anxious,nervous
+41,19,Soccer,"Excited, nervous, engagement, passion and a strong sense of belonging",Interested / engaged,engagement
+41,19,Soccer,"Excited, nervous, engagement, passion and a strong sense of belonging",Passionate,passion
+41,19,Soccer,"Excited, nervous, engagement, passion and a strong sense of belonging",Connected,sense of belonging
+42,19,Baseball,"Nervous, anticipation, excited",Tense / anxious,nervous
+42,19,Baseball,"Nervous, anticipation, excited",Anticipatory / suspenseful,anticipation
+42,19,Baseball,"Nervous, anticipation, excited",Excited,excited
+43,19,Basketball,"Excited, nervous, full of energy, engaged.",Excited,excited
+43,19,Basketball,"Excited, nervous, full of energy, engaged.",Tense / anxious,nervous
+43,19,Basketball,"Excited, nervous, full of energy, engaged.",Energetic / intense,full of energy
+43,19,Basketball,"Excited, nervous, full of energy, engaged.",Interested / engaged,engaged
+44,21,Soccer,"A part of something bigger, both in terms of the community and fans, and in terms of the beauty and variety of the styles of play you can get exposed to while watching",Connected,a part of something bigger
+45,21,Baseball,"Amazed at the precision required and how long games can last, also a bit confused about how the scoring works or what the jargon means ",Impressed / amazed,amazed
+45,21,Baseball,"Amazed at the precision required and how long games can last, also a bit confused about how the scoring works or what the jargon means ",Confused,confused
+46,21,Basketball,"High energy because of the fast movement and the strategy the teams employ, I don't like that there are frequent breaks in the flow of the game though",Energetic / intense,high energy
+47,22,Soccer,Excited,Excited,excited
+48,22,Baseball,Bored,Bored,bored
+49,22,Basketball,Excited,Excited,excited
+50,23,Soccer,burst of excitments,Excited,excitments
+51,23,Baseball,Excited and small excitements throughout. Some big excitements at the end or close match.,Excited,excited | excitements
+52,23,Basketball,Excited throughout. Some big excitements when in a close match.,Excited,excited | excitements
+53,24,Soccer,"Excited, energetic, invested. ",Excited,excited
+53,24,Soccer,"Excited, energetic, invested. ",Energetic / intense,energetic
+53,24,Soccer,"Excited, energetic, invested. ",Interested / engaged,invested
+54,24,Baseball,"Bored, really bored, unattentive. ",Bored,bored
+54,24,Baseball,"Bored, really bored, unattentive. ",Uninterested,unattentive
+55,24,Basketball,"Comfortable, amused. ",Calm / relaxed,comfortable
+55,24,Basketball,"Comfortable, amused. ",Entertained,amused
+56,26,Soccer,"Excitement, Nervousness",Excited,excitement
+56,26,Soccer,"Excitement, Nervousness",Tense / anxious,nervousness
+57,26,Baseball,"Excitement, Nervousness",Excited,excitement
+57,26,Baseball,"Excitement, Nervousness",Tense / anxious,nervousness
+58,26,Basketball,"Excitement, Nervousness",Excited,excitement
+58,26,Basketball,"Excitement, Nervousness",Tense / anxious,nervousness
+59,29,Soccer,I feel excited and tense during important matches,Excited,excited
+59,29,Soccer,I feel excited and tense during important matches,Tense / anxious,tense
+60,29,Baseball,I feel relaxed ,Calm / relaxed,relaxed
+61,29,Basketball,"I feel engaged, energetic, and excited throughout the game.",Interested / engaged,engaged
+61,29,Basketball,"I feel engaged, energetic, and excited throughout the game.",Energetic / intense,energetic
+61,29,Basketball,"I feel engaged, energetic, and excited throughout the game.",Excited,excited
+62,30,Soccer,neutral,Neutral / indifferent,neutral
+63,30,Baseball, neutral,Neutral / indifferent,neutral
+64,30,Basketball,good,Happy / joyful,good (direct feeling)
+65,32,Soccer,Powerful and excited,Excited,excited
+66,32,Baseball,Bored,Bored,bored
+67,32,Basketball,Excited,Excited,excited
+68,33,Soccer,Excited,Excited,excited
+69,33,Baseball,Anxious,Tense / anxious,anxious
+70,33,Basketball,Ecstatic,Excited,ecstatic
+71,34,Soccer,Electric,Energetic / intense,electric
+73,34,Basketball,Engaged,Interested / engaged,engaged
+74,35,Soccer,Excited,Excited,excited
+75,35,Baseball,Excited,Excited,excited
+76,35,Basketball,Thrilling,Excited,thrilling
+77,36,Soccer,I am very interested and enjoy watching the matches.,Interested / engaged,interested
+77,36,Soccer,I am very interested and enjoy watching the matches.,Entertained,enjoy
+78,36,Baseball,"I feel fairly neutral when watching, partly because I do not understand the game very well.",Neutral / indifferent,neutral
+79,36,Basketball,"I feel fairly neutral when watching, partly because I do not understand the game very well.",Neutral / indifferent,neutral
+80,37,Soccer,exictement,Excited,exictement
+81,37,Baseball,excitement,Excited,excitement
+82,37,Basketball,excitement,Excited,excitement
+83,38,Soccer,"I get tense during close games, then really excited when a chance turns into a goal.",Tense / anxious,tense
+83,38,Soccer,"I get tense during close games, then really excited when a chance turns into a goal.",Excited,excited
+84,38,Baseball,"Mostly relaxed, with sudden bursts of excitement when the ball is hit hard or a runner heads home.",Calm / relaxed,relaxed
+84,38,Baseball,"Mostly relaxed, with sudden bursts of excitement when the ball is hit hard or a runner heads home.",Excited,excitement
+85,38,Basketball,"The quick changes in momentum keep me engaged, especially late in a close game.",Interested / engaged,engaged
+86,40,Soccer,Excited,Excited,excited
+87,40,Baseball,Captivated,Interested / engaged,captivated
+88,40,Basketball,Neutral,Neutral / indifferent,neutral
+89,41,Soccer,Excitement with constant tension that grows toward the finish,Excited,excitement
+89,41,Soccer,Excitement with constant tension that grows toward the finish,Tense / anxious,tension
+90,41,Baseball,"Mostly calm, with sudden tense moments",Calm / relaxed,calm
+90,41,Baseball,"Mostly calm, with sudden tense moments",Tense / anxious,tense
+91,41,Basketball,Rapid excitement ,Excited,excitement
+92,42,Soccer,not my type,Uninterested,not my type
+93,42,Baseball,not my type,Uninterested,not my type
+94,42,Basketball,not my type,Uninterested,not my type
+96,43,Baseball,Excited,Excited,excited
+97,43,Basketball,neutral,Neutral / indifferent,neutral
+98,44,Soccer,Excitement and joy! ,Excited,excitement
+98,44,Soccer,Excitement and joy! ,Happy / joyful,joy
+99,44,Baseball,"Excitement that hits in sudden, electric bursts when a deep drive sends the outfielders sprinting to the wall or a close play at home plate hangs in the balance.",Excited,excitement
+99,44,Baseball,"Excitement that hits in sudden, electric bursts when a deep drive sends the outfielders sprinting to the wall or a close play at home plate hangs in the balance.",Energetic / intense,electric
+100,44,Basketball,"Watching [this sport] on TV always gives me a sudden jolt of pure adrenaline. Sitting on my couch, I find myself completely locked into the screen as the ball flies back and forth with zero room for error. My heart races during those intense, fast-paced transitions, and I can't help but lean forward every time someone drives down the lane or pulls up for a deep three-pointer.",Energetic / intense,adrenaline | intense
+100,44,Basketball,"Watching [this sport] on TV always gives me a sudden jolt of pure adrenaline. Sitting on my couch, I find myself completely locked into the screen as the ball flies back and forth with zero room for error. My heart races during those intense, fast-paced transitions, and I can't help but lean forward every time someone drives down the lane or pulls up for a deep three-pointer.",Focused / analytical,locked into
+101,45,Soccer,invigorated and entertained,Energetic / intense,invigorated
+101,45,Soccer,invigorated and entertained,Entertained,entertained
+102,45,Baseball,Relaxed and happy,Calm / relaxed,relaxed
+102,45,Baseball,Relaxed and happy,Happy / joyful,happy
+103,45,Basketball,Intense and powerful,Energetic / intense,intense
+104,46,Soccer,Excited and Immersed,Excited,excited
+104,46,Soccer,Excited and Immersed,Interested / engaged,immersed
+105,46,Baseball,Neutral,Neutral / indifferent,neutral
+106,46,Basketball,Energized,Energetic / intense,energized
+107,49,Soccer,stressed,Tense / anxious,stressed
+108,49,Baseball,bored,Bored,bored
+109,49,Basketball,excited,Excited,excited
+110,50,Soccer,"entertained, excited, happy",Entertained,entertained
+110,50,Soccer,"entertained, excited, happy",Excited,excited
+110,50,Soccer,"entertained, excited, happy",Happy / joyful,happy
+111,50,Baseball,bored,Bored,bored
+112,50,Basketball,"entertained, excited",Entertained,entertained
+112,50,Basketball,"entertained, excited",Excited,excited
+113,53,Soccer,excited,Excited,excited
+114,53,Baseball,excited,Excited,excited
+115,53,Basketball,Excited,Excited,excited
+116,54,Soccer,ecstatic,Excited,ecstatic
+117,54,Baseball,"Relaxed and entertained, with moments of excitement and anticipation when the action picks up.",Calm / relaxed,relaxed
+117,54,Baseball,"Relaxed and entertained, with moments of excitement and anticipation when the action picks up.",Entertained,entertained
+117,54,Baseball,"Relaxed and entertained, with moments of excitement and anticipation when the action picks up.",Excited,excitement
+117,54,Baseball,"Relaxed and entertained, with moments of excitement and anticipation when the action picks up.",Anticipatory / suspenseful,anticipation
+118,54,Basketball,"Excited and engaged, especially during close games and fast-paced moments.",Excited,excited
+118,54,Basketball,"Excited and engaged, especially during close games and fast-paced moments.",Interested / engaged,engaged
+119,56,Soccer,Cheerful,Happy / joyful,cheerful
+120,56,Baseball,Bored,Bored,bored
+121,56,Basketball,Excited,Excited,excited
+122,58,Soccer,Excited and energetic.,Excited,excited
+122,58,Soccer,Excited and energetic.,Energetic / intense,energetic
+123,58,Baseball,Relaxed but focused and a bit tense sometimes.,Calm / relaxed,relaxed
+123,58,Baseball,Relaxed but focused and a bit tense sometimes.,Focused / analytical,focused
+123,58,Baseball,Relaxed but focused and a bit tense sometimes.,Tense / anxious,tense
+124,58,Basketball,Energetic and intense.,Energetic / intense,energetic | intense
+125,60,Soccer,"Excited, joyful",Excited,excited
+125,60,Soccer,"Excited, joyful",Happy / joyful,joyful
+126,60,Baseball,Bored,Bored,bored
+127,60,Basketball,"Excited, happy, anxious, sad",Excited,excited
+127,60,Basketball,"Excited, happy, anxious, sad",Happy / joyful,happy
+127,60,Basketball,"Excited, happy, anxious, sad",Tense / anxious,anxious
+127,60,Basketball,"Excited, happy, anxious, sad",Sad / disappointed,sad
+129,64,Baseball,Confusions,Confused,confusions
+130,64,Basketball,"Cool, but will be tired very quickly. ",Tired / sleepy,tired
+131,66,Soccer,Energetic,Energetic / intense,energetic
+132,66,Baseball,Bored,Bored,bored
+133,66,Basketball,"Energetic, inspired, moved",Energetic / intense,energetic
+133,66,Basketball,"Energetic, inspired, moved",Motivated / inspired,inspired | moved
+134,67,Soccer,somewhat interested and paying attention,Interested / engaged,interested
+134,67,Soccer,somewhat interested and paying attention,Focused / analytical,paying attention
+135,67,Baseball,probably bored and not interested,Bored,bored
+135,67,Baseball,probably bored and not interested,Uninterested,negated interested
+136,67,Basketball,bored and not interested,Bored,bored
+136,67,Basketball,bored and not interested,Uninterested,negated interested
+137,68,Soccer,"Boring. I seldom watching it, even the [a competition]",Bored,boring
+139,68,Basketball,Monotonous,Bored,monotonous
+140,70,Soccer,Excited,Excited,excited
+141,70,Baseball,Exhilarated,Excited,exhilarated
+142,70,Basketball,Giddy,Excited,giddy
+143,72,Soccer,"sometimes boring, exciting on nice moves/goals, angry about fouls/misjudges",Bored,boring
+143,72,Soccer,"sometimes boring, exciting on nice moves/goals, angry about fouls/misjudges",Excited,exciting
+143,72,Soccer,"sometimes boring, exciting on nice moves/goals, angry about fouls/misjudges",Angry / frustrated,angry
+145,72,Basketball,exciting,Excited,exciting
+146,73,Soccer,Bored because of the large teams and relatively smaller individual opportunities. Highlights are something else though.,Bored,bored
+149,74,Soccer,Energized,Energetic / intense,energized
+150,74,Baseball,Neutral,Neutral / indifferent,neutral
+151,74,Basketball,Energized,Energetic / intense,energized
+152,75,Soccer,Excited,Excited,excited
+154,75,Basketball,Excited,Excited,excited
+155,77,Soccer,"Peaceful, mostly bored",Calm / relaxed,peaceful
+155,77,Soccer,"Peaceful, mostly bored",Bored,bored
+156,77,Baseball,Suspenseful,Anticipatory / suspenseful,suspenseful
+157,77,Basketball,Bored,Bored,bored
+158,78,Soccer,Excited,Excited,excited
+159,78,Baseball,Suspenseful,Anticipatory / suspenseful,suspenseful
+160,78,Basketball,Bored,Bored,bored
+161,79,Soccer,I feel kind of bored. The sport is really slow and I usually think while watching the sport that I want to do something else.,Bored,bored
+162,79,Baseball,I feel indifferent. I think at first I feel more excitement than boredom but towards the end I am quite bored.,Neutral / indifferent,indifferent
+162,79,Baseball,I feel indifferent. I think at first I feel more excitement than boredom but towards the end I am quite bored.,Excited,excitement
+162,79,Baseball,I feel indifferent. I think at first I feel more excitement than boredom but towards the end I am quite bored.,Bored,bored | boredom
+163,79,Basketball,I feel quite happy and excited. It's fun watching with my cousins and the community is really nice.,Happy / joyful,happy
+163,79,Basketball,I feel quite happy and excited. It's fun watching with my cousins and the community is really nice.,Excited,excited
+163,79,Basketball,I feel quite happy and excited. It's fun watching with my cousins and the community is really nice.,Entertained,fun
+164,80,Soccer,excited,Excited,excited
+165,80,Baseball,patience,Calm / relaxed,patience
+166,80,Basketball,happy,Happy / joyful,happy
+167,82,Soccer,"Neutral, I used to be excited when I was a kid but no longer.",Neutral / indifferent,neutral
+168,82,Baseball,world series was super exciting,Excited,exciting
+170,84,Soccer,"- Excited
+- Nervous 
+- Happy if the team I'm rooting for is winning
+- Sad if the team I'm rooting for is losing
+- Angry if the team I'm rooting for is losing",Excited,excited
+170,84,Soccer,"- Excited
+- Nervous 
+- Happy if the team I'm rooting for is winning
+- Sad if the team I'm rooting for is losing
+- Angry if the team I'm rooting for is losing",Tense / anxious,nervous
+170,84,Soccer,"- Excited
+- Nervous 
+- Happy if the team I'm rooting for is winning
+- Sad if the team I'm rooting for is losing
+- Angry if the team I'm rooting for is losing",Happy / joyful,happy
+170,84,Soccer,"- Excited
+- Nervous 
+- Happy if the team I'm rooting for is winning
+- Sad if the team I'm rooting for is losing
+- Angry if the team I'm rooting for is losing",Sad / disappointed,sad
+170,84,Soccer,"- Excited
+- Nervous 
+- Happy if the team I'm rooting for is winning
+- Sad if the team I'm rooting for is losing
+- Angry if the team I'm rooting for is losing",Angry / frustrated,angry
+171,84,Baseball,I personally feel really bored but there a large base of dedicated fans for this sports.,Bored,bored
+172,84,Basketball,Excited and joyful. Nervous anticipation towards the end.,Excited,excited
+172,84,Basketball,Excited and joyful. Nervous anticipation towards the end.,Happy / joyful,joyful
+172,84,Basketball,Excited and joyful. Nervous anticipation towards the end.,Tense / anxious,nervous
+172,84,Basketball,Excited and joyful. Nervous anticipation towards the end.,Anticipatory / suspenseful,anticipation
+173,85,Soccer,Neutral,Neutral / indifferent,neutral
+174,85,Baseball,Excited,Excited,excited
+175,85,Basketball,Excited,Excited,excited
+178,86,Basketball,neutral,Neutral / indifferent,neutral
+179,87,Soccer,Nervous and excited,Tense / anxious,nervous
+179,87,Soccer,Nervous and excited,Excited,excited
+180,87,Baseball,Bored,Bored,bored
+181,87,Basketball,"Excited, jittery, and glued to the game",Excited,excited
+181,87,Basketball,"Excited, jittery, and glued to the game",Tense / anxious,jittery
+181,87,Basketball,"Excited, jittery, and glued to the game",Interested / engaged,glued to the game
+182,88,Soccer,Excited,Excited,excited
+183,88,Baseball,Boring,Bored,boring
+184,88,Basketball,Excitement and joy,Excited,excitement
+184,88,Basketball,Excitement and joy,Happy / joyful,joy
+185,89,Soccer,Excited,Excited,excited
+186,89,Baseball,Excited,Excited,excited
+187,89,Basketball,Excited,Excited,excited
+188,91,Soccer,Excited,Excited,excited
+189,91,Baseball,Bored,Bored,bored
+190,91,Basketball,Excited,Excited,excited
+191,92,Soccer,"Most moments are slow, so I feel like I have the time to be analytical. Then the exciting moments, which happen in just a few seconds, have me on the edge of my seat.",Focused / analytical,analytical
+191,92,Soccer,"Most moments are slow, so I feel like I have the time to be analytical. Then the exciting moments, which happen in just a few seconds, have me on the edge of my seat.",Excited,exciting
+191,92,Soccer,"Most moments are slow, so I feel like I have the time to be analytical. Then the exciting moments, which happen in just a few seconds, have me on the edge of my seat.",Tense / anxious,on the edge of my seat
+192,92,Baseball,"Bored. Very slow, and famous for being slow. Not as slow as a certain other spot I could name, but pretty damn slow.",Bored,bored
+194,94,Soccer,"I tend to feel bored due to the long, low scoring games with few breaks. I'm from a culture where the sport is popular but growing up in Canada, I never really had an interest. Given the international nature of the sport, it is also a little more difficult for me to connect with the athletes personalities because they often do not speak English.",Bored,bored
+194,94,Soccer,"I tend to feel bored due to the long, low scoring games with few breaks. I'm from a culture where the sport is popular but growing up in Canada, I never really had an interest. Given the international nature of the sport, it is also a little more difficult for me to connect with the athletes personalities because they often do not speak English.",Uninterested,never really had an interest
+195,94,Baseball,"This sport can be very exciting at the very end of a game, at the very end of a season. Otherwise, the games are quite long and inconsequential because there are so many of them. That being said, when a game is high stakes, the swinging nature of the games scoring can cause exciting comeback moments.",Excited,exciting
+196,94,Basketball,"I often feel exhilarated by the sports faster pace. There is an element of risk to the sport that makes it more exciting moment to moment. I also identify with more of the personalities in the sport leading me to be more invested in each game. The sport also influences a lot of North American culture, producing memes, and fashion trends. It is also not uncommon to see celebrities attend games and get excited about the results. ",Excited,excited | exciting | exhilarated
+196,94,Basketball,"I often feel exhilarated by the sports faster pace. There is an element of risk to the sport that makes it more exciting moment to moment. I also identify with more of the personalities in the sport leading me to be more invested in each game. The sport also influences a lot of North American culture, producing memes, and fashion trends. It is also not uncommon to see celebrities attend games and get excited about the results. ",Interested / engaged,invested
+197,95,Soccer,passionate,Passionate,passionate
+198,95,Baseball,frenetic,Energetic / intense,frenetic
+199,95,Basketball,passinate,Passionate,passinate
+200,96,Soccer,"Excited, Thrilled",Excited,excited | thrilled
+201,96,Baseball,Bored,Bored,bored
+202,96,Basketball,Excited ,Excited,excited
+203,98,Soccer,excited and someitmes angry ,Excited,excited
+203,98,Soccer,excited and someitmes angry ,Angry / frustrated,angry
+204,98,Baseball,sleepy,Tired / sleepy,sleepy
+205,98,Basketball,excited,Excited,excited
+206,100,Soccer,"Anticipation, tension, collective euphoria, heartbreak, sometimes bored.",Anticipatory / suspenseful,anticipation
+206,100,Soccer,"Anticipation, tension, collective euphoria, heartbreak, sometimes bored.",Tense / anxious,tension
+206,100,Soccer,"Anticipation, tension, collective euphoria, heartbreak, sometimes bored.",Excited,euphoria
+206,100,Soccer,"Anticipation, tension, collective euphoria, heartbreak, sometimes bored.",Sad / disappointed,heartbreak
+206,100,Soccer,"Anticipation, tension, collective euphoria, heartbreak, sometimes bored.",Bored,bored
+207,100,Baseball,"Meditative, Conversational Cadence, Granular, High-Stakes Chess, Analytical Anticipation.",Calm / relaxed,meditative
+207,100,Baseball,"Meditative, Conversational Cadence, Granular, High-Stakes Chess, Analytical Anticipation.",Focused / analytical,analytical
+207,100,Baseball,"Meditative, Conversational Cadence, Granular, High-Stakes Chess, Analytical Anticipation.",Anticipatory / suspenseful,anticipation
+208,100,Basketball,"Exhilarating, high-tempo rhythm of momentum swings, constant visual stimulation.",Excited,exhilarating
+209,103,Soccer,Tense,Tense / anxious,tense
+210,103,Baseball,Excited,Excited,excited
+211,103,Basketball,Entertained,Entertained,entertained
+212,104,Soccer,"Excited, Happy, Anxious",Excited,excited
+212,104,Soccer,"Excited, Happy, Anxious",Happy / joyful,happy
+212,104,Soccer,"Excited, Happy, Anxious",Tense / anxious,anxious
+213,104,Baseball,Bored,Bored,bored
+214,104,Basketball,"Overwhelmed, confused, but engaged",Scared / overwhelmed,overwhelmed
+214,104,Basketball,"Overwhelmed, confused, but engaged",Confused,confused
+214,104,Basketball,"Overwhelmed, confused, but engaged",Interested / engaged,engaged
+215,106,Soccer,very exciting.,Excited,exciting
+216,106,Baseball,somewhat exciting.,Excited,exciting
+217,106,Basketball,good,Happy / joyful,good (direct feeling)
+218,107,Soccer,Excited,Excited,excited
+219,107,Baseball,Bored,Bored,bored
+220,107,Basketball,Energized,Energetic / intense,energized
+221,108,Soccer,Very bored as things happen slow and over extended periods of time,Bored,bored
+223,108,Basketball,"Excited, Fun, Joyed",Excited,excited
+223,108,Basketball,"Excited, Fun, Joyed",Entertained,fun
+223,108,Basketball,"Excited, Fun, Joyed",Happy / joyful,joyed
+224,109,Soccer,Emotional,Emotional,emotional
+225,109,Baseball,Confused,Confused,confused
+226,109,Basketball,Energetic,Energetic / intense,energetic
+227,110,Soccer,"excited, pray, anxious",Excited,excited
+227,110,Soccer,"excited, pray, anxious",Tense / anxious,anxious
+228,110,Baseball,"confuse, disappointed",Confused,confuse
+228,110,Baseball,"confuse, disappointed",Sad / disappointed,disappointed
+229,110,Basketball,"anxious, excited",Tense / anxious,anxious
+229,110,Basketball,"anxious, excited",Excited,excited
+230,111,Soccer,motivated,Motivated / inspired,motivated
+231,111,Baseball,neutral,Neutral / indifferent,neutral
+232,111,Basketball,foucsed,Focused / analytical,foucsed
+233,112,Soccer,excited and nervous,Excited,excited
+233,112,Soccer,excited and nervous,Tense / anxious,nervous
+234,112,Baseball,Confused,Confused,confused
+235,112,Basketball,Bored,Bored,bored
+236,114,Soccer,Somewhat entertained,Entertained,entertained
+237,114,Baseball,Bored,Bored,bored
+238,114,Basketball,Somewhat entertained,Entertained,entertained
+239,115,Soccer,Passion,Passionate,passion
+241,115,Basketball,Passion,Passionate,passion
+242,117,Soccer,Not so interested in [this sport],Interested / engaged,interested
+243,117,Baseball,uninterested,Uninterested,uninterested
+244,117,Basketball,not interested,Uninterested,negated interested
+245,118,Soccer,happy energized,Happy / joyful,happy
+245,118,Soccer,happy energized,Energetic / intense,energized
+246,118,Baseball,bored ,Bored,bored
+247,118,Basketball,happy ,Happy / joyful,happy
+248,120,Soccer,Usually bored unless a lot of actions happen in that particular match,Bored,bored
+250,120,Basketball,Excited,Excited,excited
+251,121,Soccer,Immersed and interested,Interested / engaged,immersed | interested
+252,121,Baseball,Bored,Bored,bored
+253,121,Basketball,excitement and connected with the community,Excited,excitement
+253,121,Basketball,excitement and connected with the community,Connected,connected
+254,122,Soccer,"Intense, excitement",Energetic / intense,intense
+254,122,Soccer,"Intense, excitement",Excited,excitement
+255,122,Baseball,outbursts of excitement,Excited,excitement
+256,122,Basketball,"high energy, physical tension",Energetic / intense,high energy
+256,122,Basketball,"high energy, physical tension",Tense / anxious,tension
+257,123,Soccer,I am excited and a bit nervous when watching my local team.,Excited,excited
+257,123,Soccer,I am excited and a bit nervous when watching my local team.,Tense / anxious,nervous
+258,123,Baseball,Usually pretty bored as there is not much happening most of the time.,Bored,bored
+259,123,Basketball,Exhausted as there is a lot of action.,Tired / sleepy,exhausted
+260,124,Soccer,Excited,Excited,excited
+261,124,Baseball,Bored,Bored,bored
+263,125,Soccer,Excited,Excited,excited
+264,125,Baseball,bored,Bored,bored
+265,125,Basketball,Thrill,Excited,thrill
+266,126,Soccer,Mildly interested,Interested / engaged,interested
+267,126,Baseball,Bored,Bored,bored
+268,126,Basketball,"Excited, Engaged",Excited,excited
+268,126,Basketball,"Excited, Engaged",Interested / engaged,engaged
+269,127,Soccer,Personally I find it boring because you have to sit there for so long and it might take forever to score.,Bored,boring
+270,127,Baseball,I don't know the rules very well but it's fun to watch and learn.,Entertained,fun
+271,127,Basketball,Excited,Excited,excited
+274,128,Basketball,"I feel as though its quick, fast paced, tense, there is a main focus and star player. Lots of energy and quick bursts lots of inertia. ",Tense / anxious,tense
+274,128,Basketball,"I feel as though its quick, fast paced, tense, there is a main focus and star player. Lots of energy and quick bursts lots of inertia. ",Energetic / intense,energy
+275,129,Soccer,enthusiasm,Passionate,enthusiasm
+276,129,Baseball,nervous,Tense / anxious,nervous
+277,129,Basketball,happy,Happy / joyful,happy
+278,130,Soccer,excited,Excited,excited
+279,130,Baseball,interesting,Interested / engaged,interesting
+280,130,Basketball,scared,Scared / overwhelmed,scared
+281,131,Soccer,"Fifty percent is bored because I don't really understand the details of it, but when there is a move or a point scored, it's very exciting, especially when watching with people and you have a team you're rooting for.",Bored,bored
+281,131,Soccer,"Fifty percent is bored because I don't really understand the details of it, but when there is a move or a point scored, it's very exciting, especially when watching with people and you have a team you're rooting for.",Excited,exciting
+282,131,Baseball,"Confused most of the time because I never really learned how to play it, and it feels like there's a lot of strategy going behind the scenes that makes it more confusing. Also how the game works is kind of confusing as well.",Confused,confused | confusing
+283,131,Basketball,"Excited when they score, and somewhat interested throughout the entire game because it feels more fast paced than other sports.",Excited,excited
+283,131,Basketball,"Excited when they score, and somewhat interested throughout the entire game because it feels more fast paced than other sports.",Interested / engaged,interested
+284,132,Soccer,"Excited, nervous",Excited,excited
+284,132,Soccer,"Excited, nervous",Tense / anxious,nervous
+285,132,Baseball,"Confused, bored",Confused,confused
+285,132,Baseball,"Confused, bored",Bored,bored
+286,132,Basketball,"Excited, thrilling, impressed, enjoyed",Excited,excited | thrilling
+286,132,Basketball,"Excited, thrilling, impressed, enjoyed",Impressed / amazed,impressed
+286,132,Basketball,"Excited, thrilling, impressed, enjoyed",Entertained,enjoyed
+287,134,Soccer,Dopamine release,Energetic / intense,dopamine release
+288,134,Baseball,Dopamine release,Energetic / intense,dopamine release
+289,134,Basketball,Dopamine release,Energetic / intense,dopamine release
+291,135,Baseball,Confused,Confused,confused
+292,135,Basketball,Confused,Confused,confused
+293,136,Soccer,excited and engaged,Excited,excited
+293,136,Soccer,excited and engaged,Interested / engaged,engaged
+294,136,Baseball, relaxed and entertained ,Calm / relaxed,relaxed
+294,136,Baseball, relaxed and entertained ,Entertained,entertained
+295,136,Basketball,excited and energetic ,Excited,excited
+295,136,Basketball,excited and energetic ,Energetic / intense,energetic
+296,137,Soccer,Energized,Energetic / intense,energized
+297,137,Baseball,Bored,Bored,bored
+298,137,Basketball,Motivated ,Motivated / inspired,motivated
+299,138,Soccer,excited,Excited,excited
+301,138,Basketball,Excited,Excited,excited
+302,140,Soccer,Thrilled.,Excited,thrilled
+303,140,Baseball,"Focused, as the game demands careful attention (namely in your first few times watching it)",Focused / analytical,focused
+304,140,Basketball,Energized,Energetic / intense,energized
+305,141,Soccer,"Excited, stressful ",Excited,excited
+305,141,Soccer,"Excited, stressful ",Tense / anxious,stressful
+306,141,Baseball,Boring,Bored,boring
+307,141,Basketball,"Excited, stressed out",Excited,excited
+307,141,Basketball,"Excited, stressed out",Tense / anxious,stressed out
+308,142,Soccer,Bored,Bored,bored
+309,142,Baseball,Bored,Bored,bored
+310,142,Basketball,Excited,Excited,excited
+312,143,Baseball,Bored,Bored,bored
+313,143,Basketball,Excited,Excited,excited
+314,147,Soccer,Anxious,Tense / anxious,anxious
+315,147,Baseball,Annoyed,Angry / frustrated,annoyed
+316,147,Basketball,nervous,Tense / anxious,nervous
+317,148,Soccer,Unfazed,Neutral / indifferent,unfazed
+318,148,Baseball,Bored,Bored,bored
+319,148,Basketball,Neutral,Neutral / indifferent,neutral
+320,149,Soccer,Tense,Tense / anxious,tense
+321,149,Baseball,Bored,Bored,bored
+322,149,Basketball,Intrigued,Interested / engaged,intrigued
+323,150,Soccer,energetic; emotionally invested; analytical when deep into the game,Energetic / intense,energetic
+323,150,Soccer,energetic; emotionally invested; analytical when deep into the game,Interested / engaged,invested
+323,150,Soccer,energetic; emotionally invested; analytical when deep into the game,Focused / analytical,analytical
+324,150,Baseball,relaxed during slower moments; very focused during important plays,Calm / relaxed,relaxed
+324,150,Baseball,relaxed during slower moments; very focused during important plays,Focused / analytical,focused
+325,150,Basketball,excited and mentally engaged,Excited,excited
+325,150,Basketball,excited and mentally engaged,Interested / engaged,engaged
+326,151,Soccer,Exciting,Excited,exciting
+327,151,Baseball,Switching between exciting and boring,Excited,exciting
+327,151,Baseball,Switching between exciting and boring,Bored,boring
+328,151,Basketball,Exciting,Excited,exciting
+329,152,Soccer,Anticipation ,Anticipatory / suspenseful,anticipation
+330,152,Baseball,Bored ,Bored,bored
+331,152,Basketball,Excitement,Excited,excitement
+332,153,Soccer,excited and nervous ,Excited,excited
+332,153,Soccer,excited and nervous ,Tense / anxious,nervous
+333,153,Baseball,uninterested and confused ,Uninterested,uninterested
+333,153,Baseball,uninterested and confused ,Confused,confused
+334,153,Basketball,"excited 
+
+ ",Excited,excited
+335,155,Soccer,"Good, motivated, excited",Motivated / inspired,motivated
+335,155,Soccer,"Good, motivated, excited",Excited,excited
+335,155,Soccer,"Good, motivated, excited",Happy / joyful,good (direct feeling)
+336,155,Baseball,"neutral, good.",Neutral / indifferent,neutral
+336,155,Baseball,"neutral, good.",Happy / joyful,good (direct feeling)
+337,155,Basketball,"excited, happy, joyful, elevated.",Excited,excited
+337,155,Basketball,"excited, happy, joyful, elevated.",Happy / joyful,happy | joyful
+338,157,Soccer,Thrilled,Excited,thrilled
+339,157,Baseball,Bored,Bored,bored
+340,157,Basketball,Excited,Excited,excited
+341,158,Soccer,Excited,Excited,excited
+342,158,Baseball,Nervous,Tense / anxious,nervous
+343,158,Basketball,Excited,Excited,excited
+344,159,Soccer,happy ,Happy / joyful,happy
+345,159,Baseball,happy,Happy / joyful,happy
+346,159,Basketball,happy,Happy / joyful,happy
+347,161,Soccer,"Joy, Pride, Excitement, Sorrow",Happy / joyful,joy
+347,161,Soccer,"Joy, Pride, Excitement, Sorrow",Proud,pride
+347,161,Soccer,"Joy, Pride, Excitement, Sorrow",Excited,excitement
+347,161,Soccer,"Joy, Pride, Excitement, Sorrow",Sad / disappointed,sorrow
+349,161,Basketball,Hyped,Excited,hyped
+350,162,Soccer,"Excited, tense, and completely absorbed in the game",Excited,excited
+350,162,Soccer,"Excited, tense, and completely absorbed in the game",Tense / anxious,tense
+350,162,Soccer,"Excited, tense, and completely absorbed in the game",Interested / engaged,absorbed
+351,162,Baseball,bored,Bored,bored
+352,162,Basketball,"Energetic, competitive, anticipatory",Energetic / intense,energetic
+352,162,Basketball,"Energetic, competitive, anticipatory",Competitive,competitive
+352,162,Basketball,"Energetic, competitive, anticipatory",Anticipatory / suspenseful,anticipatory
+353,164,Soccer,Neutral,Neutral / indifferent,neutral
+354,164,Baseball,Neutral,Neutral / indifferent,neutral
+355,164,Basketball,Neutral ,Neutral / indifferent,neutral
+356,166,Soccer,"Bored, Excited",Bored,bored
+356,166,Soccer,"Bored, Excited",Excited,excited
+357,166,Baseball,Bored,Bored,bored
+358,166,Basketball,hyped,Excited,hyped
+359,167,Soccer,Fascinating,Interested / engaged,fascinating
+360,167,Baseball,Interesting,Interested / engaged,interesting
+361,167,Basketball,Very fascinating,Interested / engaged,fascinating
+362,168,Soccer,Excited,Excited,excited
+363,168,Baseball,Confused,Confused,confused
+364,168,Basketball,Excited,Excited,excited
+365,169,Soccer,"On your feet, but at times boring. ",Bored,boring
+366,169,Baseball,"Bored, long ",Bored,bored
+367,169,Basketball,"Excited, energized, competitive, entertained, and sometimes nervous during close games.",Excited,excited
+367,169,Basketball,"Excited, energized, competitive, entertained, and sometimes nervous during close games.",Energetic / intense,energized
+367,169,Basketball,"Excited, energized, competitive, entertained, and sometimes nervous during close games.",Competitive,competitive
+367,169,Basketball,"Excited, energized, competitive, entertained, and sometimes nervous during close games.",Entertained,entertained
+367,169,Basketball,"Excited, energized, competitive, entertained, and sometimes nervous during close games.",Tense / anxious,nervous
+370,171,Basketball,love it,Entertained,love it
+371,173,Soccer,excited,Excited,excited
+373,173,Basketball,excited,Excited,excited
+374,174,Soccer,"Bored or Thrilled, depending on the team and flow of the game.",Bored,bored
+374,174,Soccer,"Bored or Thrilled, depending on the team and flow of the game.",Excited,thrilled
+375,174,Baseball,Bored,Bored,bored
+376,174,Basketball,Excited! It's pretty fun and fast paced compared to [another sport] and [another sport].,Excited,excited
+376,174,Basketball,Excited! It's pretty fun and fast paced compared to [another sport] and [another sport].,Entertained,fun
+377,176,Soccer,Somewhat bored sometimes.,Bored,bored
+378,176,Baseball,Mildly intrigued.,Interested / engaged,intrigued
+379,176,Basketball,Somewhat to fairly entertained.,Entertained,entertained
+380,177,Soccer,Excited,Excited,excited
+381,177,Baseball,Bored,Bored,bored
+382,177,Basketball,Excited,Excited,excited
+383,178,Soccer,Amazing,Impressed / amazed,amazing
+384,178,Baseball,Boring,Bored,boring
+385,178,Basketball,Intrigued,Interested / engaged,intrigued
+386,183,Soccer,neutral,Neutral / indifferent,neutral
+387,183,Baseball,neutral,Neutral / indifferent,neutral
+388,183,Basketball,neutral,Neutral / indifferent,neutral
+389,184,Soccer,involved,Interested / engaged,involved
+392,186,Soccer,兴奋的,Excited,兴奋
+395,188,Soccer,Fun and energetic,Entertained,fun
+395,188,Soccer,Fun and energetic,Energetic / intense,energetic
+396,188,Baseball,Engaged and focused,Interested / engaged,engaged
+396,188,Baseball,Engaged and focused,Focused / analytical,focused
+397,188,Basketball,Engaged and energetic,Interested / engaged,engaged
+397,188,Basketball,Engaged and energetic,Energetic / intense,energetic
+401,190,Soccer,excited,Excited,excited
+402,190,Baseball,Neutral because I’m not very interested in the sport.,Neutral / indifferent,neutral
+402,190,Baseball,Neutral because I’m not very interested in the sport.,Uninterested,negated interested
+403,190,Basketball,passionate,Passionate,passionate
+404,191,Soccer,"excited, happy, disappointed ",Excited,excited
+404,191,Soccer,"excited, happy, disappointed ",Happy / joyful,happy
+404,191,Soccer,"excited, happy, disappointed ",Sad / disappointed,disappointed
+405,191,Baseball,confused,Confused,confused
+406,191,Basketball,"Excited, Thrilling, Awe",Excited,excited | thrilling
+406,191,Basketball,"Excited, Thrilling, Awe",Impressed / amazed,awe
+410,195,Soccer,"Excited, anxious",Excited,excited
+410,195,Soccer,"Excited, anxious",Tense / anxious,anxious
+411,195,Baseball,"Calm, curious",Calm / relaxed,calm
+411,195,Baseball,"Calm, curious",Interested / engaged,curious
+412,195,Basketball,"Excited, tense",Excited,excited
+412,195,Basketball,"Excited, tense",Tense / anxious,tense
+413,196,Soccer,excited,Excited,excited
+414,196,Baseball,"relaxed but suspenseful, traditional",Calm / relaxed,relaxed
+414,196,Baseball,"relaxed but suspenseful, traditional",Anticipatory / suspenseful,suspenseful
+415,196,Basketball,"fast-paced, energetic, intense, competitive",Energetic / intense,energetic | intense
+415,196,Basketball,"fast-paced, energetic, intense, competitive",Competitive,competitive
+416,197,Soccer,Exciting,Excited,exciting
+417,197,Baseball,Most of the time boring,Bored,boring
+418,197,Basketball,Tense,Tense / anxious,tense
+419,198,Soccer,Excited and energetic.,Excited,excited
+419,198,Soccer,Excited and energetic.,Energetic / intense,energetic
+420,198,Baseball,Relaxed,Calm / relaxed,relaxed
+421,198,Basketball,Excited and energetic,Excited,excited
+421,198,Basketball,Excited and energetic,Energetic / intense,energetic
+422,199,Soccer,"A mix of tension building slowly, random sudden bursts of excitement, long period of suspense. ",Tense / anxious,tension
+422,199,Soccer,"A mix of tension building slowly, random sudden bursts of excitement, long period of suspense. ",Excited,excitement
+422,199,Soccer,"A mix of tension building slowly, random sudden bursts of excitement, long period of suspense. ",Anticipatory / suspenseful,suspense
+423,199,Baseball,"Relaxed, with periods of conversation broken by sudden excitement when something finally happens.",Calm / relaxed,relaxed
+423,199,Baseball,"Relaxed, with periods of conversation broken by sudden excitement when something finally happens.",Excited,excitement
+424,199,Basketball,Energized and on edge as it is fast pace and constant scoring keeps it interesting. ,Energetic / intense,energized
+424,199,Basketball,Energized and on edge as it is fast pace and constant scoring keeps it interesting. ,Tense / anxious,on edge
+424,199,Basketball,Energized and on edge as it is fast pace and constant scoring keeps it interesting. ,Interested / engaged,interesting
+428,201,Soccer,"Excited, Energized, Anxious, and Frustration",Excited,excited
+428,201,Soccer,"Excited, Energized, Anxious, and Frustration",Energetic / intense,energized
+428,201,Soccer,"Excited, Energized, Anxious, and Frustration",Tense / anxious,anxious
+428,201,Soccer,"Excited, Energized, Anxious, and Frustration",Angry / frustrated,frustration
+429,201,Baseball,"Relaxation, Comfort, Excitement, Nostalgia",Calm / relaxed,comfort | relaxation
+429,201,Baseball,"Relaxation, Comfort, Excitement, Nostalgia",Excited,excitement
+429,201,Baseball,"Relaxation, Comfort, Excitement, Nostalgia",Nostalgic,nostalgia
+430,201,Basketball,"Nervous, Excited, and Frustrated.",Tense / anxious,nervous
+430,201,Basketball,"Nervous, Excited, and Frustrated.",Excited,excited
+430,201,Basketball,"Nervous, Excited, and Frustrated.",Angry / frustrated,frustrated
+431,202,Soccer,Thrilled,Excited,thrilled
+432,202,Baseball,Bored,Bored,bored
+433,202,Basketball,Excited,Excited,excited
+437,206,Soccer,"This sport is full of honor and regretfulness; the honor only remains for really small groups of people, but most of the other will remain in pity and sadness without a great end",Sad / disappointed,pity | regretfulness | sadness
+440,207,Soccer,"Tension, energetic, excitement, social connection",Tense / anxious,tension
+440,207,Soccer,"Tension, energetic, excitement, social connection",Energetic / intense,energetic
+440,207,Soccer,"Tension, energetic, excitement, social connection",Excited,excitement
+440,207,Soccer,"Tension, energetic, excitement, social connection",Connected,social connection
+441,207,Baseball,"Relaxing, exciting",Calm / relaxed,relaxing
+441,207,Baseball,"Relaxing, exciting",Excited,exciting
+442,207,Basketball,"Tension, Fast pace",Tense / anxious,tension
+446,209,Soccer,Angry,Angry / frustrated,angry
+447,209,Baseball,Excited,Excited,excited
+448,209,Basketball,Anxious,Tense / anxious,anxious
+449,210,Soccer,excited and passionate,Excited,excited
+449,210,Soccer,excited and passionate,Passionate,passionate
+450,210,Baseball,Neutral,Neutral / indifferent,neutral
+451,210,Basketball,excited,Excited,excited
+452,212,Soccer,"bored, sport doesnt have that many goals, mostly passing and macro strategy",Bored,bored
+453,212,Baseball,"similar to [another sport], bored, but more action for sure",Bored,bored
+454,212,Basketball,"lots of points scored in a game, lots of action, excited",Excited,excited
+455,213,Soccer,on edge,Tense / anxious,on edge
+456,213,Baseball,confused,Confused,confused
+457,213,Basketball,neutral,Neutral / indifferent,neutral
+459,217,Baseball,"Nothing, maybe some contempt",Angry / frustrated,contempt
+461,220,Soccer,Exciting,Excited,exciting
+463,220,Basketball,The game is so tense.,Tense / anxious,tense
+464,221,Soccer,chill because most of the time they are just passing around,Calm / relaxed,chill
+465,221,Baseball,chill ,Calm / relaxed,chill
+466,221,Basketball,"bored, because there are less ""hard"" physical contacts nowadays ",Bored,bored
+467,222,Soccer,excited,Excited,excited
+468,222,Baseball,excited,Excited,excited
+469,222,Basketball,excited,Excited,excited
+470,223,Soccer,Excited,Excited,excited
+471,223,Baseball,Bored,Bored,bored
+472,223,Basketball,Thrilled,Excited,thrilled
+473,224,Soccer,Engaged ,Interested / engaged,engaged
+474,224,Baseball,interested,Interested / engaged,interested
+475,224,Basketball,Interested ,Interested / engaged,interested
+476,225,Soccer,On edge.,Tense / anxious,on edge
+477,225,Baseball,Relaxed,Calm / relaxed,relaxed
+478,225,Basketball,Excited,Excited,excited
+479,226,Soccer,Entertained and appreciation for a good game,Entertained,entertained
+479,226,Soccer,Entertained and appreciation for a good game,Impressed / amazed,appreciation
+482,227,Soccer,Mostly bored.,Bored,bored
+483,227,Baseball,On edge.,Tense / anxious,on edge
+484,227,Basketball,Excited,Excited,excited
+485,228,Soccer,"Bored
+
+In suspense
+
+Surprised",Bored,bored
+485,228,Soccer,"Bored
+
+In suspense
+
+Surprised",Anticipatory / suspenseful,in suspense
+485,228,Soccer,"Bored
+
+In suspense
+
+Surprised",Impressed / amazed,surprised
+486,228,Baseball,"Bored
+
+Restless
+
+ ",Bored,bored
+486,228,Baseball,"Bored
+
+Restless
+
+ ",Tense / anxious,restless
+487,228,Basketball,"Bored
+
+Impressed
+
+Enthused
+
+ ",Bored,bored
+487,228,Basketball,"Bored
+
+Impressed
+
+Enthused
+
+ ",Impressed / amazed,impressed
+487,228,Basketball,"Bored
+
+Impressed
+
+Enthused
+
+ ",Passionate,enthused
+488,230,Soccer,excited,Excited,excited
+489,230,Baseball,happy,Happy / joyful,happy
+490,230,Basketball,energetic,Energetic / intense,energetic
+491,231,Soccer,anticipation,Anticipatory / suspenseful,anticipation
+492,231,Baseball,Interesting,Interested / engaged,interesting
+493,231,Basketball,Excited,Excited,excited
+494,235,Soccer,"Suspense, hyped",Anticipatory / suspenseful,suspense
+494,235,Soccer,"Suspense, hyped",Excited,hyped
+495,235,Baseball,Bored,Bored,bored
+496,235,Basketball,Intrigued,Interested / engaged,intrigued
+497,236,Soccer,Excited,Excited,excited
+498,236,Baseball,Confused,Confused,confused
+499,236,Basketball,Bored,Bored,bored
+500,238,Soccer,Not interested,Uninterested,negated interested
+501,238,Baseball,Not interested,Uninterested,negated interested
+502,238,Basketball,Excited,Excited,excited
+503,239,Soccer,interested ,Interested / engaged,interested
+504,239,Baseball,bored,Bored,bored
+505,239,Basketball,energetic,Energetic / intense,energetic
+506,240,Soccer,excited,Excited,excited
+507,240,Baseball,bored,Bored,bored
+508,240,Basketball,detached,Neutral / indifferent,detached
+509,241,Soccer,A mix of anticipation and tension with a big burst of excitement when a close chance finally turns into a score,Anticipatory / suspenseful,anticipation
+509,241,Soccer,A mix of anticipation and tension with a big burst of excitement when a close chance finally turns into a score,Tense / anxious,tension
+509,241,Soccer,A mix of anticipation and tension with a big burst of excitement when a close chance finally turns into a score,Excited,excitement
+510,241,Baseball,Usually relaxed and happy to chat between plays but much more focused when the score is close late in the game,Calm / relaxed,relaxed
+510,241,Baseball,Usually relaxed and happy to chat between plays but much more focused when the score is close late in the game,Happy / joyful,happy
+510,241,Baseball,Usually relaxed and happy to chat between plays but much more focused when the score is close late in the game,Focused / analytical,focused
+511,241,Basketball,Energized by the quick changes in momentum close finishes keep me watching every possession especially when there is little time left,Energetic / intense,energized
+512,245,Soccer,"interested, sometimes frustrated",Interested / engaged,interested
+512,245,Soccer,"interested, sometimes frustrated",Angry / frustrated,frustrated
+513,245,Baseball,"boredom, confusion",Bored,boredom
+513,245,Baseball,"boredom, confusion",Confused,confusion
+514,245,Basketball,"Hyped, engrossed",Excited,hyped
+514,245,Basketball,"Hyped, engrossed",Interested / engaged,engrossed
+515,246,Soccer,Super excited and highly concentrated.,Excited,excited
+515,246,Soccer,Super excited and highly concentrated.,Focused / analytical,concentrated
+516,246,Baseball,It depends on the excitement of that specific match. Sometimes boring and sometimes excited.,Excited,excited | excitement
+516,246,Baseball,It depends on the excitement of that specific match. Sometimes boring and sometimes excited.,Bored,boring
+517,246,Basketball,Little bit uninterested unless i support one side.,Uninterested,uninterested
+518,247,Soccer,Exhilarated.,Excited,exhilarated
+519,247,Baseball,Neutral.,Neutral / indifferent,neutral
+520,247,Basketball,Excited.,Excited,excited
+521,248,Soccer,exciting,Excited,exciting
+522,248,Baseball,Good,Happy / joyful,good (direct feeling)
+523,248,Basketball,Happy,Happy / joyful,happy
+524,249,Soccer,interested,Interested / engaged,interested
+525,249,Baseball,uninterested,Uninterested,uninterested
+526,249,Basketball,Excited,Excited,excited
+527,250,Soccer,excited,Excited,excited
+528,250,Baseball,nervous,Tense / anxious,nervous
+529,250,Basketball,energetic,Energetic / intense,energetic
+531,251,Baseball,Uninterested,Uninterested,uninterested
+532,251,Basketball,Bored,Bored,bored
+533,253,Soccer,Bored,Bored,bored
+534,253,Baseball,Bored,Bored,bored
+535,253,Basketball,Exhilarated,Excited,exhilarated
+536,254,Soccer,"excited, stressed, in suspense",Excited,excited
+536,254,Soccer,"excited, stressed, in suspense",Tense / anxious,stressed
+536,254,Soccer,"excited, stressed, in suspense",Anticipatory / suspenseful,in suspense
+537,254,Baseball,"Bored, excited, in suspense ",Bored,bored
+537,254,Baseball,"Bored, excited, in suspense ",Excited,excited
+537,254,Baseball,"Bored, excited, in suspense ",Anticipatory / suspenseful,in suspense
+538,254,Basketball,"Entertained, Excited, Stressed",Entertained,entertained
+538,254,Basketball,"Entertained, Excited, Stressed",Excited,excited
+538,254,Basketball,"Entertained, Excited, Stressed",Tense / anxious,stressed
+542,259,Soccer,"I feel excited and energized when I watch it, especially during close matches. It can also feel tense and suspenseful because the score can change quickly.",Excited,excited
+542,259,Soccer,"I feel excited and energized when I watch it, especially during close matches. It can also feel tense and suspenseful because the score can change quickly.",Energetic / intense,energized
+542,259,Soccer,"I feel excited and energized when I watch it, especially during close matches. It can also feel tense and suspenseful because the score can change quickly.",Tense / anxious,tense
+542,259,Soccer,"I feel excited and energized when I watch it, especially during close matches. It can also feel tense and suspenseful because the score can change quickly.",Anticipatory / suspenseful,suspenseful
+543,259,Baseball,"I feel relaxed and entertained when I watch it, but I also get excited during close games or important moments like home runs and late innings",Calm / relaxed,relaxed
+543,259,Baseball,"I feel relaxed and entertained when I watch it, but I also get excited during close games or important moments like home runs and late innings",Entertained,entertained
+543,259,Baseball,"I feel relaxed and entertained when I watch it, but I also get excited during close games or important moments like home runs and late innings",Excited,excited
+544,259,Basketball,"I feel excited, energized, and entertained when I watch it, especially during close games and fast-paced moments.",Excited,excited
+544,259,Basketball,"I feel excited, energized, and entertained when I watch it, especially during close games and fast-paced moments.",Energetic / intense,energized
+544,259,Basketball,"I feel excited, energized, and entertained when I watch it, especially during close games and fast-paced moments.",Entertained,entertained
+545,260,Soccer,Exciting,Excited,exciting
+546,260,Baseball,Confused,Confused,confused
+547,260,Basketball,Exciting,Excited,exciting
+548,261,Soccer,Excited,Excited,excited
+549,261,Baseball,Confused and proud (when the [a team in this sport] are doing good),Confused,confused
+549,261,Baseball,Confused and proud (when the [a team in this sport] are doing good),Proud,proud
+550,261,Basketball,Excited,Excited,excited
+551,263,Soccer,excited,Excited,excited
+552,263,Baseball,boring,Bored,boring
+553,263,Basketball,excited,Excited,excited
+554,265,Soccer,Confused ,Confused,confused
+555,265,Baseball,Entertained ,Entertained,entertained
+556,265,Basketball,Excited ,Excited,excited
+557,267,Soccer,Excited and tense,Excited,excited
+557,267,Soccer,Excited and tense,Tense / anxious,tense
+560,268,Soccer,"Adrenaline rush in specific moments. Otherwise, focused.",Energetic / intense,adrenaline rush
+560,268,Soccer,"Adrenaline rush in specific moments. Otherwise, focused.",Focused / analytical,focused
+561,268,Baseball,Calm focus and sudden excitement,Calm / relaxed,calm
+561,268,Baseball,Calm focus and sudden excitement,Excited,excitement
+562,268,Basketball,"High energy, suspense, adrenaline.",Energetic / intense,adrenaline | high energy
+562,268,Basketball,"High energy, suspense, adrenaline.",Anticipatory / suspenseful,suspense
+563,269,Soccer,Excited,Excited,excited
+564,269,Baseball,Enjoyable ,Entertained,enjoyable
+565,269,Basketball,Excited,Excited,excited
+566,270,Soccer,"Excited, Anxious, and Nervous.",Excited,excited
+566,270,Soccer,"Excited, Anxious, and Nervous.",Tense / anxious,anxious | nervous
+567,270,Baseball,Bored.,Bored,bored
+568,270,Basketball,"Excited, and Hyped.",Excited,excited | hyped
+569,272,Soccer,Euphoric,Excited,euphoric
+570,272,Baseball,Excited,Excited,excited
+571,272,Basketball,Bored,Bored,bored
+572,273,Soccer,"Enthralled, captivated, stressed, excited (it is my favourite sport)",Interested / engaged,captivated | enthralled
+572,273,Soccer,"Enthralled, captivated, stressed, excited (it is my favourite sport)",Tense / anxious,stressed
+572,273,Soccer,"Enthralled, captivated, stressed, excited (it is my favourite sport)",Excited,excited
+573,273,Baseball,"Captivated, stressed, sometimes bored (it is my 3rd favourite sport)",Interested / engaged,captivated
+573,273,Baseball,"Captivated, stressed, sometimes bored (it is my 3rd favourite sport)",Tense / anxious,stressed
+573,273,Baseball,"Captivated, stressed, sometimes bored (it is my 3rd favourite sport)",Bored,bored
+574,273,Basketball,"Excited, stressed, captivated, analytical (it is my 2nd favourite sport)",Excited,excited
+574,273,Basketball,"Excited, stressed, captivated, analytical (it is my 2nd favourite sport)",Tense / anxious,stressed
+574,273,Basketball,"Excited, stressed, captivated, analytical (it is my 2nd favourite sport)",Interested / engaged,captivated
+574,273,Basketball,"Excited, stressed, captivated, analytical (it is my 2nd favourite sport)",Focused / analytical,analytical
+575,275,Soccer,"Excited when the ball is very close to either team's net, and neutral otherwise",Excited,excited
+575,275,Soccer,"Excited when the ball is very close to either team's net, and neutral otherwise",Neutral / indifferent,neutral
+576,275,Baseball,"Bored for most of it, but when there are many players in position it gets interesting",Bored,bored
+576,275,Baseball,"Bored for most of it, but when there are many players in position it gets interesting",Interested / engaged,interesting
+577,275,Basketball,"Mostly engaged throughout, as there is quick turnaround and movement",Interested / engaged,engaged
+578,276,Soccer,Anticipating when the next big thing will happen all the time,Anticipatory / suspenseful,anticipating
+579,276,Baseball,Bored,Bored,bored
+580,276,Basketball,exhilarating,Excited,exhilarating
+581,278,Soccer,excited,Excited,excited
+584,279,Soccer,"Excited, entertained, and sometimes nervous, especially when the game is close.",Excited,excited
+584,279,Soccer,"Excited, entertained, and sometimes nervous, especially when the game is close.",Entertained,entertained
+584,279,Soccer,"Excited, entertained, and sometimes nervous, especially when the game is close.",Tense / anxious,nervous
+585,279,Baseball,"Relaxed, entertained, and excited during close or important moments.",Calm / relaxed,relaxed
+585,279,Baseball,"Relaxed, entertained, and excited during close or important moments.",Entertained,entertained
+585,279,Baseball,"Relaxed, entertained, and excited during close or important moments.",Excited,excited
+586,279,Basketball,"Excited, energetic, and entertained, especially during close games and big plays.",Excited,excited
+586,279,Basketball,"Excited, energetic, and entertained, especially during close games and big plays.",Energetic / intense,energetic
+586,279,Basketball,"Excited, energetic, and entertained, especially during close games and big plays.",Entertained,entertained
+587,280,Soccer,"It’s very interesting to watch when I understand how to play [this sport]. If I don’t understand it, it feels pretty ordinary",Interested / engaged,interesting
+587,280,Soccer,"It’s very interesting to watch when I understand how to play [this sport]. If I don’t understand it, it feels pretty ordinary",Neutral / indifferent,ordinary
+589,280,Basketball,"It feels really exciting and satisfying to watch because the scoring is very direct, the pace is fast, and the game can change quickly",Excited,exciting
+589,280,Basketball,"It feels really exciting and satisfying to watch because the scoring is very direct, the pace is fast, and the game can change quickly",Entertained,satisfying
+590,281,Soccer,Very excited and stimulus.,Excited,excited
+591,281,Baseball,Admiring.,Impressed / amazed,admiring
+592,281,Basketball,excited ,Excited,excited
+593,282,Soccer,Impressed,Impressed / amazed,impressed
+594,282,Baseball,Bored,Bored,bored
+595,282,Basketball,Excited,Excited,excited
+596,283,Soccer,Excited and jittery,Excited,excited
+596,283,Soccer,Excited and jittery,Tense / anxious,jittery
+597,283,Baseball,In anticipation,Anticipatory / suspenseful,anticipation
+598,283,Basketball,Excited,Excited,excited
+599,284,Soccer,Amused,Entertained,amused
+600,284,Baseball,Happy,Happy / joyful,happy
+601,284,Basketball,Excited,Excited,excited
+605,287,Soccer,energetic. I feel like running around.,Energetic / intense,energetic
+606,287,Baseball,confused because I dont know whats going on,Confused,confused
+607,287,Basketball,"scared, overwhelmed",Scared / overwhelmed,overwhelmed | scared
+608,289,Soccer,"Very motivated, united and energetized",Motivated / inspired,motivated
+608,289,Soccer,"Very motivated, united and energetized",Connected,united
+608,289,Soccer,"Very motivated, united and energetized",Energetic / intense,energetized
+610,289,Basketball,Really motivating and captivating,Motivated / inspired,motivating
+610,289,Basketball,Really motivating and captivating,Interested / engaged,captivating

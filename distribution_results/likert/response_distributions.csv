@@ -1,0 +1,61 @@
+﻿scope,question,score,answer,count,percent_of_valid
+Overall,strategy,1,Strongly disagree,6,0.9950248756218906
+Overall,strategy,2,Disagree,60,9.950248756218906
+Overall,strategy,3,Neutral,121,20.066334991708125
+Overall,strategy,4,Agree,283,46.93200663349917
+Overall,strategy,5,Strongly agree,133,22.056384742951906
+Overall,injury,1,Strongly disagree,17,2.814569536423841
+Overall,injury,2,Disagree,108,17.880794701986755
+Overall,injury,3,Neutral,152,25.165562913907287
+Overall,injury,4,Agree,227,37.58278145695364
+Overall,injury,5,Strongly agree,100,16.55629139072848
+Overall,individual,1,Strongly disagree,27,4.477611940298507
+Overall,individual,2,Disagree,124,20.563847429519072
+Overall,individual,3,Neutral,139,23.0514096185738
+Overall,individual,4,Agree,213,35.32338308457712
+Overall,individual,5,Strongly agree,100,16.58374792703151
+Baseball,strategy,1,Strongly disagree,3,1.4925373134328357
+Baseball,strategy,2,Disagree,33,16.417910447761194
+Baseball,strategy,3,Neutral,57,28.35820895522388
+Baseball,strategy,4,Agree,62,30.845771144278604
+Baseball,strategy,5,Strongly agree,46,22.885572139303484
+Baseball,injury,1,Strongly disagree,12,5.970149253731343
+Baseball,injury,2,Disagree,67,33.33333333333333
+Baseball,injury,3,Neutral,70,34.82587064676617
+Baseball,injury,4,Agree,43,21.393034825870647
+Baseball,injury,5,Strongly agree,9,4.477611940298507
+Baseball,individual,1,Strongly disagree,6,2.9850746268656714
+Baseball,individual,2,Disagree,23,11.442786069651742
+Baseball,individual,3,Neutral,37,18.407960199004975
+Baseball,individual,4,Agree,87,43.28358208955223
+Baseball,individual,5,Strongly agree,48,23.88059701492537
+Basketball,strategy,1,Strongly disagree,1,0.5
+Basketball,strategy,2,Disagree,12,6.0
+Basketball,strategy,3,Neutral,38,19.0
+Basketball,strategy,4,Agree,108,54.0
+Basketball,strategy,5,Strongly agree,41,20.5
+Basketball,injury,1,Strongly disagree,3,1.4925373134328357
+Basketball,injury,2,Disagree,18,8.955223880597014
+Basketball,injury,3,Neutral,44,21.890547263681594
+Basketball,injury,4,Agree,88,43.78109452736319
+Basketball,injury,5,Strongly agree,48,23.88059701492537
+Basketball,individual,1,Strongly disagree,6,3.0
+Basketball,individual,2,Disagree,34,17.0
+Basketball,individual,3,Neutral,42,21.0
+Basketball,individual,4,Agree,81,40.5
+Basketball,individual,5,Strongly agree,37,18.5
+Soccer,strategy,1,Strongly disagree,2,0.9900990099009901
+Soccer,strategy,2,Disagree,15,7.425742574257425
+Soccer,strategy,3,Neutral,26,12.871287128712872
+Soccer,strategy,4,Agree,113,55.940594059405946
+Soccer,strategy,5,Strongly agree,46,22.772277227722775
+Soccer,injury,1,Strongly disagree,2,0.9900990099009901
+Soccer,injury,2,Disagree,23,11.386138613861387
+Soccer,injury,3,Neutral,38,18.81188118811881
+Soccer,injury,4,Agree,96,47.524752475247524
+Soccer,injury,5,Strongly agree,43,21.287128712871286
+Soccer,individual,1,Strongly disagree,15,7.425742574257425
+Soccer,individual,2,Disagree,67,33.16831683168317
+Soccer,individual,3,Neutral,60,29.7029702970297
+Soccer,individual,4,Agree,45,22.277227722772277
+Soccer,individual,5,Strongly agree,15,7.425742574257425

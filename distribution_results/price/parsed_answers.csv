@@ -1,0 +1,615 @@
+﻿csv_row,id,label,raw_answer,has_digits,included,amount,currency,method,reason,notes,range_lower,range_upper,iqr_outlier_within_sport
+2,2,Soccer,"$1,000 ",True,True,1000.0,CAD (assumed),Single amount,,,,,False
+3,2,Baseball,$500 ,True,True,500.0,CAD (assumed),Single amount,,,,,True
+4,2,Basketball,"$2,000 ",True,True,2000.0,CAD (assumed),Single amount,,,,,True
+5,5,Soccer,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+6,5,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+7,5,Basketball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+8,6,Soccer,$150 ,True,True,150.0,CAD (assumed),Single amount,,,,,False
+9,6,Baseball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+10,6,Basketball,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+11,7,Soccer,400 CAD,True,True,400.0,CAD (explicit),Single amount,,,,,False
+12,7,Baseball,150 CAD,True,True,150.0,CAD (explicit),Single amount,,,,,False
+13,7,Basketball,500 CAD,True,True,500.0,CAD (explicit),Single amount,,,,,False
+14,9,Soccer,not really willing to,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+15,9,Baseball,not really willing to,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+16,9,Basketball,not really willing to,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+17,10,Soccer,"$1,000 ",True,True,1000.0,CAD (assumed),Single amount,,,,,False
+18,10,Baseball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+19,10,Basketball,$700 ,True,True,700.0,CAD (assumed),Single amount,,,,,True
+20,11,Soccer,500 dollar,True,True,500.0,CAD (assumed),Single amount,,,,,False
+21,11,Baseball,200,True,True,200.0,CAD (assumed),Single amount,,,,,True
+22,11,Basketball,500,True,True,500.0,CAD (assumed),Single amount,,,,,False
+23,12,Soccer,$250 ,True,True,250.0,CAD (assumed),Single amount,,,,,False
+24,12,Baseball,$80 ,True,True,80.0,CAD (assumed),Single amount,,,,,False
+25,12,Basketball,$150 ,True,True,150.0,CAD (assumed),Single amount,,,,,False
+26,14,Soccer,"Because I am not very interested in [this sport], I would pay at most $200.",True,True,200.0,CAD (assumed),Single amount,,Upper limit wording; stated number retained,,,False
+27,14,Baseball,"I am not interested in [this sport], so at most $50",True,True,50.0,CAD (assumed),Single amount,,Upper limit wording; stated number retained,,,False
+28,14,Basketball,$150 ,True,True,150.0,CAD (assumed),Single amount,,,,,False
+29,15,Soccer,"Depending on the match and the league, but if we assume my home country in the [a competition] final, I would be willing to pay around 1000 CAD maximum.",True,True,1000.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained; Approximate or conditional amount,,,False
+30,15,Baseball,10 CAD maximum,True,True,10.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained,,,False
+31,15,Basketball,Depends on the league and the match but I would probably pay 200 CAD at most.,True,True,200.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained,,,False
+32,16,Soccer,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+33,16,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+34,16,Basketball,$120 ,True,True,120.0,CAD (assumed),Single amount,,,,,False
+35,17,Soccer,"I would be willing to pay around CAD $80–$120 for a decent seat, depending on the teams and the importance of the competition.",True,True,100.0,CAD (explicit),Range midpoint,,Approximate or conditional amount,80.0,120.0,False
+36,17,Baseball,"I would be willing to pay around CAD $60–$100 for a decent seat, depending on the teams, stadium, and importance of the game.",True,True,80.0,CAD (explicit),Range midpoint,,Approximate or conditional amount,60.0,100.0,False
+37,17,Basketball,"I would be willing to pay around CAD $100–$150 for a decent seat, depending on the teams and the importance of the game.",True,True,125.0,CAD (explicit),Range midpoint,,Approximate or conditional amount,100.0,150.0,False
+38,18,Soccer,100 cad,True,True,100.0,CAD (explicit),Single amount,,,,,False
+39,18,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+40,18,Basketball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+41,19,Soccer,about 200$,True,True,200.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+42,19,Baseball,about 100$,True,True,100.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+43,19,Basketball,150$,True,True,150.0,CAD (assumed),Single amount,,,,,False
+44,21,Soccer,$500 ,True,True,500.0,CAD (assumed),Single amount,,,,,False
+45,21,Baseball,$150 ,True,True,150.0,CAD (assumed),Single amount,,,,,False
+46,21,Basketball,$250 ,True,True,250.0,CAD (assumed),Single amount,,,,,False
+47,22,Soccer,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+48,22,Baseball,$20 ,True,True,20.0,CAD (assumed),Single amount,,,,,False
+49,22,Basketball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+50,23,Soccer,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+51,23,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+52,23,Basketball,100$,True,True,100.0,CAD (assumed),Single amount,,,,,False
+53,24,Soccer,"$100 Canadian, at most,  maybe more depending on the tier of play. ",True,True,100.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained; Approximate or conditional amount,,,False
+54,24,Baseball,"Nothing, I'm not really a fan, perhaps a small amount ($100 max) if with friends. ",True,True,100.0,CAD (assumed),Single amount,,Upper limit wording; stated number retained; Approximate or conditional amount,,,False
+55,24,Basketball,"Nothing, I'm not really a fan, perhaps a small amount ($100 max) if with friends. ",True,True,100.0,CAD (assumed),Single amount,,Upper limit wording; stated number retained; Approximate or conditional amount,,,False
+56,26,Soccer,At most 500 CAD. ,True,True,500.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained,,,False
+57,26,Baseball,At most 300 CAD.,True,True,300.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained,,,True
+58,26,Basketball,At most 1000 CAD. ,True,True,1000.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained,,,True
+59,29,Soccer,around $70-$90,True,True,80.0,CAD (assumed),Range midpoint,,Approximate or conditional amount,70.0,90.0,False
+60,29,Baseball,around 60,True,True,60.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+61,29,Basketball,around 100,True,True,100.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+62,30,Soccer,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+63,30,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+64,30,Basketball,70,True,True,70.0,CAD (assumed),Single amount,,,,,False
+65,32,Soccer,200 CAD,True,True,200.0,CAD (explicit),Single amount,,,,,False
+66,32,Baseball,100 CAD,True,True,100.0,CAD (explicit),Single amount,,,,,False
+67,32,Basketball,200 CAD,True,True,200.0,CAD (explicit),Single amount,,,,,False
+68,33,Soccer,$150 ,True,True,150.0,CAD (assumed),Single amount,,,,,False
+69,33,Baseball,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,True
+70,33,Basketball,$800 ,True,True,800.0,CAD (assumed),Single amount,,,,,True
+71,34,Soccer,"$10,000 ",True,True,10000.0,CAD (assumed),Single amount,,,,,True
+72,34,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+73,34,Basketball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+74,35,Soccer,200dollars,True,True,200.0,CAD (assumed),Single amount,,,,,False
+75,35,Baseball,200 dollars,True,True,200.0,CAD (assumed),Single amount,,,,,True
+76,35,Basketball,300dollars,True,True,300.0,CAD (assumed),Single amount,,,,,False
+77,36,Soccer,I would be willing to pay around CAD 400-500 for a decent seat.,True,True,450.0,CAD (explicit),Range midpoint,,Approximate or conditional amount,400.0,500.0,False
+78,36,Baseball,I would be willing to pay around CAD 100 for a decent seat.,True,True,100.0,CAD (explicit),Single amount,,Approximate or conditional amount,,,False
+79,36,Basketball,I would be willing to pay around CAD 100 for a decent seat.,True,True,100.0,CAD (explicit),Single amount,,Approximate or conditional amount,,,False
+80,37,Soccer,1000,True,True,1000.0,CAD (assumed),Single amount,,,,,False
+81,37,Baseball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+82,37,Basketball,500,True,True,500.0,CAD (assumed),Single amount,,,,,False
+83,38,Soccer,Around $90 CAD for a decent seat.,True,True,90.0,CAD (explicit),Single amount,,Approximate or conditional amount,,,False
+84,38,Baseball,Around $75 CAD for a decent seat.,True,True,75.0,CAD (explicit),Single amount,,Approximate or conditional amount,,,False
+85,38,Basketball,Around $150 CAD for a decent seat.,True,True,150.0,CAD (explicit),Single amount,,Approximate or conditional amount,,,False
+86,40,Soccer,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+87,40,Baseball,$75 ,True,True,75.0,CAD (assumed),Single amount,,,,,False
+88,40,Basketball,$60 ,True,True,60.0,CAD (assumed),Single amount,,,,,False
+89,41,Soccer,"Usually around 100 to 200 CAD, but at most 1000 CAD if the game has player(s) I like or from my home team.",True,False,,CAD (explicit),,Multiple amounts/scenarios; no single price chosen,,,,False
+90,41,Baseball,50 to 150 CAD,True,True,100.0,CAD (explicit),Range midpoint,,,50.0,150.0,False
+91,41,Basketball,20 to 100 CAD,True,True,60.0,CAD (explicit),Range midpoint,,,20.0,100.0,False
+92,42,Soccer,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+93,42,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+94,42,Basketball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+95,43,Soccer,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+96,43,Baseball,70,True,True,70.0,CAD (assumed),Single amount,,,,,False
+97,43,Basketball,60,True,True,60.0,CAD (assumed),Single amount,,,,,False
+98,44,Soccer,$10 000,True,True,10000.0,CAD (assumed),Single amount,,,,,True
+99,44,Baseball,"$3,000 ",True,True,3000.0,CAD (assumed),Single amount,,,,,True
+100,44,Basketball,"$5,000 ",True,True,5000.0,CAD (assumed),Single amount,,,,,True
+101,45,Soccer,$200 CAD,True,True,200.0,CAD (explicit),Single amount,,,,,False
+102,45,Baseball,$70 CAD ,True,True,70.0,CAD (explicit),Single amount,,,,,False
+103,45,Basketball,$200 CAD,True,True,200.0,CAD (explicit),Single amount,,,,,False
+104,46,Soccer,$300 ,True,True,300.0,CAD (assumed),Single amount,,,,,False
+105,46,Baseball,$20 ,True,True,20.0,CAD (assumed),Single amount,,,,,False
+106,46,Basketball,$70 ,True,True,70.0,CAD (assumed),Single amount,,,,,False
+107,49,Soccer,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+108,49,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+109,49,Basketball,120,True,True,120.0,CAD (assumed),Single amount,,,,,False
+110,50,Soccer,$500 ,True,True,500.0,CAD (assumed),Single amount,,,,,False
+111,50,Baseball,$10 ,True,True,10.0,CAD (assumed),Single amount,,,,,False
+112,50,Basketball,$150 ,True,True,150.0,CAD (assumed),Single amount,,,,,False
+113,53,Soccer,2000 CAD,True,True,2000.0,CAD (explicit),Single amount,,,,,True
+114,53,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+115,53,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+116,54,Soccer,500 CAD,True,True,500.0,CAD (explicit),Single amount,,,,,False
+117,54,Baseball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+118,54,Basketball,500,True,True,500.0,CAD (assumed),Single amount,,,,,False
+119,56,Soccer,"$1,000 ",True,True,1000.0,CAD (assumed),Single amount,,,,,False
+120,56,Baseball,$150 ,True,True,150.0,CAD (assumed),Single amount,,,,,False
+121,56,Basketball,$600 ,True,True,600.0,CAD (assumed),Single amount,,,,,False
+122,58,Soccer,$500 ,True,True,500.0,CAD (assumed),Single amount,,,,,False
+123,58,Baseball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+124,58,Basketball,$400 ,True,True,400.0,CAD (assumed),Single amount,,,,,False
+125,60,Soccer,$500 CAD,True,True,500.0,CAD (explicit),Single amount,,,,,False
+126,60,Baseball,$120 CAD,True,True,120.0,CAD (explicit),Single amount,,,,,False
+127,60,Basketball,$500 CAD,True,True,500.0,CAD (explicit),Single amount,,,,,False
+128,64,Soccer,No willing.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+129,64,Baseball,Not willing,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+130,64,Basketball,Not willing. ,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+131,66,Soccer,70,True,True,70.0,CAD (assumed),Single amount,,,,,False
+132,66,Baseball,20,True,True,20.0,CAD (assumed),Single amount,,,,,False
+133,66,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+134,67,Soccer,I would not pay to watch in person,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+135,67,Baseball,I would not pay for a [this sport] game,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+136,67,Basketball,I would not pay to watch this sport,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+137,68,Soccer,Zero. I have no any interest in team sport like [this sport],False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+138,68,Baseball,Zero. I have no interest in team sport,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+139,68,Basketball,Zero,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+140,70,Soccer,$250CAD,True,True,250.0,CAD (explicit),Single amount,,,,,False
+141,70,Baseball,$100CAD,True,True,100.0,CAD (explicit),Single amount,,,,,False
+142,70,Basketball,$250CAD,True,True,250.0,CAD (explicit),Single amount,,,,,False
+143,72,Soccer,1000,True,True,1000.0,CAD (assumed),Single amount,,,,,False
+144,72,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+145,72,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+146,73,Soccer,None I do not watch sports.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+147,73,Baseball,None I do not watch sports.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+148,73,Basketball,None I dont watch sports.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+149,74,Soccer,200 dollars,True,True,200.0,CAD (assumed),Single amount,,,,,False
+150,74,Baseball,100 dollars,True,True,100.0,CAD (assumed),Single amount,,,,,False
+151,74,Basketball,150 dollars,True,True,150.0,CAD (assumed),Single amount,,,,,False
+152,75,Soccer,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+153,75,Baseball,$80 ,True,True,80.0,CAD (assumed),Single amount,,,,,False
+154,75,Basketball,$80 ,True,True,80.0,CAD (assumed),Single amount,,,,,False
+155,77,Soccer,$0 ,True,True,0.0,CAD (assumed),Single amount,,,,,False
+156,77,Baseball,$0 ,True,True,0.0,CAD (assumed),Single amount,,,,,False
+157,77,Basketball,$0 ,True,True,0.0,CAD (assumed),Single amount,,,,,False
+158,78,Soccer,$300 ,True,True,300.0,CAD (assumed),Single amount,,,,,False
+159,78,Baseball,$400 ,True,True,400.0,CAD (assumed),Single amount,,,,,True
+160,78,Basketball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+161,79,Soccer,$30 ,True,True,30.0,CAD (assumed),Single amount,,,,,False
+162,79,Baseball,$30 ,True,True,30.0,CAD (assumed),Single amount,,,,,False
+163,79,Basketball,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+164,80,Soccer,"depends on the league, for the best league, 200 bucks",True,True,200.0,CAD (assumed),Single amount,,,,,False
+165,80,Baseball,100 bucks ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+166,80,Basketball,500 bucks,True,True,500.0,CAD (assumed),Single amount,,,,,False
+167,82,Soccer,"Not much, I'm not a huge fan maybe $50 max.",True,True,50.0,CAD (assumed),Single amount,,Upper limit wording; stated number retained; Approximate or conditional amount,,,False
+168,82,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+169,82,Basketball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+170,84,Soccer,"- If it's world competition: 1000-3000 Canadian Dollars
+- Europe Leagues: 800-1500 Canadian Dollars",True,False,,CAD (explicit),,Multiple amounts/scenarios; no single price chosen,,,,False
+171,84,Baseball,100-150 Canadian dollars.,True,True,125.0,CAD (explicit),Range midpoint,,,100.0,150.0,False
+172,84,Basketball,300-500 CAD,True,True,400.0,CAD (explicit),Range midpoint,,,300.0,500.0,False
+173,85,Soccer,$20-50,True,True,35.0,CAD (assumed),Range midpoint,,,20.0,50.0,False
+174,85,Baseball,50-150,True,True,100.0,CAD (assumed),Range midpoint,,,50.0,150.0,False
+175,85,Basketball,40-120,True,True,80.0,CAD (assumed),Range midpoint,,,40.0,120.0,False
+176,86,Soccer,300,True,True,300.0,CAD (assumed),Single amount,,,,,False
+177,86,Baseball,300,True,True,300.0,CAD (assumed),Single amount,,,,,True
+178,86,Basketball,350,True,True,350.0,CAD (assumed),Single amount,,,,,False
+179,87,Soccer,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+180,87,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+181,87,Basketball,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+182,88,Soccer,1000,True,True,1000.0,CAD (assumed),Single amount,,,,,False
+183,88,Baseball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+184,88,Basketball,1200,True,True,1200.0,CAD (assumed),Single amount,,,,,True
+185,89,Soccer,500CAD,True,True,500.0,CAD (explicit),Single amount,,,,,False
+186,89,Baseball,200CAD,True,True,200.0,CAD (explicit),Single amount,,,,,True
+187,89,Basketball,300CAD,True,True,300.0,CAD (explicit),Single amount,,,,,False
+188,91,Soccer,1000,True,True,1000.0,CAD (assumed),Single amount,,,,,False
+189,91,Baseball,40,True,True,40.0,CAD (assumed),Single amount,,,,,False
+190,91,Basketball,500,True,True,500.0,CAD (assumed),Single amount,,,,,False
+191,92,Soccer,100 CAD,True,True,100.0,CAD (explicit),Single amount,,,,,False
+192,92,Baseball,50 CAD,True,True,50.0,CAD (explicit),Single amount,,,,,False
+193,92,Basketball,100$,True,True,100.0,CAD (assumed),Single amount,,,,,False
+194,94,Soccer,"I would spend $100 to scratch it off of my bucket list but good tickets to major games/events can go for $10,000+.",True,False,,CAD (assumed),,Multiple amounts without one unambiguous range,,,,False
+195,94,Baseball,Maybe $80. There are a lot of games in a year so it isn't that difficult to get tickets.,True,True,80.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+196,94,Basketball,"I would spend $250 for decent seats to a significant game for this sport. Unfortunately, our local team doesn't always consistently perform so I would maybe wait for a year where they are more successful before scratching this off of my bucket list.",True,True,250.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+197,95,Soccer, $200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+198,95,Baseball,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,True
+199,95,Basketball,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+200,96,Soccer,200 dollars,True,True,200.0,CAD (assumed),Single amount,,,,,False
+201,96,Baseball,100 dollars,True,True,100.0,CAD (assumed),Single amount,,,,,False
+202,96,Basketball,200 dollars,True,True,200.0,CAD (assumed),Single amount,,,,,False
+203,98,Soccer,400,True,True,400.0,CAD (assumed),Single amount,,,,,False
+204,98,Baseball,60,True,True,60.0,CAD (assumed),Single amount,,,,,False
+205,98,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+206,100,Soccer,$60-$110,True,True,85.0,CAD (assumed),Range midpoint,,,60.0,110.0,False
+207,100,Baseball,$30-$80,True,True,55.0,CAD (assumed),Range midpoint,,,30.0,80.0,False
+208,100,Basketball,$110-$220,True,True,165.0,CAD (assumed),Range midpoint,,,110.0,220.0,False
+209,103,Soccer,200$,True,True,200.0,CAD (assumed),Single amount,,,,,False
+210,103,Baseball,50$,True,True,50.0,CAD (assumed),Single amount,,,,,False
+211,103,Basketball,100$,True,True,100.0,CAD (assumed),Single amount,,,,,False
+212,104,Soccer,"$2000, (have done before)",True,True,2000.0,CAD (assumed),Single amount,,,,,True
+213,104,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+214,104,Basketball,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+215,106,Soccer,100 dollars,True,True,100.0,CAD (assumed),Single amount,,,,,False
+216,106,Baseball,10 dollar,True,True,10.0,CAD (assumed),Single amount,,,,,False
+217,106,Basketball,50 dollars,True,True,50.0,CAD (assumed),Single amount,,,,,False
+218,107,Soccer,300,True,True,300.0,CAD (assumed),Single amount,,,,,False
+219,107,Baseball,200,True,True,200.0,CAD (assumed),Single amount,,,,,True
+220,107,Basketball,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+221,108,Soccer,No more than 50 CAD,True,True,50.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained,,,False
+222,108,Baseball,25 CAD Maximum,True,True,25.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained,,,False
+223,108,Basketball,Up to 100CAD,True,True,100.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained,,,False
+224,109,Soccer,300,True,True,300.0,CAD (assumed),Single amount,,,,,False
+225,109,Baseball,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+226,109,Basketball,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+227,110,Soccer,1000,True,True,1000.0,CAD (assumed),Single amount,,,,,False
+228,110,Baseball,800,True,True,800.0,CAD (assumed),Single amount,,,,,True
+229,110,Basketball,2000,True,True,2000.0,CAD (assumed),Single amount,,,,,True
+230,111,Soccer,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+231,111,Baseball,1,True,True,1.0,CAD (assumed),Single amount,,,,,False
+232,111,Basketball,10,True,True,10.0,CAD (assumed),Single amount,,,,,False
+233,112,Soccer,1000,True,True,1000.0,CAD (assumed),Single amount,,,,,False
+234,112,Baseball,80,True,True,80.0,CAD (assumed),Single amount,,,,,False
+235,112,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+236,114,Soccer,$0 ,True,True,0.0,CAD (assumed),Single amount,,,,,False
+237,114,Baseball,$0 ,True,True,0.0,CAD (assumed),Single amount,,,,,False
+238,114,Basketball,$0 ,True,True,0.0,CAD (assumed),Single amount,,,,,False
+239,115,Soccer,500 CAD,True,True,500.0,CAD (explicit),Single amount,,,,,False
+240,115,Baseball,300 CAD,True,True,300.0,CAD (explicit),Single amount,,,,,True
+241,115,Basketball,1000 CAD,True,True,1000.0,CAD (explicit),Single amount,,,,,True
+242,117,Soccer,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+243,117,Baseball,10,True,True,10.0,CAD (assumed),Single amount,,,,,False
+244,117,Basketball,10,True,True,10.0,CAD (assumed),Single amount,,,,,False
+245,118,Soccer,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+246,118,Baseball,20,True,True,20.0,CAD (assumed),Single amount,,,,,False
+247,118,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+248,120,Soccer,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+249,120,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+250,120,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+251,121,Soccer,$300 CAD,True,True,300.0,CAD (explicit),Single amount,,,,,False
+252,121,Baseball,$50 CAD,True,True,50.0,CAD (explicit),Single amount,,,,,False
+253,121,Basketball,$275 CAD,True,True,275.0,CAD (explicit),Single amount,,,,,False
+254,122,Soccer,$500 ,True,True,500.0,CAD (assumed),Single amount,,,,,False
+255,122,Baseball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+256,122,Basketball,$400 ,True,True,400.0,CAD (assumed),Single amount,,,,,False
+257,123,Soccer,Around $30 for a regular season game.,True,True,30.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+258,123,Baseball,Around $50.,True,True,50.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+259,123,Basketball,$150-$200 for the local team.,True,True,175.0,CAD (assumed),Range midpoint,,,150.0,200.0,False
+260,124,Soccer,$500 ,True,True,500.0,CAD (assumed),Single amount,,,,,False
+261,124,Baseball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+262,124,Basketball,$300 ,True,True,300.0,CAD (assumed),Single amount,,,,,False
+263,125,Soccer,350,True,True,350.0,CAD (assumed),Single amount,,,,,False
+264,125,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+265,125,Basketball,80,True,True,80.0,CAD (assumed),Single amount,,,,,False
+266,126,Soccer,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+267,126,Baseball,$40 ,True,True,40.0,CAD (assumed),Single amount,,,,,False
+268,126,Basketball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+269,127,Soccer,$0 ,True,True,0.0,CAD (assumed),Single amount,,,,,False
+270,127,Baseball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+271,127,Basketball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+272,128,Soccer,15$,True,True,15.0,CAD (assumed),Single amount,,,,,False
+273,128,Baseball,15,True,True,15.0,CAD (assumed),Single amount,,,,,False
+274,128,Basketball,20,True,True,20.0,CAD (assumed),Single amount,,,,,False
+275,129,Soccer,100 cad,True,True,100.0,CAD (explicit),Single amount,,,,,False
+276,129,Baseball,100 cad,True,True,100.0,CAD (explicit),Single amount,,,,,False
+277,129,Basketball,100 cad,True,True,100.0,CAD (explicit),Single amount,,,,,False
+278,130,Soccer,600,True,True,600.0,CAD (assumed),Single amount,,,,,False
+279,130,Baseball,200,True,True,200.0,CAD (assumed),Single amount,,,,,True
+280,130,Basketball,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+281,131,Soccer,200$ but only because I don't care about the sport this much.,True,True,200.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+282,131,Baseball,$50-$100,True,True,75.0,CAD (assumed),Range midpoint,,,50.0,100.0,False
+283,131,Basketball,100-200$,True,True,150.0,CAD (assumed),Range midpoint,,,100.0,200.0,False
+284,132,Soccer,At most 200 CAD. ,True,True,200.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained,,,False
+285,132,Baseball,At most 150 CAD,True,True,150.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained,,,False
+286,132,Basketball,Up to 400 CAD,True,True,400.0,CAD (explicit),Single amount,,Upper limit wording; stated number retained,,,False
+287,134,Soccer,Hundreds of dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+288,134,Baseball,Hundreds of dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+289,134,Basketball,Hundreds of dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+290,135,Soccer,100$,True,True,100.0,CAD (assumed),Single amount,,,,,False
+291,135,Baseball,10$,True,True,10.0,CAD (assumed),Single amount,,,,,False
+292,135,Basketball,10$,True,True,10.0,CAD (assumed),Single amount,,,,,False
+293,136,Soccer,800-1000 CAD,True,True,900.0,CAD (explicit),Range midpoint,,,800.0,1000.0,False
+294,136,Baseball,80-100 CAD,True,True,90.0,CAD (explicit),Range midpoint,,,80.0,100.0,False
+295,136,Basketball,200-300 CAD,True,True,250.0,CAD (explicit),Range midpoint,,,200.0,300.0,False
+296,137,Soccer,200 CAD,True,True,200.0,CAD (explicit),Single amount,,,,,False
+297,137,Baseball,50 CAD,True,True,50.0,CAD (explicit),Single amount,,,,,False
+298,137,Basketball,200 CAD,True,True,200.0,CAD (explicit),Single amount,,,,,False
+299,138,Soccer,300 dollars.,True,True,300.0,CAD (assumed),Single amount,,,,,False
+300,138,Baseball,100 dollars.,True,True,100.0,CAD (assumed),Single amount,,,,,False
+301,138,Basketball,200 dollars,True,True,200.0,CAD (assumed),Single amount,,,,,False
+302,140,Soccer,=<$500,True,True,500.0,CAD (assumed),Single amount,,Upper limit wording; stated number retained,,,False
+303,140,Baseball,=<$500,True,True,500.0,CAD (assumed),Single amount,,Upper limit wording; stated number retained,,,True
+304,140,Basketball,=<$500,True,True,500.0,CAD (assumed),Single amount,,Upper limit wording; stated number retained,,,False
+305,141,Soccer,200$,True,True,200.0,CAD (assumed),Single amount,,,,,False
+306,141,Baseball,$20 ,True,True,20.0,CAD (assumed),Single amount,,,,,False
+307,141,Basketball,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+308,142,Soccer,Unwilling,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+309,142,Baseball,Unwilling,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+310,142,Basketball,Unwilling,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+311,143,Soccer,$300 ,True,True,300.0,CAD (assumed),Single amount,,,,,False
+312,143,Baseball,$30 ,True,True,30.0,CAD (assumed),Single amount,,,,,False
+313,143,Basketball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+314,147,Soccer,600,True,True,600.0,CAD (assumed),Single amount,,,,,False
+315,147,Baseball,300,True,True,300.0,CAD (assumed),Single amount,,,,,True
+316,147,Basketball,800,True,True,800.0,CAD (assumed),Single amount,,,,,True
+317,148,Soccer,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+318,148,Baseball,60,True,True,60.0,CAD (assumed),Single amount,,,,,False
+319,148,Basketball,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+320,149,Soccer,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+321,149,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+322,149,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+323,150,Soccer,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+324,150,Baseball,$70 ,True,True,70.0,CAD (assumed),Single amount,,,,,False
+325,150,Basketball,$90 ,True,True,90.0,CAD (assumed),Single amount,,,,,False
+326,151,Soccer,150$,True,True,150.0,CAD (assumed),Single amount,,,,,False
+327,151,Baseball,80$,True,True,80.0,CAD (assumed),Single amount,,,,,False
+328,151,Basketball,150$,True,True,150.0,CAD (assumed),Single amount,,,,,False
+329,152,Soccer,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+330,152,Baseball,$10 ,True,True,10.0,CAD (assumed),Single amount,,,,,False
+331,152,Basketball,$70 ,True,True,70.0,CAD (assumed),Single amount,,,,,False
+332,153,Soccer,$150 ,True,True,150.0,CAD (assumed),Single amount,,,,,False
+333,153,Baseball,$35 ,True,True,35.0,CAD (assumed),Single amount,,,,,False
+334,153,Basketball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+335,155,Soccer,$500 - $750,True,True,625.0,CAD (assumed),Range midpoint,,,500.0,750.0,False
+336,155,Baseball,$80 - $100,True,True,90.0,CAD (assumed),Range midpoint,,,80.0,100.0,False
+337,155,Basketball,$100 - $300,True,True,200.0,CAD (assumed),Range midpoint,,,100.0,300.0,False
+338,157,Soccer,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+339,157,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+340,157,Basketball,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+341,158,Soccer,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+342,158,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+343,158,Basketball,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+344,159,Soccer,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+345,159,Baseball,$0 ,True,True,0.0,CAD (assumed),Single amount,,,,,False
+346,159,Basketball,$300 ,True,True,300.0,CAD (assumed),Single amount,,,,,False
+347,161,Soccer,300$,True,True,300.0,CAD (assumed),Single amount,,,,,False
+348,161,Baseball,50$,True,True,50.0,CAD (assumed),Single amount,,,,,False
+349,161,Basketball,200$,True,True,200.0,CAD (assumed),Single amount,,,,,False
+350,162,Soccer,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+351,162,Baseball,30,True,True,30.0,CAD (assumed),Single amount,,,,,False
+352,162,Basketball,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+353,164,Soccer,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+354,164,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+355,164,Basketball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+356,166,Soccer,1000,True,True,1000.0,CAD (assumed),Single amount,,,,,False
+357,166,Baseball,300,True,True,300.0,CAD (assumed),Single amount,,,,,True
+358,166,Basketball,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+359,167,Soccer,100 dollars,True,True,100.0,CAD (assumed),Single amount,,,,,False
+360,167,Baseball,30,True,True,30.0,CAD (assumed),Single amount,,,,,False
+361,167,Basketball,300 dollars,True,True,300.0,CAD (assumed),Single amount,,,,,False
+362,168,Soccer,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+363,168,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+364,168,Basketball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+365,169,Soccer,100-200,True,True,150.0,CAD (assumed),Range midpoint,,,100.0,200.0,False
+366,169,Baseball,50-100,True,True,75.0,CAD (assumed),Range midpoint,,,50.0,100.0,False
+367,169,Basketball,100-200,True,True,150.0,CAD (assumed),Range midpoint,,,100.0,200.0,False
+368,171,Soccer,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+369,171,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+370,171,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+371,173,Soccer,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+372,173,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+373,173,Basketball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+374,174,Soccer,$100 at most.,True,True,100.0,CAD (assumed),Single amount,,Upper limit wording; stated number retained,,,False
+375,174,Baseball,$80 bucks at most,True,True,80.0,CAD (assumed),Single amount,,Upper limit wording; stated number retained,,,False
+376,174,Basketball,$100-$250 depending on the teams.,True,True,175.0,CAD (assumed),Range midpoint,,,100.0,250.0,False
+377,176,Soccer,$150.00 ,True,True,150.0,CAD (assumed),Single amount,,,,,False
+378,176,Baseball,$200.00 ,True,True,200.0,CAD (assumed),Single amount,,,,,True
+379,176,Basketball,$300.00 ,True,True,300.0,CAD (assumed),Single amount,,,,,False
+380,177,Soccer,500,True,True,500.0,CAD (assumed),Single amount,,,,,False
+381,177,Baseball,20,True,True,20.0,CAD (assumed),Single amount,,,,,False
+382,177,Basketball,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+383,178,Soccer,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+384,178,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+385,178,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+386,183,Soccer,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+387,183,Baseball,20,True,True,20.0,CAD (assumed),Single amount,,,,,False
+388,183,Basketball,20,True,True,20.0,CAD (assumed),Single amount,,,,,False
+389,184,Soccer,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+390,184,Baseball,20,True,True,20.0,CAD (assumed),Single amount,,,,,False
+391,184,Basketball,20,True,True,20.0,CAD (assumed),Single amount,,,,,False
+392,186,Soccer,"除非我的国家队晋级[a competition]，否则我不会花一美元——在这种情况下，我愿意支付的金额等于票价乘以几乎为零的概率。
+
+（但我运气好得有点奇怪，很多我认为完全不可能的事情都发生了——比如绿洲乐队重组。所以，概率或许并非为零。）",False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+393,186,Baseball,"I won't go see the game, but if I absolutely have to, I'll pay the regular price—or even a discounted one.",False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+394,186,Basketball,"The tickets are way too hard to grab, so forget it—none of my friends even play [this sport] anyway.",False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+395,188,Soccer,$5000 to $1000,True,True,3000.0,CAD (assumed),Range midpoint,,Reversed range endpoints; midpoint retained,1000.0,5000.0,True
+396,188,Baseball,$5000 to $1000,True,True,3000.0,CAD (assumed),Range midpoint,,Reversed range endpoints; midpoint retained,1000.0,5000.0,True
+397,188,Basketball,$2000 to $500,True,True,1250.0,CAD (assumed),Range midpoint,,Reversed range endpoints; midpoint retained,500.0,2000.0,True
+398,189,Soccer,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+399,189,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+400,189,Basketball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+401,190,Soccer,50 Canadian dollars,True,True,50.0,CAD (explicit),Single amount,,,,,False
+402,190,Baseball,30 Canadian dollars,True,True,30.0,CAD (explicit),Single amount,,,,,False
+403,190,Basketball,60 Canadian dollars,True,True,60.0,CAD (explicit),Single amount,,,,,False
+404,191,Soccer,$100 CAD,True,True,100.0,CAD (explicit),Single amount,,,,,False
+405,191,Baseball,$100 CAD,True,True,100.0,CAD (explicit),Single amount,,,,,False
+406,191,Basketball,$150 CAD,True,True,150.0,CAD (explicit),Single amount,,,,,False
+407,193,Soccer,$30 ,True,True,30.0,CAD (assumed),Single amount,,,,,False
+408,193,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+409,193,Basketball,$70 ,True,True,70.0,CAD (assumed),Single amount,,,,,False
+410,195,Soccer,$300 ,True,True,300.0,CAD (assumed),Single amount,,,,,False
+411,195,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+412,195,Basketball,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+413,196,Soccer,not too much,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+414,196,Baseball,not too much,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+415,196,Basketball,not too much,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+416,197,Soccer,1000$,True,True,1000.0,CAD (assumed),Single amount,,,,,False
+417,197,Baseball,300$,True,True,300.0,CAD (assumed),Single amount,,,,,True
+418,197,Basketball,1000$,True,True,1000.0,CAD (assumed),Single amount,,,,,True
+419,198,Soccer,1000,True,True,1000.0,CAD (assumed),Single amount,,,,,False
+420,198,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+421,198,Basketball,500,True,True,500.0,CAD (assumed),Single amount,,,,,False
+422,199,Soccer,Around $150–200 for a solid seat at a high-level professional match.,True,True,175.0,CAD (assumed),Range midpoint,,Approximate or conditional amount,150.0,200.0,False
+423,199,Baseball,Around $80.,True,True,80.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+424,199,Basketball,Around $150–200.,True,True,175.0,CAD (assumed),Range midpoint,,Approximate or conditional amount,150.0,200.0,False
+425,200,Soccer,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+426,200,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+427,200,Basketball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+428,201,Soccer,300 dollars,True,True,300.0,CAD (assumed),Single amount,,,,,False
+429,201,Baseball,150 dollars,True,True,150.0,CAD (assumed),Single amount,,,,,False
+430,201,Basketball,400 dollars,True,True,400.0,CAD (assumed),Single amount,,,,,False
+431,202,Soccer,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+432,202,Baseball,20,True,True,20.0,CAD (assumed),Single amount,,,,,False
+433,202,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+434,203,Soccer,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+435,203,Baseball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+436,203,Basketball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+437,206,Soccer,1k,True,True,1000.0,CAD (assumed),Single amount,,k expanded to thousands,,,False
+438,206,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+439,206,Basketball,5k,True,True,5000.0,CAD (assumed),Single amount,,k expanded to thousands,,,True
+440,207,Soccer,300,True,True,300.0,CAD (assumed),Single amount,,,,,False
+441,207,Baseball,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+442,207,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+443,208,Soccer,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+444,208,Baseball,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+445,208,Basketball,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+446,209,Soccer,CAD 1500,True,True,1500.0,CAD (explicit),Single amount,,,,,True
+447,209,Baseball,CAD 1000,True,True,1000.0,CAD (explicit),Single amount,,,,,True
+448,209,Basketball,CAD 1200,True,True,1200.0,CAD (explicit),Single amount,,,,,True
+449,210,Soccer,500$,True,True,500.0,CAD (assumed),Single amount,,,,,False
+450,210,Baseball,50$,True,True,50.0,CAD (assumed),Single amount,,,,,False
+451,210,Basketball,500$,True,True,500.0,CAD (assumed),Single amount,,,,,False
+452,212,Soccer,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+453,212,Baseball,80,True,True,80.0,CAD (assumed),Single amount,,,,,False
+454,212,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+455,213,Soccer,$250 ,True,True,250.0,CAD (assumed),Single amount,,,,,False
+456,213,Baseball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+457,213,Basketball,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+458,217,Soccer,Nothing,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+459,217,Baseball,Nothing,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+460,217,Basketball,1€,True,False,,Explicit non-CAD currency,,Foreign currency; excluded from the CAD summary without conversion,,,,False
+461,220,Soccer,100 dollars,True,True,100.0,CAD (assumed),Single amount,,,,,False
+462,220,Baseball,0 dollar,True,True,0.0,CAD (assumed),Single amount,,,,,False
+463,220,Basketball,200 dollars,True,True,200.0,CAD (assumed),Single amount,,,,,False
+464,221,Soccer,1 to 10 scale i will put a 2 as the ticket price is too high and i prefer to watch it online instead of in person.,True,False,,CAD (assumed),,Rating scale rather than a ticket amount,,,,False
+465,221,Baseball,1 to 10 scale i will choose 2 since im a person that enjoy watching sports online,True,False,,CAD (assumed),,Rating scale rather than a ticket amount,,,,False
+466,221,Basketball,1 to 10 scale probably 1,True,False,,CAD (assumed),,Rating scale rather than a ticket amount,,,,False
+467,222,Soccer,300 dollars,True,True,300.0,CAD (assumed),Single amount,,,,,False
+468,222,Baseball,300 dollars,True,True,300.0,CAD (assumed),Single amount,,,,,True
+469,222,Basketball,300 dollars,True,True,300.0,CAD (assumed),Single amount,,,,,False
+470,223,Soccer,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+471,223,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+472,223,Basketball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+473,224,Soccer,1000,True,True,1000.0,CAD (assumed),Single amount,,,,,False
+474,224,Baseball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+475,224,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+476,225,Soccer,80,True,True,80.0,CAD (assumed),Single amount,,,,,False
+477,225,Baseball,30,True,True,30.0,CAD (assumed),Single amount,,,,,False
+478,225,Basketball,120,True,True,120.0,CAD (assumed),Single amount,,,,,False
+479,226,Soccer,"Depends on the game, a big final $1000
+
+A normal but good game $200",True,False,,CAD (assumed),,Multiple amounts without one unambiguous range,,,,False
+480,226,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+481,226,Basketball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+482,227,Soccer,50$,True,True,50.0,CAD (assumed),Single amount,,,,,False
+483,227,Baseball,50$,True,True,50.0,CAD (assumed),Single amount,,,,,False
+484,227,Basketball,100$,True,True,100.0,CAD (assumed),Single amount,,,,,False
+485,228,Soccer,Thirty dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+486,228,Baseball,Twenty five dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+487,228,Basketball,Forty five dollars,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+488,230,Soccer,400cad,True,True,400.0,CAD (explicit),Single amount,,,,,False
+489,230,Baseball,200cad,True,True,200.0,CAD (explicit),Single amount,,,,,True
+490,230,Basketball,300cad,True,True,300.0,CAD (explicit),Single amount,,,,,False
+491,231,Soccer,200CAD,True,True,200.0,CAD (explicit),Single amount,,,,,False
+492,231,Baseball,80$,True,True,80.0,CAD (assumed),Single amount,,,,,False
+493,231,Basketball,10$,True,True,10.0,CAD (assumed),Single amount,,,,,False
+494,235,Soccer,$60 ,True,True,60.0,CAD (assumed),Single amount,,,,,False
+495,235,Baseball,$20 ,True,True,20.0,CAD (assumed),Single amount,,,,,False
+496,235,Basketball,$60 ,True,True,60.0,CAD (assumed),Single amount,,,,,False
+497,236,Soccer,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+498,236,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+499,236,Basketball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+500,238,Soccer,100 dollars,True,True,100.0,CAD (assumed),Single amount,,,,,False
+501,238,Baseball,50 dollars,True,True,50.0,CAD (assumed),Single amount,,,,,False
+502,238,Basketball,150 dollars,True,True,150.0,CAD (assumed),Single amount,,,,,False
+503,239,Soccer,1000,True,True,1000.0,CAD (assumed),Single amount,,,,,False
+504,239,Baseball,500,True,True,500.0,CAD (assumed),Single amount,,,,,True
+505,239,Basketball,1000,True,True,1000.0,CAD (assumed),Single amount,,,,,True
+506,240,Soccer,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+507,240,Baseball,30,True,True,30.0,CAD (assumed),Single amount,,,,,False
+508,240,Basketball,20,True,True,20.0,CAD (assumed),Single amount,,,,,False
+509,241,Soccer,Around $300 for a good view and a lively atmosphere,True,True,300.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+510,241,Baseball,I wouldnt pay for this sport as I don't enjoy it,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+511,241,Basketball,Around CAD $200 for a decent seat at a game I was excited to attend,True,True,200.0,CAD (explicit),Single amount,,Approximate or conditional amount,,,False
+512,245,Soccer,120,True,True,120.0,CAD (assumed),Single amount,,,,,False
+513,245,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+514,245,Basketball,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+515,246,Soccer,600 CAD.,True,True,600.0,CAD (explicit),Single amount,,,,,False
+516,246,Baseball,80 CAD.,True,True,80.0,CAD (explicit),Single amount,,,,,False
+517,246,Basketball,70 CAD.,True,True,70.0,CAD (explicit),Single amount,,,,,False
+518,247,Soccer,50 dollars.,True,True,50.0,CAD (assumed),Single amount,,,,,False
+519,247,Baseball,40 dollars.,True,True,40.0,CAD (assumed),Single amount,,,,,False
+520,247,Basketball,80 dollars.,True,True,80.0,CAD (assumed),Single amount,,,,,False
+521,248,Soccer,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+522,248,Baseball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+523,248,Basketball,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+524,249,Soccer,50 CAD,True,True,50.0,CAD (explicit),Single amount,,,,,False
+525,249,Baseball,0,True,True,0.0,CAD (assumed),Single amount,,,,,False
+526,249,Basketball,400CAD,True,True,400.0,CAD (explicit),Single amount,,,,,False
+527,250,Soccer,$150 ,True,True,150.0,CAD (assumed),Single amount,,,,,False
+528,250,Baseball,$60 ,True,True,60.0,CAD (assumed),Single amount,,,,,False
+529,250,Basketball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+530,251,Soccer,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+531,251,Baseball,30,True,True,30.0,CAD (assumed),Single amount,,,,,False
+532,251,Basketball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+533,253,Soccer,None,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+534,253,Baseball,None,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+535,253,Basketball,$150 ,True,True,150.0,CAD (assumed),Single amount,,,,,False
+536,254,Soccer,$300 ,True,True,300.0,CAD (assumed),Single amount,,,,,False
+537,254,Baseball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+538,254,Basketball,$400 ,True,True,400.0,CAD (assumed),Single amount,,,,,False
+539,258,Soccer,,False,False,,CAD (assumed),,Blank answer,,,,False
+540,258,Baseball,,False,False,,CAD (assumed),,Blank answer,,,,False
+541,258,Basketball,,False,False,,CAD (assumed),,Blank answer,,,,False
+542,259,Soccer,I’d be willing to pay about $100 for a decent seat at a professional [this sport] match.,True,True,100.0,CAD (assumed),Single amount,,Approximate or conditional amount,,,False
+543,259,Baseball,$80 ,True,True,80.0,CAD (assumed),Single amount,,,,,False
+544,259,Basketball,$120 ,True,True,120.0,CAD (assumed),Single amount,,,,,False
+545,260,Soccer,$400 ,True,True,400.0,CAD (assumed),Single amount,,,,,False
+546,260,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+547,260,Basketball,$500 ,True,True,500.0,CAD (assumed),Single amount,,,,,False
+548,261,Soccer,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+549,261,Baseball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+550,261,Basketball,200,True,True,200.0,CAD (assumed),Single amount,,,,,False
+551,263,Soccer,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+552,263,Baseball,$100 ,True,True,100.0,CAD (assumed),Single amount,,,,,False
+553,263,Basketball,$200 ,True,True,200.0,CAD (assumed),Single amount,,,,,False
+554,265,Soccer,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+555,265,Baseball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+556,265,Basketball,100,True,True,100.0,CAD (assumed),Single amount,,,,,False
+557,267,Soccer,Around $100 CAD,True,True,100.0,CAD (explicit),Single amount,,Approximate or conditional amount,,,False
+558,267,Baseball,,False,False,,CAD (assumed),,Blank answer,,,,False
+559,267,Basketball,,False,False,,CAD (assumed),,Blank answer,,,,False
+560,268,Soccer,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+561,268,Baseball,70,True,True,70.0,CAD (assumed),Single amount,,,,,False
+562,268,Basketball,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+563,269,Soccer,500 dollar,True,True,500.0,CAD (assumed),Single amount,,,,,False
+564,269,Baseball,300,True,True,300.0,CAD (assumed),Single amount,,,,,True
+565,269,Basketball,400,True,True,400.0,CAD (assumed),Single amount,,,,,False
+566,270,Soccer,$300 ,True,True,300.0,CAD (assumed),Single amount,,,,,False
+567,270,Baseball,$50 ,True,True,50.0,CAD (assumed),Single amount,,,,,False
+568,270,Basketball,$300 ,True,True,300.0,CAD (assumed),Single amount,,,,,False
+569,272,Soccer,1200,True,True,1200.0,CAD (assumed),Single amount,,,,,True
+570,272,Baseball,200,True,True,200.0,CAD (assumed),Single amount,,,,,True
+571,272,Basketball,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+572,273,Soccer,"$200, $500 for a great game",True,False,,CAD (assumed),,Multiple amounts without one unambiguous range,,,,False
+573,273,Baseball,$150-$250,True,True,200.0,CAD (assumed),Range midpoint,,,150.0,250.0,True
+574,273,Basketball,$150-$250,True,True,200.0,CAD (assumed),Range midpoint,,,150.0,250.0,False
+575,275,Soccer,Somewhat willing,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+576,275,Baseball,Very willing as most action is in one place,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+577,275,Basketball,Very willing,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+578,276,Soccer,$500 ,True,True,500.0,CAD (assumed),Single amount,,,,,False
+579,276,Baseball,200,True,True,200.0,CAD (assumed),Single amount,,,,,True
+580,276,Basketball,500,True,True,500.0,CAD (assumed),Single amount,,,,,False
+581,278,Soccer,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+582,278,Baseball,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+583,278,Basketball,none,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+584,279,Soccer,$150 CAD,True,True,150.0,CAD (explicit),Single amount,,,,,False
+585,279,Baseball,$60 CAD,True,True,60.0,CAD (explicit),Single amount,,,,,False
+586,279,Basketball,$80 CAD,True,True,80.0,CAD (explicit),Single amount,,,,,False
+587,280,Soccer,40 dollars,True,True,40.0,CAD (assumed),Single amount,,,,,False
+588,280,Baseball,30 dollars,True,True,30.0,CAD (assumed),Single amount,,,,,False
+589,280,Basketball,50 dollars,True,True,50.0,CAD (assumed),Single amount,,,,,False
+590,281,Soccer,500 dollars ,True,True,500.0,CAD (assumed),Single amount,,,,,False
+591,281,Baseball,50 dollars.,True,True,50.0,CAD (assumed),Single amount,,,,,False
+592,281,Basketball,500 dollars ,True,True,500.0,CAD (assumed),Single amount,,,,,False
+593,282,Soccer,100 dollars,True,True,100.0,CAD (assumed),Single amount,,,,,False
+594,282,Baseball,50,True,True,50.0,CAD (assumed),Single amount,,,,,False
+595,282,Basketball,150,True,True,150.0,CAD (assumed),Single amount,,,,,False
+596,283,Soccer,500,True,True,500.0,CAD (assumed),Single amount,,,,,False
+597,283,Baseball,200,True,True,200.0,CAD (assumed),Single amount,,,,,True
+598,283,Basketball,400,True,True,400.0,CAD (assumed),Single amount,,,,,False
+599,284,Soccer,$90 ,True,True,90.0,CAD (assumed),Single amount,,,,,False
+600,284,Baseball,$110 ,True,True,110.0,CAD (assumed),Single amount,,,,,False
+601,284,Basketball,250,True,True,250.0,CAD (assumed),Single amount,,,,,False
+602,285,Soccer,You need to pay me to sit there.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+603,285,Baseball,You need to pay me to sit there.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+604,285,Basketball,You need to pay me to sit there.,False,False,,CAD (assumed),,No numeric digits; no amount inferred,,,,False
+605,287,Soccer,30 CAD because I'm broke,True,True,30.0,CAD (explicit),Single amount,,,,,False
+606,287,Baseball,5 CAD because I dont watch this,True,True,5.0,CAD (explicit),Single amount,,,,,False
+607,287,Basketball,20 CAD,True,True,20.0,CAD (explicit),Single amount,,,,,False
+608,289,Soccer,Around 300CAD,True,True,300.0,CAD (explicit),Single amount,,Approximate or conditional amount,,,False
+609,289,Baseball,100CAD,True,True,100.0,CAD (explicit),Single amount,,,,,False
+610,289,Basketball,200CAD,True,True,200.0,CAD (explicit),Single amount,,,,,False

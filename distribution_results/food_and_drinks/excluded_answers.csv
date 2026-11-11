@@ -1,0 +1,35 @@
+﻿csv_row,id,label,raw_answer,reason
+7,5,Basketball,Nothing,No association / unsure; treated as missing by project rule
+21,11,Baseball,"N/A, since I know nothing about it at all",No association / unsure; treated as missing by project rule
+51,23,Baseball,None,No association / unsure; treated as missing by project rule
+73,34,Basketball,None,No association / unsure; treated as missing by project rule
+99,44,Baseball,I haven't ever watched it before.,No association / unsure; treated as missing by project rule
+148,73,Basketball,Perhaps some refreshments for the athletes but I do not associate any food or drink with the viewing experience.,No association / unsure; treated as missing by project rule
+157,77,Basketball,None,No association / unsure; treated as missing by project rule
+169,82,Basketball,none,No association / unsure; treated as missing by project rule
+202,96,Basketball,,Blank answer
+222,108,Baseball,N/A,No association / unsure; treated as missing by project rule
+238,114,Basketball,None,No association / unsure; treated as missing by project rule
+302,140,Soccer,None in particular,No association / unsure; treated as missing by project rule
+308,142,Soccer,Unsure,No association / unsure; treated as missing by project rule
+309,142,Baseball,Unsure,No association / unsure; treated as missing by project rule
+310,142,Basketball,Unsure,No association / unsure; treated as missing by project rule
+363,168,Baseball,,Blank answer
+364,168,Basketball,,Blank answer
+369,171,Baseball,no,No association / unsure; treated as missing by project rule
+399,189,Baseball,None,No association / unsure; treated as missing by project rule
+400,189,Basketball,None,No association / unsure; treated as missing by project rule
+418,197,Basketball,None in particular,No association / unsure; treated as missing by project rule
+434,203,Soccer,No food or drink in particular,No association / unsure; treated as missing by project rule
+436,203,Basketball,No food or drink,No association / unsure; treated as missing by project rule
+472,223,Basketball,None,No association / unsure; treated as missing by project rule
+513,245,Baseball,nothing,No association / unsure; treated as missing by project rule
+519,247,Baseball,Nothing in particular.,No association / unsure; treated as missing by project rule
+525,249,Baseball,"None, the sport is not popular",No association / unsure; treated as missing by project rule
+539,258,Soccer,,Blank answer
+540,258,Baseball,,Blank answer
+541,258,Basketball,,Blank answer
+558,267,Baseball,,Blank answer
+559,267,Basketball,,Blank answer
+580,276,Basketball,NA,No association / unsure; treated as missing by project rule
+582,278,Baseball,none,No association / unsure; treated as missing by project rule

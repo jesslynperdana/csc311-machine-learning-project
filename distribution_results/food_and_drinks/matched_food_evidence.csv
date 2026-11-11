@@ -1,0 +1,1462 @@
+﻿csv_row,id,label,food_name,matched_phrases,raw_answer
+2,2,Soccer,Beer,beer,"French fries, soda, beer"
+2,2,Soccer,Fries,french fries,"French fries, soda, beer"
+2,2,Soccer,Soft drinks,soda,"French fries, soda, beer"
+3,2,Baseball,Hot dog,hot dogs,"Hot dogs, pizza"
+3,2,Baseball,Pizza,pizza,"Hot dogs, pizza"
+4,2,Basketball,Nachos,nachos,"Nachos, coke"
+4,2,Basketball,Soft drinks,coke,"Nachos, coke"
+5,5,Soccer,Hot dog,hotdog,Hotdog
+6,5,Baseball,Hot dog,hotdog,Hotdog
+8,6,Soccer,Burger,burger,"Hot dogs, soda, burger, and fries"
+8,6,Soccer,Fries,fries,"Hot dogs, soda, burger, and fries"
+8,6,Soccer,Hot dog,hot dogs,"Hot dogs, soda, burger, and fries"
+8,6,Soccer,Soft drinks,soda,"Hot dogs, soda, burger, and fries"
+9,6,Baseball,Burger,burger,"Hot dogs, soda, burger, and fries"
+9,6,Baseball,Fries,fries,"Hot dogs, soda, burger, and fries"
+9,6,Baseball,Hot dog,hot dogs,"Hot dogs, soda, burger, and fries"
+9,6,Baseball,Soft drinks,soda,"Hot dogs, soda, burger, and fries"
+10,6,Basketball,Burger,burger,"Hot dogs, soda, burger, and fries"
+10,6,Basketball,Fries,fries,"Hot dogs, soda, burger, and fries"
+10,6,Basketball,Hot dog,hot dogs,"Hot dogs, soda, burger, and fries"
+10,6,Basketball,Soft drinks,soda,"Hot dogs, soda, burger, and fries"
+11,7,Soccer,Beer,beer,"Beer, Fries, Skewers"
+11,7,Soccer,Fries,fries,"Beer, Fries, Skewers"
+12,7,Baseball,Hot dog,hotdogs,"Hotdogs, nachos"
+12,7,Baseball,Nachos,nachos,"Hotdogs, nachos"
+13,7,Basketball,Chicken,chicken wings,"Chicken Wings, Pizzas"
+13,7,Basketball,Pizza,pizzas,"Chicken Wings, Pizzas"
+14,9,Soccer,Popcorn,popcorn,popcorn and soda
+14,9,Soccer,Soft drinks,soda,popcorn and soda
+15,9,Baseball,Popcorn,popcorn,popcorn and soda
+15,9,Baseball,Soft drinks,soda,popcorn and soda
+16,9,Basketball,Popcorn,popcorn,popcorn and soda
+16,9,Basketball,Soft drinks,soda,popcorn and soda
+18,10,Baseball,Hot dog,hotdog,Hotdog
+19,10,Basketball,Fries,french fries,French Fries
+20,11,Soccer,Beer,beer,Beer and fried chicken
+20,11,Soccer,Chicken,fried chicken,Beer and fried chicken
+22,11,Basketball,Soft drinks,coke,Taco and coke
+23,12,Soccer,Beer,beer,"Nachos, and beer. "
+23,12,Soccer,Nachos,nachos,"Nachos, and beer. "
+24,12,Baseball,Hot dog,hot dogs,Hot dogs and soda. 
+24,12,Baseball,Soft drinks,soda,Hot dogs and soda. 
+25,12,Basketball,Chips,chips | crisps,Chips (Crisps) and Soda
+25,12,Basketball,Soft drinks,soda,Chips (Crisps) and Soda
+26,14,Soccer,Beer,beer,"Mostly drinks and less food. In particular, I think of sodas and beer."
+26,14,Soccer,Soft drinks,sodas,"Mostly drinks and less food. In particular, I think of sodas and beer."
+27,14,Baseball,Hot dog,hot dogs,Hot dogs and soda
+27,14,Baseball,Soft drinks,soda,Hot dogs and soda
+28,14,Basketball,Chicken,chicken wings,Chicken wings
+29,15,Soccer,Beer,beer,"Drinks: Beer, Water, Coca-Cola/Pepsi, Soda, Redbull
+
+Foods: Burger, Pizza, Chips"
+29,15,Soccer,Burger,burger,"Drinks: Beer, Water, Coca-Cola/Pepsi, Soda, Redbull
+
+Foods: Burger, Pizza, Chips"
+29,15,Soccer,Chips,chips,"Drinks: Beer, Water, Coca-Cola/Pepsi, Soda, Redbull
+
+Foods: Burger, Pizza, Chips"
+29,15,Soccer,Energy / electrolyte drinks,redbull,"Drinks: Beer, Water, Coca-Cola/Pepsi, Soda, Redbull
+
+Foods: Burger, Pizza, Chips"
+29,15,Soccer,Pizza,pizza,"Drinks: Beer, Water, Coca-Cola/Pepsi, Soda, Redbull
+
+Foods: Burger, Pizza, Chips"
+29,15,Soccer,Soft drinks,coca cola | pepsi | soda,"Drinks: Beer, Water, Coca-Cola/Pepsi, Soda, Redbull
+
+Foods: Burger, Pizza, Chips"
+29,15,Soccer,Water,water,"Drinks: Beer, Water, Coca-Cola/Pepsi, Soda, Redbull
+
+Foods: Burger, Pizza, Chips"
+30,15,Baseball,Beer,beer,"Foods: Popcorn, Corndog, Hotdog
+
+Drinks: Beer, Water, Soda"
+30,15,Baseball,Hot dog,hotdog,"Foods: Popcorn, Corndog, Hotdog
+
+Drinks: Beer, Water, Soda"
+30,15,Baseball,Popcorn,popcorn,"Foods: Popcorn, Corndog, Hotdog
+
+Drinks: Beer, Water, Soda"
+30,15,Baseball,Soft drinks,soda,"Foods: Popcorn, Corndog, Hotdog
+
+Drinks: Beer, Water, Soda"
+30,15,Baseball,Water,water,"Foods: Popcorn, Corndog, Hotdog
+
+Drinks: Beer, Water, Soda"
+31,15,Basketball,Beer,beer,"Drinks: Beer, Water, Soda
+
+Foods: Burger, Pizza, Chips, Hotdog, Fried chicken"
+31,15,Basketball,Burger,burger,"Drinks: Beer, Water, Soda
+
+Foods: Burger, Pizza, Chips, Hotdog, Fried chicken"
+31,15,Basketball,Chicken,fried chicken,"Drinks: Beer, Water, Soda
+
+Foods: Burger, Pizza, Chips, Hotdog, Fried chicken"
+31,15,Basketball,Chips,chips,"Drinks: Beer, Water, Soda
+
+Foods: Burger, Pizza, Chips, Hotdog, Fried chicken"
+31,15,Basketball,Hot dog,hotdog,"Drinks: Beer, Water, Soda
+
+Foods: Burger, Pizza, Chips, Hotdog, Fried chicken"
+31,15,Basketball,Pizza,pizza,"Drinks: Beer, Water, Soda
+
+Foods: Burger, Pizza, Chips, Hotdog, Fried chicken"
+31,15,Basketball,Soft drinks,soda,"Drinks: Beer, Water, Soda
+
+Foods: Burger, Pizza, Chips, Hotdog, Fried chicken"
+31,15,Basketball,Water,water,"Drinks: Beer, Water, Soda
+
+Foods: Burger, Pizza, Chips, Hotdog, Fried chicken"
+32,16,Soccer,Chicken,fried chicken,Fried Chicken and Coca-cola
+32,16,Soccer,Soft drinks,coca cola,Fried Chicken and Coca-cola
+33,16,Baseball,Beer,beer,Hot dog and Beer
+33,16,Baseball,Hot dog,hot dog,Hot dog and Beer
+34,16,Basketball,Beer,beer,Nachos and Beer
+34,16,Basketball,Nachos,nachos,Nachos and Beer
+35,17,Soccer,Beer,beer,"I associate it with pizza, chicken wings, fries, chips, beer, and soft drinks, especially when watching a major international competition with friends."
+35,17,Soccer,Chicken,chicken wings,"I associate it with pizza, chicken wings, fries, chips, beer, and soft drinks, especially when watching a major international competition with friends."
+35,17,Soccer,Chips,chips,"I associate it with pizza, chicken wings, fries, chips, beer, and soft drinks, especially when watching a major international competition with friends."
+35,17,Soccer,Fries,fries,"I associate it with pizza, chicken wings, fries, chips, beer, and soft drinks, especially when watching a major international competition with friends."
+35,17,Soccer,Pizza,pizza,"I associate it with pizza, chicken wings, fries, chips, beer, and soft drinks, especially when watching a major international competition with friends."
+35,17,Soccer,Soft drinks,soft drinks,"I associate it with pizza, chicken wings, fries, chips, beer, and soft drinks, especially when watching a major international competition with friends."
+36,17,Baseball,Beer,beer,"I associate it with hot dogs, popcorn, peanuts, nachos, beer, and soft drinks. These foods are easy to eat while sitting in the stands and watching a long game."
+36,17,Baseball,Hot dog,hot dogs,"I associate it with hot dogs, popcorn, peanuts, nachos, beer, and soft drinks. These foods are easy to eat while sitting in the stands and watching a long game."
+36,17,Baseball,Nachos,nachos,"I associate it with hot dogs, popcorn, peanuts, nachos, beer, and soft drinks. These foods are easy to eat while sitting in the stands and watching a long game."
+36,17,Baseball,Peanuts,peanuts,"I associate it with hot dogs, popcorn, peanuts, nachos, beer, and soft drinks. These foods are easy to eat while sitting in the stands and watching a long game."
+36,17,Baseball,Popcorn,popcorn,"I associate it with hot dogs, popcorn, peanuts, nachos, beer, and soft drinks. These foods are easy to eat while sitting in the stands and watching a long game."
+36,17,Baseball,Soft drinks,soft drinks,"I associate it with hot dogs, popcorn, peanuts, nachos, beer, and soft drinks. These foods are easy to eat while sitting in the stands and watching a long game."
+37,17,Basketball,Beer,beer,"I associate it with pizza, chicken wings, nachos, popcorn, fries, beer, and soft drinks, especially when watching with friends at home or in a sports bar."
+37,17,Basketball,Chicken,chicken wings,"I associate it with pizza, chicken wings, nachos, popcorn, fries, beer, and soft drinks, especially when watching with friends at home or in a sports bar."
+37,17,Basketball,Fries,fries,"I associate it with pizza, chicken wings, nachos, popcorn, fries, beer, and soft drinks, especially when watching with friends at home or in a sports bar."
+37,17,Basketball,Nachos,nachos,"I associate it with pizza, chicken wings, nachos, popcorn, fries, beer, and soft drinks, especially when watching with friends at home or in a sports bar."
+37,17,Basketball,Pizza,pizza,"I associate it with pizza, chicken wings, nachos, popcorn, fries, beer, and soft drinks, especially when watching with friends at home or in a sports bar."
+37,17,Basketball,Popcorn,popcorn,"I associate it with pizza, chicken wings, nachos, popcorn, fries, beer, and soft drinks, especially when watching with friends at home or in a sports bar."
+37,17,Basketball,Soft drinks,soft drinks,"I associate it with pizza, chicken wings, nachos, popcorn, fries, beer, and soft drinks, especially when watching with friends at home or in a sports bar."
+38,18,Soccer,Chicken,fried chicken,Fried chicken
+39,18,Baseball,Beer,beer,Beer
+40,18,Basketball,Energy / electrolyte drinks,monster drink,Monster drink
+41,19,Soccer,Beer,beer,"Beer, soda, hotdogs, burgers, fries, fried chicken, snacks or poutine."
+41,19,Soccer,Burger,burgers,"Beer, soda, hotdogs, burgers, fries, fried chicken, snacks or poutine."
+41,19,Soccer,Chicken,fried chicken,"Beer, soda, hotdogs, burgers, fries, fried chicken, snacks or poutine."
+41,19,Soccer,Fries,fries,"Beer, soda, hotdogs, burgers, fries, fried chicken, snacks or poutine."
+41,19,Soccer,Hot dog,hotdogs,"Beer, soda, hotdogs, burgers, fries, fried chicken, snacks or poutine."
+41,19,Soccer,Poutine,poutine,"Beer, soda, hotdogs, burgers, fries, fried chicken, snacks or poutine."
+41,19,Soccer,Soft drinks,soda,"Beer, soda, hotdogs, burgers, fries, fried chicken, snacks or poutine."
+42,19,Baseball,Beer,beer,"Hotdogs, peanuts, Cracker Jack, popcorn, beer and soda"
+42,19,Baseball,Hot dog,hotdogs,"Hotdogs, peanuts, Cracker Jack, popcorn, beer and soda"
+42,19,Baseball,Peanuts,peanuts,"Hotdogs, peanuts, Cracker Jack, popcorn, beer and soda"
+42,19,Baseball,Popcorn,popcorn,"Hotdogs, peanuts, Cracker Jack, popcorn, beer and soda"
+42,19,Baseball,Soft drinks,soda,"Hotdogs, peanuts, Cracker Jack, popcorn, beer and soda"
+43,19,Basketball,Chicken,fried chicken,"Hotdog, popcorn, fried chicken, soda and energy drinks"
+43,19,Basketball,Energy / electrolyte drinks,energy drinks,"Hotdog, popcorn, fried chicken, soda and energy drinks"
+43,19,Basketball,Hot dog,hotdog,"Hotdog, popcorn, fried chicken, soda and energy drinks"
+43,19,Basketball,Popcorn,popcorn,"Hotdog, popcorn, fried chicken, soda and energy drinks"
+43,19,Basketball,Soft drinks,soda,"Hotdog, popcorn, fried chicken, soda and energy drinks"
+44,21,Soccer,Beer,beer,Beer (or a variety of alcoholic beverages) and English pub food 
+45,21,Baseball,Fries,fries,"Hot dogs and fries, soft drinks, and trail mix or nuts "
+45,21,Baseball,Hot dog,hot dogs,"Hot dogs and fries, soft drinks, and trail mix or nuts "
+45,21,Baseball,Soft drinks,soft drinks,"Hot dogs and fries, soft drinks, and trail mix or nuts "
+46,21,Basketball,Burger,burgers,"Finger foods like chicken wings, burgers, fries, or popcorn, pretzels, and chips"
+46,21,Basketball,Chicken,chicken wings,"Finger foods like chicken wings, burgers, fries, or popcorn, pretzels, and chips"
+46,21,Basketball,Chips,chips,"Finger foods like chicken wings, burgers, fries, or popcorn, pretzels, and chips"
+46,21,Basketball,Fries,fries,"Finger foods like chicken wings, burgers, fries, or popcorn, pretzels, and chips"
+46,21,Basketball,Popcorn,popcorn,"Finger foods like chicken wings, burgers, fries, or popcorn, pretzels, and chips"
+46,21,Basketball,Pretzel,pretzels,"Finger foods like chicken wings, burgers, fries, or popcorn, pretzels, and chips"
+47,22,Soccer,Beer,beer,"Chips, beer"
+47,22,Soccer,Chips,chips,"Chips, beer"
+48,22,Baseball,Beer,beer,"Cigarettes, Chewing Tobacco, Gum, Beer"
+48,22,Baseball,Gum,gum,"Cigarettes, Chewing Tobacco, Gum, Beer"
+49,22,Basketball,Chicken,chicken wings,Chicken Wings
+50,23,Soccer,Chips,chips,Chips
+52,23,Basketball,Energy / electrolyte drinks,gaderade,Gaderade
+53,24,Soccer,Beer,beer,"Hot dog, beer, fries, soda, burger, poutine, popsicle. "
+53,24,Soccer,Burger,burger,"Hot dog, beer, fries, soda, burger, poutine, popsicle. "
+53,24,Soccer,Fries,fries,"Hot dog, beer, fries, soda, burger, poutine, popsicle. "
+53,24,Soccer,Hot dog,hot dog,"Hot dog, beer, fries, soda, burger, poutine, popsicle. "
+53,24,Soccer,Ice cream / frozen treats,popsicle,"Hot dog, beer, fries, soda, burger, poutine, popsicle. "
+53,24,Soccer,Poutine,poutine,"Hot dog, beer, fries, soda, burger, poutine, popsicle. "
+53,24,Soccer,Soft drinks,soda,"Hot dog, beer, fries, soda, burger, poutine, popsicle. "
+54,24,Baseball,Beer,beer,"Beer, burger, hot dog, fries. "
+54,24,Baseball,Burger,burger,"Beer, burger, hot dog, fries. "
+54,24,Baseball,Fries,fries,"Beer, burger, hot dog, fries. "
+54,24,Baseball,Hot dog,hot dog,"Beer, burger, hot dog, fries. "
+55,24,Basketball,Beer,beer,"Burger, beer, hotdog, soda. "
+55,24,Basketball,Burger,burger,"Burger, beer, hotdog, soda. "
+55,24,Basketball,Hot dog,hotdog,"Burger, beer, hotdog, soda. "
+55,24,Basketball,Soft drinks,soda,"Burger, beer, hotdog, soda. "
+56,26,Soccer,Beer,beer,"chips, popcorn, beer, Coke"
+56,26,Soccer,Chips,chips,"chips, popcorn, beer, Coke"
+56,26,Soccer,Popcorn,popcorn,"chips, popcorn, beer, Coke"
+56,26,Soccer,Soft drinks,coke,"chips, popcorn, beer, Coke"
+57,26,Baseball,Beer,beer,"chips, popcorn, beer, Coke"
+57,26,Baseball,Chips,chips,"chips, popcorn, beer, Coke"
+57,26,Baseball,Popcorn,popcorn,"chips, popcorn, beer, Coke"
+57,26,Baseball,Soft drinks,coke,"chips, popcorn, beer, Coke"
+58,26,Basketball,Beer,beer,"chips, popcorn, beer, Coke"
+58,26,Basketball,Chips,chips,"chips, popcorn, beer, Coke"
+58,26,Basketball,Popcorn,popcorn,"chips, popcorn, beer, Coke"
+58,26,Basketball,Soft drinks,coke,"chips, popcorn, beer, Coke"
+59,29,Soccer,Beer,beer,"Pizza,chips, beer, and peanuts when watching with friends "
+59,29,Soccer,Chips,chips,"Pizza,chips, beer, and peanuts when watching with friends "
+59,29,Soccer,Peanuts,peanuts,"Pizza,chips, beer, and peanuts when watching with friends "
+59,29,Soccer,Pizza,pizza,"Pizza,chips, beer, and peanuts when watching with friends "
+60,29,Baseball,Popcorn,popcorns,"softdrink, popcorns"
+60,29,Baseball,Soft drinks,softdrink,"softdrink, popcorns"
+61,29,Basketball,Chicken,chickenwings,"Chickenwings, softdrink, fries"
+61,29,Basketball,Fries,fries,"Chickenwings, softdrink, fries"
+61,29,Basketball,Soft drinks,softdrink,"Chickenwings, softdrink, fries"
+62,30,Soccer,Hot dog,hotdog,"hotdog, cola"
+62,30,Soccer,Soft drinks,cola,"hotdog, cola"
+63,30,Baseball,Hot dog,hotdog,hotdog
+64,30,Basketball,Hot dog,hotdog,hotdog
+65,32,Soccer,Beer,beer,Beer and soda
+65,32,Soccer,Soft drinks,soda,Beer and soda
+66,32,Baseball,Hot dog,hot dog,Hot Dog
+67,32,Basketball,Hot dog,hot dog,Hot Dog and Soda
+67,32,Basketball,Soft drinks,soda,Hot Dog and Soda
+68,33,Soccer,Beer,beer,"Potato chips, Beer, Soda, Stadium hotdogs, Nachos, Sunflower seeds"
+68,33,Soccer,Chips,potato chips,"Potato chips, Beer, Soda, Stadium hotdogs, Nachos, Sunflower seeds"
+68,33,Soccer,Hot dog,hotdogs,"Potato chips, Beer, Soda, Stadium hotdogs, Nachos, Sunflower seeds"
+68,33,Soccer,Nachos,nachos,"Potato chips, Beer, Soda, Stadium hotdogs, Nachos, Sunflower seeds"
+68,33,Soccer,Soft drinks,soda,"Potato chips, Beer, Soda, Stadium hotdogs, Nachos, Sunflower seeds"
+68,33,Soccer,Sunflower seeds,sunflower seeds,"Potato chips, Beer, Soda, Stadium hotdogs, Nachos, Sunflower seeds"
+69,33,Baseball,Beer,beer,"Beer, Nachos, Hotdog, Pizza, Soda, Nachos, Fries, Bubblegum, Sunflower seeds"
+69,33,Baseball,Fries,fries,"Beer, Nachos, Hotdog, Pizza, Soda, Nachos, Fries, Bubblegum, Sunflower seeds"
+69,33,Baseball,Gum,bubblegum,"Beer, Nachos, Hotdog, Pizza, Soda, Nachos, Fries, Bubblegum, Sunflower seeds"
+69,33,Baseball,Hot dog,hotdog,"Beer, Nachos, Hotdog, Pizza, Soda, Nachos, Fries, Bubblegum, Sunflower seeds"
+69,33,Baseball,Nachos,nachos,"Beer, Nachos, Hotdog, Pizza, Soda, Nachos, Fries, Bubblegum, Sunflower seeds"
+69,33,Baseball,Pizza,pizza,"Beer, Nachos, Hotdog, Pizza, Soda, Nachos, Fries, Bubblegum, Sunflower seeds"
+69,33,Baseball,Soft drinks,soda,"Beer, Nachos, Hotdog, Pizza, Soda, Nachos, Fries, Bubblegum, Sunflower seeds"
+69,33,Baseball,Sunflower seeds,sunflower seeds,"Beer, Nachos, Hotdog, Pizza, Soda, Nachos, Fries, Bubblegum, Sunflower seeds"
+70,33,Basketball,Chips,potato chips,"Hotdog, Soda, Gatorade, Energy drinks, Potato chips"
+70,33,Basketball,Energy / electrolyte drinks,energy drinks | gatorade,"Hotdog, Soda, Gatorade, Energy drinks, Potato chips"
+70,33,Basketball,Hot dog,hotdog,"Hotdog, Soda, Gatorade, Energy drinks, Potato chips"
+70,33,Basketball,Soft drinks,soda,"Hotdog, Soda, Gatorade, Energy drinks, Potato chips"
+71,34,Soccer,Beer,beer,Beer
+72,34,Baseball,Beer,beer,Beer and hotdogs
+72,34,Baseball,Hot dog,hotdogs,Beer and hotdogs
+74,35,Soccer,Beer,beer,beer hotdogs
+74,35,Soccer,Hot dog,hotdogs,beer hotdogs
+75,35,Baseball,Beer,beer,Beer snacks
+77,36,Soccer,Energy / electrolyte drinks,sports drinks,"Popcorn, water, and sports drinks."
+77,36,Soccer,Popcorn,popcorn,"Popcorn, water, and sports drinks."
+77,36,Soccer,Water,water,"Popcorn, water, and sports drinks."
+78,36,Baseball,Energy / electrolyte drinks,sports drinks,"Popcorn, water, and sports drinks."
+78,36,Baseball,Popcorn,popcorn,"Popcorn, water, and sports drinks."
+78,36,Baseball,Water,water,"Popcorn, water, and sports drinks."
+79,36,Basketball,Energy / electrolyte drinks,sports drinks,"Popcorn, water, and sports drinks."
+79,36,Basketball,Popcorn,popcorn,"Popcorn, water, and sports drinks."
+79,36,Basketball,Water,water,"Popcorn, water, and sports drinks."
+80,37,Soccer,Beer,beer,beer
+81,37,Baseball,Beer,beer,beer
+82,37,Basketball,Beer,beer,beer
+83,38,Soccer,Poutine,poutine,"At a game in Toronto, I picture poutine or a grilled sausage with a cold soda."
+83,38,Soccer,Soft drinks,soda,"At a game in Toronto, I picture poutine or a grilled sausage with a cold soda."
+84,38,Baseball,Hot dog,hot dog,"A hot dog and popcorn, with a cold soda."
+84,38,Baseball,Popcorn,popcorn,"A hot dog and popcorn, with a cold soda."
+84,38,Baseball,Soft drinks,soda,"A hot dog and popcorn, with a cold soda."
+85,38,Basketball,Chicken,chicken tenders,"Pizza or chicken tenders and fries, with a cold soda."
+85,38,Basketball,Fries,fries,"Pizza or chicken tenders and fries, with a cold soda."
+85,38,Basketball,Pizza,pizza,"Pizza or chicken tenders and fries, with a cold soda."
+85,38,Basketball,Soft drinks,soda,"Pizza or chicken tenders and fries, with a cold soda."
+86,40,Soccer,Chips,chips,"Pizza, Chips"
+86,40,Soccer,Pizza,pizza,"Pizza, Chips"
+87,40,Baseball,Hot dog,hot dog,"Hot Dog, Soda"
+87,40,Baseball,Soft drinks,soda,"Hot Dog, Soda"
+88,40,Basketball,Burger,burger,"Burger, Soda"
+88,40,Basketball,Soft drinks,soda,"Burger, Soda"
+89,41,Soccer,Beer,beer,"Beer, pizza, and french fries / chips"
+89,41,Soccer,Chips,chips,"Beer, pizza, and french fries / chips"
+89,41,Soccer,Fries,french fries,"Beer, pizza, and french fries / chips"
+89,41,Soccer,Pizza,pizza,"Beer, pizza, and french fries / chips"
+90,41,Baseball,Hot dog,hotdogs,Hotdogs
+91,41,Basketball,Popcorn,popcorn,Popcorn
+92,42,Soccer,Fries,fries,Pops and fries.
+92,42,Soccer,Soft drinks,pops,Pops and fries.
+93,42,Baseball,Beer,beer,Hot dogs and beer.
+93,42,Baseball,Hot dog,hot dogs,Hot dogs and beer.
+94,42,Basketball,Popcorn,popcorn,popcorn
+95,43,Soccer,Popcorn,popcorns,popcorns and cola.
+95,43,Soccer,Soft drinks,cola,popcorns and cola.
+96,43,Baseball,Chicken,fried chicken,"French Fries, fried chicken, and soft drink."
+96,43,Baseball,Fries,french fries,"French Fries, fried chicken, and soft drink."
+96,43,Baseball,Soft drinks,soft drink,"French Fries, fried chicken, and soft drink."
+97,43,Basketball,Chips,chips,"French fries, chips, and soft drink."
+97,43,Basketball,Fries,french fries,"French fries, chips, and soft drink."
+97,43,Basketball,Soft drinks,soft drink,"French fries, chips, and soft drink."
+98,44,Soccer,Beer,beer,"* Pizza
+
+* Beer
+
+* Burgers"
+98,44,Soccer,Burger,burgers,"* Pizza
+
+* Beer
+
+* Burgers"
+98,44,Soccer,Pizza,pizza,"* Pizza
+
+* Beer
+
+* Burgers"
+100,44,Basketball,Beer,beer,"loaded nachos, chicken wings, and cold beer"
+100,44,Basketball,Chicken,chicken wings,"loaded nachos, chicken wings, and cold beer"
+100,44,Basketball,Nachos,nachos,"loaded nachos, chicken wings, and cold beer"
+101,45,Soccer,Beer,beer,"Coca-Cola, Pepsi, Water, Beer"
+101,45,Soccer,Soft drinks,coca cola | pepsi,"Coca-Cola, Pepsi, Water, Beer"
+101,45,Soccer,Water,water,"Coca-Cola, Pepsi, Water, Beer"
+102,45,Baseball,Beer,beer,"Sunflower seeds, hot dogs, peanuts, beer"
+102,45,Baseball,Hot dog,hot dogs,"Sunflower seeds, hot dogs, peanuts, beer"
+102,45,Baseball,Peanuts,peanuts,"Sunflower seeds, hot dogs, peanuts, beer"
+102,45,Baseball,Sunflower seeds,sunflower seeds,"Sunflower seeds, hot dogs, peanuts, beer"
+103,45,Basketball,Chicken,chicken wings,"Nachos, Chicken Wings, Gatorade, Frosty"
+103,45,Basketball,Energy / electrolyte drinks,gatorade,"Nachos, Chicken Wings, Gatorade, Frosty"
+103,45,Basketball,Ice cream / frozen treats,frosty,"Nachos, Chicken Wings, Gatorade, Frosty"
+103,45,Basketball,Nachos,nachos,"Nachos, Chicken Wings, Gatorade, Frosty"
+104,46,Soccer,Beer,beer,"Pizza, Beer"
+104,46,Soccer,Pizza,pizza,"Pizza, Beer"
+105,46,Baseball,Gum,gum,"Gum, Hot dog"
+105,46,Baseball,Hot dog,hot dog,"Gum, Hot dog"
+106,46,Basketball,Popcorn,popcorn,"Popcorn, Soda"
+106,46,Basketball,Soft drinks,soda,"Popcorn, Soda"
+107,49,Soccer,Chips,chips,"nachos, chips, fish and chips, coke"
+107,49,Soccer,Nachos,nachos,"nachos, chips, fish and chips, coke"
+107,49,Soccer,Soft drinks,coke,"nachos, chips, fish and chips, coke"
+108,49,Baseball,Burger,burgers,"fries, nachos, milkshakes, burgers"
+108,49,Baseball,Fries,fries,"fries, nachos, milkshakes, burgers"
+108,49,Baseball,Nachos,nachos,"fries, nachos, milkshakes, burgers"
+109,49,Basketball,Burger,burgers,"fries, burgers, milkshakes"
+109,49,Basketball,Fries,fries,"fries, burgers, milkshakes"
+110,50,Soccer,Beer,beer,Potato chips and beer
+110,50,Soccer,Chips,potato chips,Potato chips and beer
+111,50,Baseball,Beer,beer,hot dog and beer
+111,50,Baseball,Hot dog,hot dog,hot dog and beer
+112,50,Basketball,Popcorn,popcorn,popcorn 
+113,53,Soccer,Burger,burger,"Hotdog
+Pizza
+Burger"
+113,53,Soccer,Hot dog,hotdog,"Hotdog
+Pizza
+Burger"
+113,53,Soccer,Pizza,pizza,"Hotdog
+Pizza
+Burger"
+114,53,Baseball,Hot dog,hotdog,Hotdog
+115,53,Basketball,Pizza,pizza,Pizza
+116,54,Soccer,Chicken,wings,"I associate it with pizza, chips, wings, and cold soft drinks, especially when watching with a group of friends or family."
+116,54,Soccer,Chips,chips,"I associate it with pizza, chips, wings, and cold soft drinks, especially when watching with a group of friends or family."
+116,54,Soccer,Pizza,pizza,"I associate it with pizza, chips, wings, and cold soft drinks, especially when watching with a group of friends or family."
+116,54,Soccer,Soft drinks,soft drinks,"I associate it with pizza, chips, wings, and cold soft drinks, especially when watching with a group of friends or family."
+117,54,Baseball,Hot dog,hot dogs,"I associate it with hot dogs, popcorn, nachos, peanuts, and cold soft drinks."
+117,54,Baseball,Nachos,nachos,"I associate it with hot dogs, popcorn, nachos, peanuts, and cold soft drinks."
+117,54,Baseball,Peanuts,peanuts,"I associate it with hot dogs, popcorn, nachos, peanuts, and cold soft drinks."
+117,54,Baseball,Popcorn,popcorn,"I associate it with hot dogs, popcorn, nachos, peanuts, and cold soft drinks."
+117,54,Baseball,Soft drinks,soft drinks,"I associate it with hot dogs, popcorn, nachos, peanuts, and cold soft drinks."
+118,54,Basketball,Chicken,wings,"I associate it with pizza, wings, nachos, popcorn, and cold soft drinks."
+118,54,Basketball,Nachos,nachos,"I associate it with pizza, wings, nachos, popcorn, and cold soft drinks."
+118,54,Basketball,Pizza,pizza,"I associate it with pizza, wings, nachos, popcorn, and cold soft drinks."
+118,54,Basketball,Popcorn,popcorn,"I associate it with pizza, wings, nachos, popcorn, and cold soft drinks."
+118,54,Basketball,Soft drinks,soft drinks,"I associate it with pizza, wings, nachos, popcorn, and cold soft drinks."
+119,56,Soccer,Hot dog,hot dogs,"Hot dogs, Coca-Cola"
+119,56,Soccer,Soft drinks,coca cola,"Hot dogs, Coca-Cola"
+120,56,Baseball,Popcorn,popcorn,"Popcorn, soda"
+120,56,Baseball,Soft drinks,soda,"Popcorn, soda"
+121,56,Basketball,Burger,burgers,"Burgers, Red Bull"
+121,56,Basketball,Energy / electrolyte drinks,red bull,"Burgers, Red Bull"
+122,58,Soccer,Soft drinks,soda,"Street food, grilled meat, snacks, soda, and drinks shared with friends while watching a match with a large crowd."
+123,58,Baseball,Burger,burgers,"Hot dogs, popcorn, peanuts, burgers, and cold drinks while sitting in a stadium with family or friends."
+123,58,Baseball,Hot dog,hot dogs,"Hot dogs, popcorn, peanuts, burgers, and cold drinks while sitting in a stadium with family or friends."
+123,58,Baseball,Peanuts,peanuts,"Hot dogs, popcorn, peanuts, burgers, and cold drinks while sitting in a stadium with family or friends."
+123,58,Baseball,Popcorn,popcorn,"Hot dogs, popcorn, peanuts, burgers, and cold drinks while sitting in a stadium with family or friends."
+124,58,Basketball,Chicken,wings,"Pizza, wings, fries, and soda while watching highlights or a live game with friends."
+124,58,Basketball,Fries,fries,"Pizza, wings, fries, and soda while watching highlights or a live game with friends."
+124,58,Basketball,Pizza,pizza,"Pizza, wings, fries, and soda while watching highlights or a live game with friends."
+124,58,Basketball,Soft drinks,soda,"Pizza, wings, fries, and soda while watching highlights or a live game with friends."
+125,60,Soccer,Soft drinks,coca cola | pepsi,"Coca-cola, pepsi, shawarma, pasta"
+126,60,Baseball,Beer,beer,"Hot dogs, nachos and cheese, beer"
+126,60,Baseball,Hot dog,hot dogs,"Hot dogs, nachos and cheese, beer"
+126,60,Baseball,Nachos,nachos,"Hot dogs, nachos and cheese, beer"
+127,60,Basketball,Burger,burgers,"Burgers, fries"
+127,60,Basketball,Fries,fries,"Burgers, fries"
+128,64,Soccer,Soft drinks,cola,Cola
+129,64,Baseball,Chips,chips,Chips
+131,66,Soccer,Hot dog,hot dogs,Hot dogs
+132,66,Baseball,Hot dog,hot dogs,"Popcorn, Hot dogs"
+132,66,Baseball,Popcorn,popcorn,"Popcorn, Hot dogs"
+133,66,Basketball,Hot dog,hot dogs,Hot dogs?
+134,67,Soccer,Hot dog,hotdog,Hotdog and cola
+134,67,Soccer,Soft drinks,cola,Hotdog and cola
+135,67,Baseball,Hot dog,hotdog,Hotdog and cola
+135,67,Baseball,Soft drinks,cola,Hotdog and cola
+136,67,Basketball,Hot dog,hotdog,hotdog and cola
+136,67,Basketball,Soft drinks,cola,hotdog and cola
+137,68,Soccer,Popcorn,popcorn,"Maybe popcorn, like watching films"
+138,68,Baseball,Popcorn,popcorn,"Popcorn, like while watching film"
+139,68,Basketball,Popcorn,popcorn,"Popcorn, like while watching films"
+140,70,Soccer,Beer,beer,"Beer, hotdogs"
+140,70,Soccer,Hot dog,hotdogs,"Beer, hotdogs"
+141,70,Baseball,Beer,beer,"Beer, hot dogs"
+141,70,Baseball,Hot dog,hot dogs,"Beer, hot dogs"
+142,70,Basketball,Hot dog,hot dogs,Hot dogs
+143,72,Soccer,Soft drinks,coca cola,"drink: coca cola, culture: TIFO"
+144,72,Baseball,Hot dog,hotdog,hotdog
+145,72,Basketball,Popcorn,popcorn,popcorn
+147,73,Baseball,Fries,fries,"In the professional setting, hot dogs, fries, soda, and other stadium concessions."
+147,73,Baseball,Hot dog,hot dogs,"In the professional setting, hot dogs, fries, soda, and other stadium concessions."
+147,73,Baseball,Soft drinks,soda,"In the professional setting, hot dogs, fries, soda, and other stadium concessions."
+149,74,Soccer,Beer,beer,Beer and fries and burgers 
+149,74,Soccer,Burger,burgers,Beer and fries and burgers 
+149,74,Soccer,Fries,fries,Beer and fries and burgers 
+150,74,Baseball,Fries,fries,Coke and fries
+150,74,Baseball,Soft drinks,coke,Coke and fries
+151,74,Basketball,Fries,fries,coke and fries
+151,74,Basketball,Soft drinks,coke,coke and fries
+152,75,Soccer,Chips,chips,chips and soda
+152,75,Soccer,Soft drinks,soda,chips and soda
+153,75,Baseball,Beer,beer,beer and hot dogs
+153,75,Baseball,Hot dog,hot dogs,beer and hot dogs
+154,75,Basketball,Pizza,pizza,Pizza and soda
+154,75,Basketball,Soft drinks,soda,Pizza and soda
+155,77,Soccer,Beer,beer,Beer
+156,77,Baseball,Burger,sliders,"Hotdogs, Soda, Sliders"
+156,77,Baseball,Hot dog,hotdogs,"Hotdogs, Soda, Sliders"
+156,77,Baseball,Soft drinks,soda,"Hotdogs, Soda, Sliders"
+158,78,Soccer,Beer,beer,Beer
+159,78,Baseball,Beer,beer,"Hot Dogs, Fried Chicken, Peanuts, Beer"
+159,78,Baseball,Chicken,fried chicken,"Hot Dogs, Fried Chicken, Peanuts, Beer"
+159,78,Baseball,Hot dog,hot dogs,"Hot Dogs, Fried Chicken, Peanuts, Beer"
+159,78,Baseball,Peanuts,peanuts,"Hot Dogs, Fried Chicken, Peanuts, Beer"
+160,78,Basketball,Pizza,pizza,"Pizza, Pop"
+160,78,Basketball,Soft drinks,pop,"Pizza, Pop"
+161,79,Soccer,Soft drinks,coca cola,Coca Cola and Tacos
+162,79,Baseball,Hot dog,hot dogs,Hot dogs and a ice cold root beer
+162,79,Baseball,Soft drinks,root beer,Hot dogs and a ice cold root beer
+163,79,Basketball,Beer,beer,Chicken wings and some beer
+163,79,Basketball,Chicken,chicken wings,Chicken wings and some beer
+165,80,Baseball,Hot dog,hot dog,hot dog
+166,80,Basketball,Burger,burger,"chips, burger, black culture"
+166,80,Basketball,Chips,chips,"chips, burger, black culture"
+167,82,Soccer,Barbecue,bbq,"I can imagine every kind of foods and drinks go along well with this game, from soft drinks and chips to BBQ and so on."
+167,82,Soccer,Chips,chips,"I can imagine every kind of foods and drinks go along well with this game, from soft drinks and chips to BBQ and so on."
+167,82,Soccer,Soft drinks,soft drinks,"I can imagine every kind of foods and drinks go along well with this game, from soft drinks and chips to BBQ and so on."
+168,82,Baseball,Hot dog,hot dogs,Hot dogs
+170,84,Soccer,Beer,beers,"For drinks: Soft drinks such as coca cola, sprite, pepsi, fanta, or for people at the legal age of drinking it'd be beers.
+For food: Hot dog, pizza, burgers, and fries."
+170,84,Soccer,Burger,burgers,"For drinks: Soft drinks such as coca cola, sprite, pepsi, fanta, or for people at the legal age of drinking it'd be beers.
+For food: Hot dog, pizza, burgers, and fries."
+170,84,Soccer,Fries,fries,"For drinks: Soft drinks such as coca cola, sprite, pepsi, fanta, or for people at the legal age of drinking it'd be beers.
+For food: Hot dog, pizza, burgers, and fries."
+170,84,Soccer,Hot dog,hot dog,"For drinks: Soft drinks such as coca cola, sprite, pepsi, fanta, or for people at the legal age of drinking it'd be beers.
+For food: Hot dog, pizza, burgers, and fries."
+170,84,Soccer,Pizza,pizza,"For drinks: Soft drinks such as coca cola, sprite, pepsi, fanta, or for people at the legal age of drinking it'd be beers.
+For food: Hot dog, pizza, burgers, and fries."
+170,84,Soccer,Soft drinks,coca cola | fanta | pepsi | soft drinks | sprite,"For drinks: Soft drinks such as coca cola, sprite, pepsi, fanta, or for people at the legal age of drinking it'd be beers.
+For food: Hot dog, pizza, burgers, and fries."
+171,84,Baseball,Beer,beers,Hot dogs and burgers for food. Pops and canned beers for drinks.
+171,84,Baseball,Burger,burgers,Hot dogs and burgers for food. Pops and canned beers for drinks.
+171,84,Baseball,Hot dog,hot dogs,Hot dogs and burgers for food. Pops and canned beers for drinks.
+171,84,Baseball,Soft drinks,pops,Hot dogs and burgers for food. Pops and canned beers for drinks.
+172,84,Basketball,Beer,beers,"Hot dog, burgers, nachos, pizza, and popcorns. Pops and beers."
+172,84,Basketball,Burger,burgers,"Hot dog, burgers, nachos, pizza, and popcorns. Pops and beers."
+172,84,Basketball,Hot dog,hot dog,"Hot dog, burgers, nachos, pizza, and popcorns. Pops and beers."
+172,84,Basketball,Nachos,nachos,"Hot dog, burgers, nachos, pizza, and popcorns. Pops and beers."
+172,84,Basketball,Pizza,pizza,"Hot dog, burgers, nachos, pizza, and popcorns. Pops and beers."
+172,84,Basketball,Popcorn,popcorns,"Hot dog, burgers, nachos, pizza, and popcorns. Pops and beers."
+172,84,Basketball,Soft drinks,pops,"Hot dog, burgers, nachos, pizza, and popcorns. Pops and beers."
+174,85,Baseball,Peanuts,peanuts,Peanuts
+175,85,Basketball,Chicken,wings,"Pizza, wings"
+175,85,Basketball,Pizza,pizza,"Pizza, wings"
+176,86,Soccer,Hot dog,hotdog,hotdog and pop drinks
+176,86,Soccer,Soft drinks,pop,hotdog and pop drinks
+177,86,Baseball,Hot dog,hot dog,hot dog and pop drinks
+177,86,Baseball,Soft drinks,pop,hot dog and pop drinks
+178,86,Basketball,Fries,fries,fries and pop 
+178,86,Basketball,Soft drinks,pop,fries and pop 
+179,87,Soccer,Beer,beer,"Popcorn, hotdogs, sandwiches, beer"
+179,87,Soccer,Hot dog,hotdogs,"Popcorn, hotdogs, sandwiches, beer"
+179,87,Soccer,Popcorn,popcorn,"Popcorn, hotdogs, sandwiches, beer"
+179,87,Soccer,Sandwich,sandwiches,"Popcorn, hotdogs, sandwiches, beer"
+180,87,Baseball,Beer,beer,"Beer, hot dogs, burgers, sandwiches, poutine"
+180,87,Baseball,Burger,burgers,"Beer, hot dogs, burgers, sandwiches, poutine"
+180,87,Baseball,Hot dog,hot dogs,"Beer, hot dogs, burgers, sandwiches, poutine"
+180,87,Baseball,Poutine,poutine,"Beer, hot dogs, burgers, sandwiches, poutine"
+180,87,Baseball,Sandwich,sandwiches,"Beer, hot dogs, burgers, sandwiches, poutine"
+181,87,Basketball,Chicken,fried chicken,"Poutine, popcorn, soda, fried chicken, pizza"
+181,87,Basketball,Pizza,pizza,"Poutine, popcorn, soda, fried chicken, pizza"
+181,87,Basketball,Popcorn,popcorn,"Poutine, popcorn, soda, fried chicken, pizza"
+181,87,Basketball,Poutine,poutine,"Poutine, popcorn, soda, fried chicken, pizza"
+181,87,Basketball,Soft drinks,soda,"Poutine, popcorn, soda, fried chicken, pizza"
+182,88,Soccer,Beer,beers,beers
+183,88,Baseball,Chips,chips,Chips and watwr
+183,88,Baseball,Water,watwr,Chips and watwr
+184,88,Basketball,Beer,beer,Beer
+185,89,Soccer,Barbecue,barbecue,Beer and Barbecue
+185,89,Soccer,Beer,beer,Beer and Barbecue
+186,89,Baseball,Chips,chips,Cola and chips
+186,89,Baseball,Soft drinks,cola,Cola and chips
+187,89,Basketball,Fries,fries,Fries and coke
+187,89,Basketball,Soft drinks,coke,Fries and coke
+188,91,Soccer,Pizza,pizza,"Pretzels, tacos, pizza"
+188,91,Soccer,Pretzel,pretzels,"Pretzels, tacos, pizza"
+189,91,Baseball,Fries,fries,"Pizza, fries"
+189,91,Baseball,Pizza,pizza,"Pizza, fries"
+190,91,Basketball,Chips,chips,"Pizza, fries, chips"
+190,91,Basketball,Fries,fries,"Pizza, fries, chips"
+190,91,Basketball,Pizza,pizza,"Pizza, fries, chips"
+191,92,Soccer,Chips,chips,"Fries and Bratwurst, Poutine, and sometimes nachos chips. Generally, junk foods you might find in a large stadium designed to hold ten of thousands of people. For me, I strongly associate it with eating currywurst, in Germany or in Canada. Lots of people eat fries or 'chips' as they call them in England while watching."
+191,92,Soccer,Fries,fries,"Fries and Bratwurst, Poutine, and sometimes nachos chips. Generally, junk foods you might find in a large stadium designed to hold ten of thousands of people. For me, I strongly associate it with eating currywurst, in Germany or in Canada. Lots of people eat fries or 'chips' as they call them in England while watching."
+191,92,Soccer,Nachos,nachos,"Fries and Bratwurst, Poutine, and sometimes nachos chips. Generally, junk foods you might find in a large stadium designed to hold ten of thousands of people. For me, I strongly associate it with eating currywurst, in Germany or in Canada. Lots of people eat fries or 'chips' as they call them in England while watching."
+191,92,Soccer,Poutine,poutine,"Fries and Bratwurst, Poutine, and sometimes nachos chips. Generally, junk foods you might find in a large stadium designed to hold ten of thousands of people. For me, I strongly associate it with eating currywurst, in Germany or in Canada. Lots of people eat fries or 'chips' as they call them in England while watching."
+192,92,Baseball,Burger,burgers,"Hot dogs, burgers, pepsi and other fizzy drinks in tall white plastic cups."
+192,92,Baseball,Hot dog,hot dogs,"Hot dogs, burgers, pepsi and other fizzy drinks in tall white plastic cups."
+192,92,Baseball,Soft drinks,fizzy drinks | pepsi,"Hot dogs, burgers, pepsi and other fizzy drinks in tall white plastic cups."
+193,92,Basketball,Burger,burgers,"Fries and Burgers, Concession stand food generally. Not large-stadium stuff, generally smaller and more local fare."
+193,92,Basketball,Fries,fries,"Fries and Burgers, Concession stand food generally. Not large-stadium stuff, generally smaller and more local fare."
+194,94,Soccer,Beer,beer,"Fish and chips paired with alcohol, usually beer. Mostly whatever food can be found in a bar in any given country. Shareable food that a group of friends may have on a table."
+195,94,Baseball,Beer,beer,"I associate this sport with pop/soda, beer, and hot dogs. These can often be purchased at the venue where the sport is played for a ridiculous price. Sometimes the hot dogs are offered at a reduced price."
+195,94,Baseball,Hot dog,hot dogs,"I associate this sport with pop/soda, beer, and hot dogs. These can often be purchased at the venue where the sport is played for a ridiculous price. Sometimes the hot dogs are offered at a reduced price."
+195,94,Baseball,Soft drinks,pop | soda,"I associate this sport with pop/soda, beer, and hot dogs. These can often be purchased at the venue where the sport is played for a ridiculous price. Sometimes the hot dogs are offered at a reduced price."
+196,94,Basketball,Beer,beer,"Beer, french fries, wings, burgers, and ribs. I associate this sport with the food you would find in an American sports bar. "
+196,94,Basketball,Burger,burgers,"Beer, french fries, wings, burgers, and ribs. I associate this sport with the food you would find in an American sports bar. "
+196,94,Basketball,Chicken,wings,"Beer, french fries, wings, burgers, and ribs. I associate this sport with the food you would find in an American sports bar. "
+196,94,Basketball,Fries,french fries,"Beer, french fries, wings, burgers, and ribs. I associate this sport with the food you would find in an American sports bar. "
+197,95,Soccer,Beer,beer,beer
+198,95,Baseball,Beer,beer,beer
+199,95,Basketball,Chicken,buffalo wings,Buffalo Wings
+200,96,Soccer,Beer,beer,Beer
+201,96,Baseball,Hot dog,hotdogs,Hotdogs
+203,98,Soccer,Tea,tea,"tea and nuts , also snack in general"
+204,98,Baseball,Hot dog,hotdogs,hotdogs
+205,98,Basketball,Pizza,pizza,pizza
+206,100,Soccer,Beer,beer,"Coca-cola, Pizza, Beer, Chicken Wings, Poutine, Nachos & Sliders"
+206,100,Soccer,Burger,sliders,"Coca-cola, Pizza, Beer, Chicken Wings, Poutine, Nachos & Sliders"
+206,100,Soccer,Chicken,chicken wings,"Coca-cola, Pizza, Beer, Chicken Wings, Poutine, Nachos & Sliders"
+206,100,Soccer,Nachos,nachos,"Coca-cola, Pizza, Beer, Chicken Wings, Poutine, Nachos & Sliders"
+206,100,Soccer,Pizza,pizza,"Coca-cola, Pizza, Beer, Chicken Wings, Poutine, Nachos & Sliders"
+206,100,Soccer,Poutine,poutine,"Coca-cola, Pizza, Beer, Chicken Wings, Poutine, Nachos & Sliders"
+206,100,Soccer,Soft drinks,coca cola,"Coca-cola, Pizza, Beer, Chicken Wings, Poutine, Nachos & Sliders"
+207,100,Baseball,Hot dog,hot dogs,"Hot Dogs, Peanuts, Pretzels, Popcorn"
+207,100,Baseball,Peanuts,peanuts,"Hot Dogs, Peanuts, Pretzels, Popcorn"
+207,100,Baseball,Popcorn,popcorn,"Hot Dogs, Peanuts, Pretzels, Popcorn"
+207,100,Baseball,Pretzel,pretzels,"Hot Dogs, Peanuts, Pretzels, Popcorn"
+208,100,Basketball,Beer,beer,"Pizza, Beer, Chicken Wings, Loaded Nachos. "
+208,100,Basketball,Chicken,chicken wings,"Pizza, Beer, Chicken Wings, Loaded Nachos. "
+208,100,Basketball,Nachos,nachos,"Pizza, Beer, Chicken Wings, Loaded Nachos. "
+208,100,Basketball,Pizza,pizza,"Pizza, Beer, Chicken Wings, Loaded Nachos. "
+209,103,Soccer,Beer,beer,Beer
+210,103,Baseball,Hot dog,hot dogs,Hot Dogs
+211,103,Basketball,Soft drinks,soda,Soda
+212,104,Soccer,Tea,tea,Drink tea and smoke shisha
+213,104,Baseball,Hot dog,hot dogs,Hot Dogs
+214,104,Basketball,Beer,beer,Beer and soft drinks
+214,104,Basketball,Soft drinks,soft drinks,Beer and soft drinks
+215,106,Soccer,Pizza,pizza,Something like pizza with pop.
+215,106,Soccer,Soft drinks,pop,Something like pizza with pop.
+216,106,Baseball,Chicken,chicken,Chicken.
+218,107,Soccer,Popcorn,popcorn,Popcorn and Soda
+218,107,Soccer,Soft drinks,soda,Popcorn and Soda
+219,107,Baseball,Hot dog,hot dog,Hot Dog
+220,107,Basketball,Popcorn,popcorn,Popcorn
+221,108,Soccer,Beer,beer,"Meatball subs, Hotdogs, Beer."
+221,108,Soccer,Hot dog,hotdogs,"Meatball subs, Hotdogs, Beer."
+221,108,Soccer,Sandwich,meatball subs,"Meatball subs, Hotdogs, Beer."
+223,108,Basketball,Beer,beer,"Fries, Hotdogs, Beer, Meatball Subs"
+223,108,Basketball,Fries,fries,"Fries, Hotdogs, Beer, Meatball Subs"
+223,108,Basketball,Hot dog,hotdogs,"Fries, Hotdogs, Beer, Meatball Subs"
+223,108,Basketball,Sandwich,meatball subs,"Fries, Hotdogs, Beer, Meatball Subs"
+224,109,Soccer,Barbecue,bbq,"Beer, bbq, skewers, chips, wings"
+224,109,Soccer,Beer,beer,"Beer, bbq, skewers, chips, wings"
+224,109,Soccer,Chicken,wings,"Beer, bbq, skewers, chips, wings"
+224,109,Soccer,Chips,chips,"Beer, bbq, skewers, chips, wings"
+225,109,Baseball,Hot dog,hot dog,Hot dog
+226,109,Basketball,Chicken,tenders | wings,"Wings, tenders"
+227,110,Soccer,Beer,beer,beer
+228,110,Baseball,Chips,chips,"chips, coke"
+228,110,Baseball,Soft drinks,coke,"chips, coke"
+229,110,Basketball,Burger,burger,"burger, fries, coke"
+229,110,Basketball,Fries,fries,"burger, fries, coke"
+229,110,Basketball,Soft drinks,coke,"burger, fries, coke"
+230,111,Soccer,Beer,beer,"beer,chips"
+230,111,Soccer,Chips,chips,"beer,chips"
+231,111,Baseball,Burger,burgers,"american burgers, american coke, american fries"
+231,111,Baseball,Fries,fries,"american burgers, american coke, american fries"
+231,111,Baseball,Soft drinks,coke,"american burgers, american coke, american fries"
+232,111,Basketball,Chicken,fried chicken,fried chicken
+233,112,Soccer,Beer,beer,"beer, soft drinks, chips, pizza, fried chicken "
+233,112,Soccer,Chicken,fried chicken,"beer, soft drinks, chips, pizza, fried chicken "
+233,112,Soccer,Chips,chips,"beer, soft drinks, chips, pizza, fried chicken "
+233,112,Soccer,Pizza,pizza,"beer, soft drinks, chips, pizza, fried chicken "
+233,112,Soccer,Soft drinks,soft drinks,"beer, soft drinks, chips, pizza, fried chicken "
+234,112,Baseball,Hot dog,hot dogs,soft drinks and hot dogs
+234,112,Baseball,Soft drinks,soft drinks,soft drinks and hot dogs
+235,112,Basketball,Chicken,chicken wings,"Pizza, chicken wings, nachos, fries, soft drinks "
+235,112,Basketball,Fries,fries,"Pizza, chicken wings, nachos, fries, soft drinks "
+235,112,Basketball,Nachos,nachos,"Pizza, chicken wings, nachos, fries, soft drinks "
+235,112,Basketball,Pizza,pizza,"Pizza, chicken wings, nachos, fries, soft drinks "
+235,112,Basketball,Soft drinks,soft drinks,"Pizza, chicken wings, nachos, fries, soft drinks "
+237,114,Baseball,Hot dog,hot dog,Hot dog
+239,115,Soccer,Beer,beer,Fried chicken and beer
+239,115,Soccer,Chicken,fried chicken,Fried chicken and beer
+240,115,Baseball,Beer,beer,Fried chicken and beer
+240,115,Baseball,Chicken,fried chicken,Fried chicken and beer
+241,115,Basketball,Beer,beer,Fried chicken and beer
+241,115,Basketball,Chicken,fried chicken,Fried chicken and beer
+242,117,Soccer,Popcorn,popcorn,Pop (coke and sprite) and popcorn
+242,117,Soccer,Soft drinks,coke | pop | sprite,Pop (coke and sprite) and popcorn
+243,117,Baseball,Hot dog,hotdog,"Tacos, hotdog, popcorn and pop"
+243,117,Baseball,Popcorn,popcorn,"Tacos, hotdog, popcorn and pop"
+243,117,Baseball,Soft drinks,pop,"Tacos, hotdog, popcorn and pop"
+244,117,Basketball,Fries,fries,Pop and popcorn and fries
+244,117,Basketball,Popcorn,popcorn,Pop and popcorn and fries
+244,117,Basketball,Soft drinks,pop,Pop and popcorn and fries
+245,118,Soccer,Chips,potato chips,"pizza, potato chips, coke"
+245,118,Soccer,Pizza,pizza,"pizza, potato chips, coke"
+245,118,Soccer,Soft drinks,coke,"pizza, potato chips, coke"
+246,118,Baseball,Hot dog,hotdog,hotdog
+247,118,Basketball,Chips,hot cheetos,sprite cranberry hot cheetos
+247,118,Basketball,Soft drinks,sprite,sprite cranberry hot cheetos
+248,120,Soccer,Beer,beer,Beer
+249,120,Baseball,Beer,beer,Beer
+250,120,Basketball,Beer,beer,"Fries, Beer"
+250,120,Basketball,Fries,fries,"Fries, Beer"
+251,121,Soccer,Burger,burger,"With chips and soda, burger and fries."
+251,121,Soccer,Chips,chips,"With chips and soda, burger and fries."
+251,121,Soccer,Fries,fries,"With chips and soda, burger and fries."
+251,121,Soccer,Soft drinks,soda,"With chips and soda, burger and fries."
+252,121,Baseball,Hot dog,hot dogs,Hot dogs
+253,121,Basketball,Chicken,wings,Pizza and Wings
+253,121,Basketball,Pizza,pizza,Pizza and Wings
+254,122,Soccer,Beer,beer,Beer
+255,122,Baseball,Hot dog,hotdog,Hotdog
+256,122,Basketball,Hot dog,hotdog,"Popocorn, hotdog"
+256,122,Basketball,Popcorn,popocorn,"Popocorn, hotdog"
+257,123,Soccer,Beer,beer,I usually have beer or English breakfast when watching this sport.
+258,123,Baseball,Beer,beer,I associate hot dogs and beer when watching at the stadium. Wings if I am at a bar.
+258,123,Baseball,Chicken,wings,I associate hot dogs and beer when watching at the stadium. Wings if I am at a bar.
+258,123,Baseball,Hot dog,hot dogs,I associate hot dogs and beer when watching at the stadium. Wings if I am at a bar.
+259,123,Basketball,Chips,chips,Nachos at the stadium. Chips at home.
+259,123,Basketball,Nachos,nachos,Nachos at the stadium. Chips at home.
+260,124,Soccer,Chips,chips,"Chips, hot dogs, nachos"
+260,124,Soccer,Hot dog,hot dogs,"Chips, hot dogs, nachos"
+260,124,Soccer,Nachos,nachos,"Chips, hot dogs, nachos"
+261,124,Baseball,Hot dog,hot dogs,"Hot dogs, popcorn"
+261,124,Baseball,Popcorn,popcorn,"Hot dogs, popcorn"
+262,124,Basketball,Hot dog,hot dogs,Hot dogs
+263,125,Soccer,Energy / electrolyte drinks,gatorade,"Gatorade, hot-dogs, orange slices, natchos"
+263,125,Soccer,Hot dog,hot dogs,"Gatorade, hot-dogs, orange slices, natchos"
+263,125,Soccer,Nachos,natchos,"Gatorade, hot-dogs, orange slices, natchos"
+264,125,Baseball,Beer,beer,"Hot dogs, lemonade, beer"
+264,125,Baseball,Hot dog,hot dogs,"Hot dogs, lemonade, beer"
+265,125,Basketball,Beer,beer,"Uncrustables, chips, beer"
+265,125,Basketball,Chips,chips,"Uncrustables, chips, beer"
+265,125,Basketball,Sandwich,uncrustables,"Uncrustables, chips, beer"
+266,126,Soccer,Burger,sliders,"Sliders, takeout, mexican"
+267,126,Baseball,Beer,beer,"Hot Dogs, Beer, "
+267,126,Baseball,Hot dog,hot dogs,"Hot Dogs, Beer, "
+269,127,Soccer,Beer,beer,"Beer, hotdog"
+269,127,Soccer,Hot dog,hotdog,"Beer, hotdog"
+270,127,Baseball,Beer,beer,Beer and hotdogs
+270,127,Baseball,Hot dog,hotdogs,Beer and hotdogs
+271,127,Basketball,Hot dog,hotdogs,Coke and hotdogs
+271,127,Basketball,Soft drinks,coke,Coke and hotdogs
+272,128,Soccer,Hot dog,hot dogs,"Hot Dogs, Pop, Soda "
+272,128,Soccer,Soft drinks,pop | soda,"Hot Dogs, Pop, Soda "
+273,128,Baseball,Hot dog,hotdog,"hotdog, pop"
+273,128,Baseball,Soft drinks,pop,"hotdog, pop"
+274,128,Basketball,Hot dog,hotdogs,"Hotdogs, pop"
+274,128,Basketball,Soft drinks,pop,"Hotdogs, pop"
+275,129,Soccer,Beer,beer,"beer, burger, fries and chicken"
+275,129,Soccer,Burger,burger,"beer, burger, fries and chicken"
+275,129,Soccer,Chicken,chicken,"beer, burger, fries and chicken"
+275,129,Soccer,Fries,fries,"beer, burger, fries and chicken"
+276,129,Baseball,Popcorn,popcorn,popcorn
+277,129,Basketball,Chicken,chicken,chicken and fries
+277,129,Basketball,Fries,fries,chicken and fries
+278,130,Soccer,Beer,beer,beer
+279,130,Baseball,Hot dog,hotdog,hotdog
+280,130,Basketball,Popcorn,popcorn,popcorn
+281,131,Soccer,Chicken,fried chicken,"Fried chicken when watching sports, especially this kind, is always the best"
+284,132,Soccer,Barbecue,bbq,"Beer
+BBQ
+
+ 
+
+ "
+284,132,Soccer,Beer,beer,"Beer
+BBQ
+
+ 
+
+ "
+285,132,Baseball,Hot dog,hotdogs,"Hotdogs
+
+soft drinks
+
+ "
+285,132,Baseball,Soft drinks,soft drinks,"Hotdogs
+
+soft drinks
+
+ "
+286,132,Basketball,Beer,beer,"beer, popcorn, soft drinks
+
+ "
+286,132,Basketball,Popcorn,popcorn,"beer, popcorn, soft drinks
+
+ "
+286,132,Basketball,Soft drinks,soft drinks,"beer, popcorn, soft drinks
+
+ "
+287,134,Soccer,Beer,beer,Beer and all types of snacks that pair well with beer
+288,134,Baseball,Beer,beer,Beer and all types of snacks that pair well with beer
+289,134,Basketball,Beer,beer,Beer and all types of snacks that pair well with beer
+290,135,Soccer,Beer,beer,"Popcorn, soda, hamburger, beer"
+290,135,Soccer,Burger,hamburger,"Popcorn, soda, hamburger, beer"
+290,135,Soccer,Popcorn,popcorn,"Popcorn, soda, hamburger, beer"
+290,135,Soccer,Soft drinks,soda,"Popcorn, soda, hamburger, beer"
+291,135,Baseball,Popcorn,popcorn,"Popcorn, Soda"
+291,135,Baseball,Soft drinks,soda,"Popcorn, Soda"
+292,135,Basketball,Popcorn,popcorn,"Popcorn, Soda"
+292,135,Basketball,Soft drinks,soda,"Popcorn, Soda"
+293,136,Soccer,Burger,burgers,"For food pizza, chicken wings, fries, burgers, and chips. For drinks soft drinks and other cold beverages."
+293,136,Soccer,Chicken,chicken wings,"For food pizza, chicken wings, fries, burgers, and chips. For drinks soft drinks and other cold beverages."
+293,136,Soccer,Chips,chips,"For food pizza, chicken wings, fries, burgers, and chips. For drinks soft drinks and other cold beverages."
+293,136,Soccer,Fries,fries,"For food pizza, chicken wings, fries, burgers, and chips. For drinks soft drinks and other cold beverages."
+293,136,Soccer,Pizza,pizza,"For food pizza, chicken wings, fries, burgers, and chips. For drinks soft drinks and other cold beverages."
+293,136,Soccer,Soft drinks,soft drinks,"For food pizza, chicken wings, fries, burgers, and chips. For drinks soft drinks and other cold beverages."
+294,136,Baseball,Hot dog,hot dog,Hot dog and soft drinks
+294,136,Baseball,Soft drinks,soft drinks,Hot dog and soft drinks
+295,136,Basketball,Fries,fries,"nachos, fries, and popcorn."
+295,136,Basketball,Nachos,nachos,"nachos, fries, and popcorn."
+295,136,Basketball,Popcorn,popcorn,"nachos, fries, and popcorn."
+296,137,Soccer,Beer,beer,"Hot Dogs, beer "
+296,137,Soccer,Hot dog,hot dogs,"Hot Dogs, beer "
+297,137,Baseball,Fries,fries,"Fries, coke"
+297,137,Baseball,Soft drinks,coke,"Fries, coke"
+298,137,Basketball,Burger,burgers,Burgers
+299,138,Soccer,Beer,beers,"Fries, burgers and beers."
+299,138,Soccer,Burger,burgers,"Fries, burgers and beers."
+299,138,Soccer,Fries,fries,"Fries, burgers and beers."
+300,138,Baseball,Hot dog,hot dogs,Hot dogs.
+301,138,Basketball,Hot dog,hot dogs,Hot dogs.
+303,140,Baseball,Hot dog,hot dogs,Hot dogs
+305,141,Soccer,Beer,beer,"Popcorn, beer, roast beef"
+305,141,Soccer,Popcorn,popcorn,"Popcorn, beer, roast beef"
+306,141,Baseball,Chips,chips,"French fries, chips, cola"
+306,141,Baseball,Fries,french fries,"French fries, chips, cola"
+306,141,Baseball,Soft drinks,cola,"French fries, chips, cola"
+307,141,Basketball,Chips,chips,"Chips, cola, popcorn "
+307,141,Basketball,Popcorn,popcorn,"Chips, cola, popcorn "
+307,141,Basketball,Soft drinks,cola,"Chips, cola, popcorn "
+311,143,Soccer,Beer,beer,"Beer, hot dogs"
+311,143,Soccer,Hot dog,hot dogs,"Beer, hot dogs"
+312,143,Baseball,Beer,beer,"Beer, hot dogs"
+312,143,Baseball,Hot dog,hot dogs,"Beer, hot dogs"
+313,143,Basketball,Beer,beer,"Beer, hot dogs"
+313,143,Basketball,Hot dog,hot dogs,"Beer, hot dogs"
+314,147,Soccer,Beer,beer,"beer, chicken, pizza"
+314,147,Soccer,Chicken,chicken,"beer, chicken, pizza"
+314,147,Soccer,Pizza,pizza,"beer, chicken, pizza"
+315,147,Baseball,Hot dog,hot dog,"hot dog, pop"
+315,147,Baseball,Soft drinks,pop,"hot dog, pop"
+316,147,Basketball,Popcorn,popcorn,"popcorn, pop, cotton candy"
+316,147,Basketball,Soft drinks,pop,"popcorn, pop, cotton candy"
+317,148,Soccer,Beer,beer,Beer
+318,148,Baseball,Hot dog,hot dogs,"Hot dogs, nachos, pop"
+318,148,Baseball,Nachos,nachos,"Hot dogs, nachos, pop"
+318,148,Baseball,Soft drinks,pop,"Hot dogs, nachos, pop"
+319,148,Basketball,Nachos,nachos,"Popcorn, nachos, pop"
+319,148,Basketball,Popcorn,popcorn,"Popcorn, nachos, pop"
+319,148,Basketball,Soft drinks,pop,"Popcorn, nachos, pop"
+320,149,Soccer,Beer,beer,"Meat pies, hamburgers, beer, water, hot dogs"
+320,149,Soccer,Burger,hamburgers,"Meat pies, hamburgers, beer, water, hot dogs"
+320,149,Soccer,Hot dog,hot dogs,"Meat pies, hamburgers, beer, water, hot dogs"
+320,149,Soccer,Water,water,"Meat pies, hamburgers, beer, water, hot dogs"
+321,149,Baseball,Beer,beer,"Beer, fries, hamburgers, hot dogs, popcorn, water"
+321,149,Baseball,Burger,hamburgers,"Beer, fries, hamburgers, hot dogs, popcorn, water"
+321,149,Baseball,Fries,fries,"Beer, fries, hamburgers, hot dogs, popcorn, water"
+321,149,Baseball,Hot dog,hot dogs,"Beer, fries, hamburgers, hot dogs, popcorn, water"
+321,149,Baseball,Popcorn,popcorn,"Beer, fries, hamburgers, hot dogs, popcorn, water"
+321,149,Baseball,Water,water,"Beer, fries, hamburgers, hot dogs, popcorn, water"
+322,149,Basketball,Beer,beer,"Water, beer"
+322,149,Basketball,Water,water,"Water, beer"
+323,150,Soccer,Burger,burgers,"pizza, fries, burgers, soft drinks, and coffee"
+323,150,Soccer,Fries,fries,"pizza, fries, burgers, soft drinks, and coffee"
+323,150,Soccer,Pizza,pizza,"pizza, fries, burgers, soft drinks, and coffee"
+323,150,Soccer,Soft drinks,soft drinks,"pizza, fries, burgers, soft drinks, and coffee"
+324,150,Baseball,Beer,beer,"hot dogs, nachos, peanuts, popcorn, beer"
+324,150,Baseball,Hot dog,hot dogs,"hot dogs, nachos, peanuts, popcorn, beer"
+324,150,Baseball,Nachos,nachos,"hot dogs, nachos, peanuts, popcorn, beer"
+324,150,Baseball,Peanuts,peanuts,"hot dogs, nachos, peanuts, popcorn, beer"
+324,150,Baseball,Popcorn,popcorn,"hot dogs, nachos, peanuts, popcorn, beer"
+325,150,Basketball,Chicken,wings,"pizza, wings, nachos, soda"
+325,150,Basketball,Nachos,nachos,"pizza, wings, nachos, soda"
+325,150,Basketball,Pizza,pizza,"pizza, wings, nachos, soda"
+325,150,Basketball,Soft drinks,soda,"pizza, wings, nachos, soda"
+326,151,Soccer,Beer,beers,"Beers and snacks, or some cold dishes"
+327,151,Baseball,Beer,beer,Beer
+328,151,Basketball,Popcorn,popcorn,popcorn
+329,152,Soccer,Beer,beer,"Tacos, Powerade, French Fries, Beer"
+329,152,Soccer,Energy / electrolyte drinks,powerade,"Tacos, Powerade, French Fries, Beer"
+329,152,Soccer,Fries,french fries,"Tacos, Powerade, French Fries, Beer"
+330,152,Baseball,Beer,beer,"Hotdog, Fries, Hamburger, Beer, Soda"
+330,152,Baseball,Burger,hamburger,"Hotdog, Fries, Hamburger, Beer, Soda"
+330,152,Baseball,Fries,fries,"Hotdog, Fries, Hamburger, Beer, Soda"
+330,152,Baseball,Hot dog,hotdog,"Hotdog, Fries, Hamburger, Beer, Soda"
+330,152,Baseball,Soft drinks,soda,"Hotdog, Fries, Hamburger, Beer, Soda"
+331,152,Basketball,Energy / electrolyte drinks,gatorade,"Tacos, Hennessy, Nachos, Gatorade"
+331,152,Basketball,Nachos,nachos,"Tacos, Hennessy, Nachos, Gatorade"
+332,153,Soccer,Beer,beer,Hotdogs and beer
+332,153,Soccer,Hot dog,hotdogs,Hotdogs and beer
+333,153,Baseball,Beer,beer,"Hotdog, nachos, beer "
+333,153,Baseball,Hot dog,hotdog,"Hotdog, nachos, beer "
+333,153,Baseball,Nachos,nachos,"Hotdog, nachos, beer "
+334,153,Basketball,Chicken,chicken wings,"Chicken wings, alcohol "
+335,155,Soccer,Beer,beer,"Beer, fries, nachos."
+335,155,Soccer,Fries,fries,"Beer, fries, nachos."
+335,155,Soccer,Nachos,nachos,"Beer, fries, nachos."
+336,155,Baseball,Beer,beer,"Hot Dogs, Coke, Beer, Fries"
+336,155,Baseball,Fries,fries,"Hot Dogs, Coke, Beer, Fries"
+336,155,Baseball,Hot dog,hot dogs,"Hot Dogs, Coke, Beer, Fries"
+336,155,Baseball,Soft drinks,coke,"Hot Dogs, Coke, Beer, Fries"
+337,155,Basketball,Beer,beer,"Diet Coke, Beer, Hot Dogs, Fries"
+337,155,Basketball,Fries,fries,"Diet Coke, Beer, Hot Dogs, Fries"
+337,155,Basketball,Hot dog,hot dogs,"Diet Coke, Beer, Hot Dogs, Fries"
+337,155,Basketball,Soft drinks,diet coke,"Diet Coke, Beer, Hot Dogs, Fries"
+338,157,Soccer,Beer,beer,"Beer, Nachos, Hotdogs"
+338,157,Soccer,Hot dog,hotdogs,"Beer, Nachos, Hotdogs"
+338,157,Soccer,Nachos,nachos,"Beer, Nachos, Hotdogs"
+339,157,Baseball,Beer,beer,"Beer, Hotdogs, Pizza, Nachos, Zonnic"
+339,157,Baseball,Hot dog,hotdogs,"Beer, Hotdogs, Pizza, Nachos, Zonnic"
+339,157,Baseball,Nachos,nachos,"Beer, Hotdogs, Pizza, Nachos, Zonnic"
+339,157,Baseball,Pizza,pizza,"Beer, Hotdogs, Pizza, Nachos, Zonnic"
+340,157,Basketball,Beer,beer,"Fried Chicken, Beer, Hotdogs, Pizza, Nachos, Wings, Burgers"
+340,157,Basketball,Burger,burgers,"Fried Chicken, Beer, Hotdogs, Pizza, Nachos, Wings, Burgers"
+340,157,Basketball,Chicken,fried chicken | wings,"Fried Chicken, Beer, Hotdogs, Pizza, Nachos, Wings, Burgers"
+340,157,Basketball,Hot dog,hotdogs,"Fried Chicken, Beer, Hotdogs, Pizza, Nachos, Wings, Burgers"
+340,157,Basketball,Nachos,nachos,"Fried Chicken, Beer, Hotdogs, Pizza, Nachos, Wings, Burgers"
+340,157,Basketball,Pizza,pizza,"Fried Chicken, Beer, Hotdogs, Pizza, Nachos, Wings, Burgers"
+341,158,Soccer,Pizza,pizza,Pizza
+342,158,Baseball,Beer,beer,"Beer, burgers"
+342,158,Baseball,Burger,burgers,"Beer, burgers"
+343,158,Basketball,Soft drinks,coca cola,Coca cola
+344,159,Soccer,Beer,beer,"hotdog, soft drinks, beer, "
+344,159,Soccer,Hot dog,hotdog,"hotdog, soft drinks, beer, "
+344,159,Soccer,Soft drinks,soft drinks,"hotdog, soft drinks, beer, "
+345,159,Baseball,Chicken,fried chicken,"soft drink , popcorn, fried chicken "
+345,159,Baseball,Popcorn,popcorn,"soft drink , popcorn, fried chicken "
+345,159,Baseball,Soft drinks,soft drink,"soft drink , popcorn, fried chicken "
+346,159,Basketball,Beer,beer,"beer, popcorn"
+346,159,Basketball,Popcorn,popcorn,"beer, popcorn"
+347,161,Soccer,Hot dog,hot dogs,Orange slices and hot dogs
+348,161,Baseball,Hot dog,hot dogs,"Peanuts, Hot dogs, Sunflower seeds"
+348,161,Baseball,Peanuts,peanuts,"Peanuts, Hot dogs, Sunflower seeds"
+348,161,Baseball,Sunflower seeds,sunflower seeds,"Peanuts, Hot dogs, Sunflower seeds"
+349,161,Basketball,Energy / electrolyte drinks,gatorade,Gatorade
+350,162,Soccer,Beer,beer,"Pizza, chicken wings, nachos, beer, soda, guacamole and chips"
+350,162,Soccer,Chicken,chicken wings,"Pizza, chicken wings, nachos, beer, soda, guacamole and chips"
+350,162,Soccer,Chips,chips,"Pizza, chicken wings, nachos, beer, soda, guacamole and chips"
+350,162,Soccer,Nachos,nachos,"Pizza, chicken wings, nachos, beer, soda, guacamole and chips"
+350,162,Soccer,Pizza,pizza,"Pizza, chicken wings, nachos, beer, soda, guacamole and chips"
+350,162,Soccer,Soft drinks,soda,"Pizza, chicken wings, nachos, beer, soda, guacamole and chips"
+351,162,Baseball,Beer,beer,"Hot dogs, peanuts, popcorn, Cracker Jack, beer, lemonade, sunflower seeds"
+351,162,Baseball,Hot dog,hot dogs,"Hot dogs, peanuts, popcorn, Cracker Jack, beer, lemonade, sunflower seeds"
+351,162,Baseball,Peanuts,peanuts,"Hot dogs, peanuts, popcorn, Cracker Jack, beer, lemonade, sunflower seeds"
+351,162,Baseball,Popcorn,popcorn,"Hot dogs, peanuts, popcorn, Cracker Jack, beer, lemonade, sunflower seeds"
+351,162,Baseball,Sunflower seeds,sunflower seeds,"Hot dogs, peanuts, popcorn, Cracker Jack, beer, lemonade, sunflower seeds"
+352,162,Basketball,Beer,beer,"Pizza, chicken wings, burgers, fries, nachos, beer, soda, sports drinks"
+352,162,Basketball,Burger,burgers,"Pizza, chicken wings, burgers, fries, nachos, beer, soda, sports drinks"
+352,162,Basketball,Chicken,chicken wings,"Pizza, chicken wings, burgers, fries, nachos, beer, soda, sports drinks"
+352,162,Basketball,Energy / electrolyte drinks,sports drinks,"Pizza, chicken wings, burgers, fries, nachos, beer, soda, sports drinks"
+352,162,Basketball,Fries,fries,"Pizza, chicken wings, burgers, fries, nachos, beer, soda, sports drinks"
+352,162,Basketball,Nachos,nachos,"Pizza, chicken wings, burgers, fries, nachos, beer, soda, sports drinks"
+352,162,Basketball,Pizza,pizza,"Pizza, chicken wings, burgers, fries, nachos, beer, soda, sports drinks"
+352,162,Basketball,Soft drinks,soda,"Pizza, chicken wings, burgers, fries, nachos, beer, soda, sports drinks"
+353,164,Soccer,Fries,fries,"Fries
+
+Cola"
+353,164,Soccer,Soft drinks,cola,"Fries
+
+Cola"
+354,164,Baseball,Water,water,Water
+355,164,Basketball,Soft drinks,cola,Cola
+356,166,Soccer,Beer,beer,"Fish and chips, beer"
+357,166,Baseball,Beer,beer,"Hot dogs, Freezies, Beer"
+357,166,Baseball,Hot dog,hot dogs,"Hot dogs, Freezies, Beer"
+357,166,Baseball,Ice cream / frozen treats,freezies,"Hot dogs, Freezies, Beer"
+358,166,Basketball,Popcorn,popcorn,popcorn
+359,167,Soccer,Soft drinks,cola,Cola
+360,167,Baseball,Popcorn,pop corn,Pop Corn
+361,167,Basketball,Soft drinks,cola,Cola
+362,168,Soccer,Beer,beer,"Snacks, beer"
+365,169,Soccer,Beer,beer,"chicken wings, loaded nachos, soda, beer as well"
+365,169,Soccer,Chicken,chicken wings,"chicken wings, loaded nachos, soda, beer as well"
+365,169,Soccer,Nachos,nachos,"chicken wings, loaded nachos, soda, beer as well"
+365,169,Soccer,Soft drinks,soda,"chicken wings, loaded nachos, soda, beer as well"
+366,169,Baseball,Fries,fries,"I associate [this sport] with classic stadium food like hot dogs, nachos, popcorn, peanuts, and fries, usually with a soda or lemonade."
+366,169,Baseball,Hot dog,hot dogs,"I associate [this sport] with classic stadium food like hot dogs, nachos, popcorn, peanuts, and fries, usually with a soda or lemonade."
+366,169,Baseball,Nachos,nachos,"I associate [this sport] with classic stadium food like hot dogs, nachos, popcorn, peanuts, and fries, usually with a soda or lemonade."
+366,169,Baseball,Peanuts,peanuts,"I associate [this sport] with classic stadium food like hot dogs, nachos, popcorn, peanuts, and fries, usually with a soda or lemonade."
+366,169,Baseball,Popcorn,popcorn,"I associate [this sport] with classic stadium food like hot dogs, nachos, popcorn, peanuts, and fries, usually with a soda or lemonade."
+366,169,Baseball,Soft drinks,soda,"I associate [this sport] with classic stadium food like hot dogs, nachos, popcorn, peanuts, and fries, usually with a soda or lemonade."
+367,169,Basketball,Chicken,wings,"I associate [this sport] with pizza, wings, nachos, fries, popcorn, and chips, usually with soda or sports drinks."
+367,169,Basketball,Chips,chips,"I associate [this sport] with pizza, wings, nachos, fries, popcorn, and chips, usually with soda or sports drinks."
+367,169,Basketball,Energy / electrolyte drinks,sports drinks,"I associate [this sport] with pizza, wings, nachos, fries, popcorn, and chips, usually with soda or sports drinks."
+367,169,Basketball,Fries,fries,"I associate [this sport] with pizza, wings, nachos, fries, popcorn, and chips, usually with soda or sports drinks."
+367,169,Basketball,Nachos,nachos,"I associate [this sport] with pizza, wings, nachos, fries, popcorn, and chips, usually with soda or sports drinks."
+367,169,Basketball,Pizza,pizza,"I associate [this sport] with pizza, wings, nachos, fries, popcorn, and chips, usually with soda or sports drinks."
+367,169,Basketball,Popcorn,popcorn,"I associate [this sport] with pizza, wings, nachos, fries, popcorn, and chips, usually with soda or sports drinks."
+367,169,Basketball,Soft drinks,soda,"I associate [this sport] with pizza, wings, nachos, fries, popcorn, and chips, usually with soda or sports drinks."
+368,171,Soccer,Chips,chips,"popcorn,chips"
+368,171,Soccer,Popcorn,popcorn,"popcorn,chips"
+370,171,Basketball,Soft drinks,coke,coke
+371,173,Soccer,Beer,beer,beer
+372,173,Baseball,Soft drinks,coke,coke
+373,173,Basketball,Burger,hamburger,hamburger
+374,174,Soccer,Beer,beer,"Beer and chips, nachos"
+374,174,Soccer,Chips,chips,"Beer and chips, nachos"
+374,174,Soccer,Nachos,nachos,"Beer and chips, nachos"
+375,174,Baseball,Beer,beer,Beer and Hot Dogs
+375,174,Baseball,Hot dog,hot dogs,Beer and Hot Dogs
+376,174,Basketball,Beer,beer,Beer
+377,176,Soccer,Beer,beer,"Hot dogs, burgers, beer."
+377,176,Soccer,Burger,burgers,"Hot dogs, burgers, beer."
+377,176,Soccer,Hot dog,hot dogs,"Hot dogs, burgers, beer."
+378,176,Baseball,Beer,beer,Hot dogs and beer.
+378,176,Baseball,Hot dog,hot dogs,Hot dogs and beer.
+379,176,Basketball,Chicken,chicken tenders,"Pizza, chicken tenders, fries, sprite."
+379,176,Basketball,Fries,fries,"Pizza, chicken tenders, fries, sprite."
+379,176,Basketball,Pizza,pizza,"Pizza, chicken tenders, fries, sprite."
+379,176,Basketball,Soft drinks,sprite,"Pizza, chicken tenders, fries, sprite."
+380,177,Soccer,Soft drinks,coke,Coke
+381,177,Baseball,Pretzel,pretzel,Pretzel
+382,177,Basketball,Popcorn,popcorn,Popcorn
+383,178,Soccer,Chicken,wings,Honey Garlic Parmesan Wings and Coke
+383,178,Soccer,Soft drinks,coke,Honey Garlic Parmesan Wings and Coke
+384,178,Baseball,Beer,beer,Pizza and Beer
+384,178,Baseball,Pizza,pizza,Pizza and Beer
+385,178,Basketball,Chicken,wings,Honey Garlic Parmesan Wings and Coke
+385,178,Basketball,Soft drinks,coke,Honey Garlic Parmesan Wings and Coke
+386,183,Soccer,Pizza,pizza,"coke, pizza"
+386,183,Soccer,Soft drinks,coke,"coke, pizza"
+387,183,Baseball,Hot dog,hot dog,"coke, hot dog"
+387,183,Baseball,Soft drinks,coke,"coke, hot dog"
+388,183,Basketball,Soft drinks,coke,coke
+389,184,Soccer,Beer,beer,beer
+390,184,Baseball,Hot dog,hot dogs,hot dogs
+391,184,Basketball,Beer,beer,beer
+392,186,Soccer,Barbecue,barbecue,"Usually, people gather in public squares outdoors to drink beer, have barbecue, and watch the matches together. Because of the time difference, it's always at night.
+
+今年在中国，每当我想起[this sport]，我就会想到东鹏补水水，这是东鹏饮料旗下的一个电解质饮料品牌。在2026年美国、加拿大和墨西哥[a competition]期间，姆巴佩代言了这款饮料，并发表了一句滑稽又略显生硬的中文广告语：“我是姆巴佩，该补水啦！”（Wǒ shì Mǔbāpèi, bù shuǐ la! ）。他那冰冷酷帅的[this sport]形象与他口中“不睡觉啦”的谐音形成了鲜明的对比，这段广告语迅速在网络上走红。现在，整个夏天，每当我和朋友们看到[this sport]场，我们都会脱口而出这句广告语。"
+392,186,Soccer,Beer,beer,"Usually, people gather in public squares outdoors to drink beer, have barbecue, and watch the matches together. Because of the time difference, it's always at night.
+
+今年在中国，每当我想起[this sport]，我就会想到东鹏补水水，这是东鹏饮料旗下的一个电解质饮料品牌。在2026年美国、加拿大和墨西哥[a competition]期间，姆巴佩代言了这款饮料，并发表了一句滑稽又略显生硬的中文广告语：“我是姆巴佩，该补水啦！”（Wǒ shì Mǔbāpèi, bù shuǐ la! ）。他那冰冷酷帅的[this sport]形象与他口中“不睡觉啦”的谐音形成了鲜明的对比，这段广告语迅速在网络上走红。现在，整个夏天，每当我和朋友们看到[this sport]场，我们都会脱口而出这句广告语。"
+392,186,Soccer,Energy / electrolyte drinks,东鹏补水水 | 电解质饮料,"Usually, people gather in public squares outdoors to drink beer, have barbecue, and watch the matches together. Because of the time difference, it's always at night.
+
+今年在中国，每当我想起[this sport]，我就会想到东鹏补水水，这是东鹏饮料旗下的一个电解质饮料品牌。在2026年美国、加拿大和墨西哥[a competition]期间，姆巴佩代言了这款饮料，并发表了一句滑稽又略显生硬的中文广告语：“我是姆巴佩，该补水啦！”（Wǒ shì Mǔbāpèi, bù shuǐ la! ）。他那冰冷酷帅的[this sport]形象与他口中“不睡觉啦”的谐音形成了鲜明的对比，这段广告语迅速在网络上走红。现在，整个夏天，每当我和朋友们看到[this sport]场，我们都会脱口而出这句广告语。"
+393,186,Baseball,Soft drinks,coca cola,"apanese people actually love this sport. When I was traveling in Japan, everyone would gather at izakayas to watch the games, so the go-to drinks are definitely all kinds of alcoholic beverages or just a classic, refreshing Coca-Cola."
+394,186,Basketball,Energy / electrolyte drinks,sports drink,Any sports drink or plain water—mostly because idol dramas and high school clichés always feature girls handing water to guys right after they finish playing [this sport].
+394,186,Basketball,Water,water,Any sports drink or plain water—mostly because idol dramas and high school clichés always feature girls handing water to guys right after they finish playing [this sport].
+395,188,Soccer,Chicken,chicken wings,"Potato chips, chicken wings, pizza, soda, sandwiches"
+395,188,Soccer,Chips,potato chips,"Potato chips, chicken wings, pizza, soda, sandwiches"
+395,188,Soccer,Pizza,pizza,"Potato chips, chicken wings, pizza, soda, sandwiches"
+395,188,Soccer,Sandwich,sandwiches,"Potato chips, chicken wings, pizza, soda, sandwiches"
+395,188,Soccer,Soft drinks,soda,"Potato chips, chicken wings, pizza, soda, sandwiches"
+396,188,Baseball,Chicken,chicken wings,"Hot dogs, soda, chicken wings, sandwiches"
+396,188,Baseball,Hot dog,hot dogs,"Hot dogs, soda, chicken wings, sandwiches"
+396,188,Baseball,Sandwich,sandwiches,"Hot dogs, soda, chicken wings, sandwiches"
+396,188,Baseball,Soft drinks,soda,"Hot dogs, soda, chicken wings, sandwiches"
+397,188,Basketball,Chicken,chicken wings,"Chicken wings, sandwiches, soda"
+397,188,Basketball,Sandwich,sandwiches,"Chicken wings, sandwiches, soda"
+397,188,Basketball,Soft drinks,soda,"Chicken wings, sandwiches, soda"
+401,190,Soccer,Beer,beer,"burgers, fries, beer"
+401,190,Soccer,Burger,burgers,"burgers, fries, beer"
+401,190,Soccer,Fries,fries,"burgers, fries, beer"
+402,190,Baseball,Hot dog,hot dogs,"hot dogs, lemonade"
+403,190,Basketball,Chicken,chicken wings,"pizza, chicken wings, fries, soft drinks"
+403,190,Basketball,Fries,fries,"pizza, chicken wings, fries, soft drinks"
+403,190,Basketball,Pizza,pizza,"pizza, chicken wings, fries, soft drinks"
+403,190,Basketball,Soft drinks,soft drinks,"pizza, chicken wings, fries, soft drinks"
+404,191,Soccer,Chips,chips,"coke, chips, popcorn"
+404,191,Soccer,Popcorn,popcorn,"coke, chips, popcorn"
+404,191,Soccer,Soft drinks,coke,"coke, chips, popcorn"
+405,191,Baseball,Chips,chips,"chips, coke"
+405,191,Baseball,Soft drinks,coke,"chips, coke"
+406,191,Basketball,Chips,chips,"hot dogs, chips, coke"
+406,191,Basketball,Hot dog,hot dogs,"hot dogs, chips, coke"
+406,191,Basketball,Soft drinks,coke,"hot dogs, chips, coke"
+407,193,Soccer,Nachos,nachos,nachos and coca-cola
+407,193,Soccer,Soft drinks,coca cola,nachos and coca-cola
+408,193,Baseball,Beer,beer,hotdogs and beer
+408,193,Baseball,Hot dog,hotdogs,hotdogs and beer
+409,193,Basketball,Burger,burger,burger and coke
+409,193,Basketball,Soft drinks,coke,burger and coke
+410,195,Soccer,Sandwich,sandwiches,"Meat pie, soft drinks, sandwiches"
+410,195,Soccer,Soft drinks,soft drinks,"Meat pie, soft drinks, sandwiches"
+411,195,Baseball,Hot dog,hot dogs,"Hot dogs, peanuts, nachos, Coca Cola"
+411,195,Baseball,Nachos,nachos,"Hot dogs, peanuts, nachos, Coca Cola"
+411,195,Baseball,Peanuts,peanuts,"Hot dogs, peanuts, nachos, Coca Cola"
+411,195,Baseball,Soft drinks,coca cola,"Hot dogs, peanuts, nachos, Coca Cola"
+412,195,Basketball,Chips,chips,"Sprite, chips, popcorn"
+412,195,Basketball,Popcorn,popcorn,"Sprite, chips, popcorn"
+412,195,Basketball,Soft drinks,sprite,"Sprite, chips, popcorn"
+413,196,Soccer,Beer,beer,"I associate it with pizza, chips, and beer."
+413,196,Soccer,Chips,chips,"I associate it with pizza, chips, and beer."
+413,196,Soccer,Pizza,pizza,"I associate it with pizza, chips, and beer."
+414,196,Baseball,Hot dog,hotdogs,"hotdogs, popcorn"
+414,196,Baseball,Popcorn,popcorn,"hotdogs, popcorn"
+415,196,Basketball,Fries,fries,"pizza, fries, soft drinks, snacks"
+415,196,Basketball,Pizza,pizza,"pizza, fries, soft drinks, snacks"
+415,196,Basketball,Soft drinks,soft drinks,"pizza, fries, soft drinks, snacks"
+416,197,Soccer,Barbecue,bbq,Beer and BBQ
+416,197,Soccer,Beer,beer,Beer and BBQ
+417,197,Baseball,Chips,chips,Chips
+419,198,Soccer,Beer,beer,"pizza, wings, nachos, chips, beer"
+419,198,Soccer,Chicken,wings,"pizza, wings, nachos, chips, beer"
+419,198,Soccer,Chips,chips,"pizza, wings, nachos, chips, beer"
+419,198,Soccer,Nachos,nachos,"pizza, wings, nachos, chips, beer"
+419,198,Soccer,Pizza,pizza,"pizza, wings, nachos, chips, beer"
+420,198,Baseball,Beer,beer,"Hot dogs, popcorn, beer, and soft drinks."
+420,198,Baseball,Hot dog,hot dogs,"Hot dogs, popcorn, beer, and soft drinks."
+420,198,Baseball,Popcorn,popcorn,"Hot dogs, popcorn, beer, and soft drinks."
+420,198,Baseball,Soft drinks,soft drinks,"Hot dogs, popcorn, beer, and soft drinks."
+421,198,Basketball,Beer,beer,"Pizza, chicken wings, beer, coke"
+421,198,Basketball,Chicken,chicken wings,"Pizza, chicken wings, beer, coke"
+421,198,Basketball,Pizza,pizza,"Pizza, chicken wings, beer, coke"
+421,198,Basketball,Soft drinks,coke,"Pizza, chicken wings, beer, coke"
+422,199,Soccer,Beer,beer,"Coca cola, pop corn, hot dog, beer, nachos, and grilled snacks. "
+422,199,Soccer,Hot dog,hot dog,"Coca cola, pop corn, hot dog, beer, nachos, and grilled snacks. "
+422,199,Soccer,Nachos,nachos,"Coca cola, pop corn, hot dog, beer, nachos, and grilled snacks. "
+422,199,Soccer,Popcorn,pop corn,"Coca cola, pop corn, hot dog, beer, nachos, and grilled snacks. "
+422,199,Soccer,Soft drinks,coca cola,"Coca cola, pop corn, hot dog, beer, nachos, and grilled snacks. "
+423,199,Baseball,Hot dog,hot dogs,"Hot dogs, popcorn, soda, peanuts. "
+423,199,Baseball,Peanuts,peanuts,"Hot dogs, popcorn, soda, peanuts. "
+423,199,Baseball,Popcorn,popcorn,"Hot dogs, popcorn, soda, peanuts. "
+423,199,Baseball,Soft drinks,soda,"Hot dogs, popcorn, soda, peanuts. "
+424,199,Basketball,Nachos,nachos,"Nachos, soft pretzels, and soda."
+424,199,Basketball,Pretzel,soft pretzels,"Nachos, soft pretzels, and soda."
+424,199,Basketball,Soft drinks,soda,"Nachos, soft pretzels, and soda."
+425,200,Soccer,Water,water,Water
+426,200,Baseball,Water,water,Water
+427,200,Basketball,Water,water,Water
+428,201,Soccer,Beer,beer,"Hot Dogs, Beer"
+428,201,Soccer,Hot dog,hot dogs,"Hot Dogs, Beer"
+429,201,Baseball,Beer,beer,"Hot Dogs, Beer, Peanuts, Cracker Jack"
+429,201,Baseball,Hot dog,hot dogs,"Hot Dogs, Beer, Peanuts, Cracker Jack"
+429,201,Baseball,Peanuts,peanuts,"Hot Dogs, Beer, Peanuts, Cracker Jack"
+430,201,Basketball,Chicken,chicken wings,"Chicken wings, Loaded nachos, Pizza, and Soft pretzels"
+430,201,Basketball,Nachos,nachos,"Chicken wings, Loaded nachos, Pizza, and Soft pretzels"
+430,201,Basketball,Pizza,pizza,"Chicken wings, Loaded nachos, Pizza, and Soft pretzels"
+430,201,Basketball,Pretzel,soft pretzels,"Chicken wings, Loaded nachos, Pizza, and Soft pretzels"
+431,202,Soccer,Tea,iced tea,Iced tea
+432,202,Baseball,Beer,beer,Hot dog and beer
+432,202,Baseball,Hot dog,hot dog,Hot dog and beer
+433,202,Basketball,Energy / electrolyte drinks,gatorade,Gatorade
+435,203,Baseball,Hot dog,hotdog,Hotdog
+437,206,Soccer,Energy / electrolyte drinks,electrolyte drinks,electrolyte drinks
+438,206,Baseball,Peanuts,fried peanuts,black tea and fried peanuts
+438,206,Baseball,Tea,black tea,black tea and fried peanuts
+439,206,Basketball,Popcorn,popcorns,Popcorns
+440,207,Soccer,Beer,beer,"Coke, Beer, Chicken, Pig's feet, Pizza, Hamburger, Sandwich"
+440,207,Soccer,Burger,hamburger,"Coke, Beer, Chicken, Pig's feet, Pizza, Hamburger, Sandwich"
+440,207,Soccer,Chicken,chicken,"Coke, Beer, Chicken, Pig's feet, Pizza, Hamburger, Sandwich"
+440,207,Soccer,Pizza,pizza,"Coke, Beer, Chicken, Pig's feet, Pizza, Hamburger, Sandwich"
+440,207,Soccer,Sandwich,sandwich,"Coke, Beer, Chicken, Pig's feet, Pizza, Hamburger, Sandwich"
+440,207,Soccer,Soft drinks,coke,"Coke, Beer, Chicken, Pig's feet, Pizza, Hamburger, Sandwich"
+441,207,Baseball,Chicken,chicken,"Chicken, Hot dogs, Cracker Jack, Beef Tartare"
+441,207,Baseball,Hot dog,hot dogs,"Chicken, Hot dogs, Cracker Jack, Beef Tartare"
+442,207,Basketball,Chicken,chicken wings,"Nachos, Chicken wings, pizza"
+442,207,Basketball,Nachos,nachos,"Nachos, Chicken wings, pizza"
+442,207,Basketball,Pizza,pizza,"Nachos, Chicken wings, pizza"
+443,208,Soccer,Tea,milk tea | teh tarik,"maggi goreng (fried instant noodles with sunny side up) , roti canai (Indian flat bread), which are Malaysian street food/casual dining, in open-air food stalls. The drinks I associate with watching this sport is Teh Tarik (hot milk tea)."
+444,208,Baseball,Beer,beer,beer and fries
+444,208,Baseball,Fries,fries,beer and fries
+445,208,Basketball,Popcorn,popcorn,popcorn and pop
+445,208,Basketball,Soft drinks,pop,popcorn and pop
+446,209,Soccer,Beer,beer,Beer
+447,209,Baseball,Beer,beer,Hotdog and beer
+447,209,Baseball,Hot dog,hotdog,Hotdog and beer
+448,209,Basketball,Energy / electrolyte drinks,gatorade,Gatorade
+449,210,Soccer,Beer,beer,Sunflower seeds and Beer
+449,210,Soccer,Sunflower seeds,sunflower seeds,Sunflower seeds and Beer
+450,210,Baseball,Beer,beer,Beer and Hotdog
+450,210,Baseball,Hot dog,hotdog,Beer and Hotdog
+451,210,Basketball,Beer,beer,Wings and Beer
+451,210,Basketball,Chicken,wings,Wings and Beer
+452,212,Soccer,Beer,beer,"beer, gatorade, nachos"
+452,212,Soccer,Energy / electrolyte drinks,gatorade,"beer, gatorade, nachos"
+452,212,Soccer,Nachos,nachos,"beer, gatorade, nachos"
+453,212,Baseball,Beer,beer,"beer, hotdogs"
+453,212,Baseball,Hot dog,hotdogs,"beer, hotdogs"
+454,212,Basketball,Burger,burgers,"gatorade, burgers"
+454,212,Basketball,Energy / electrolyte drinks,gatorade,"gatorade, burgers"
+455,213,Soccer,Hot dog,hotdogs,"hotdogs, fast food, soda, popcorn, steaks"
+455,213,Soccer,Popcorn,popcorn,"hotdogs, fast food, soda, popcorn, steaks"
+455,213,Soccer,Soft drinks,soda,"hotdogs, fast food, soda, popcorn, steaks"
+456,213,Baseball,Burger,burgers,"hotdogs, popcorn, burgers, fast food, soda"
+456,213,Baseball,Hot dog,hotdogs,"hotdogs, popcorn, burgers, fast food, soda"
+456,213,Baseball,Popcorn,popcorn,"hotdogs, popcorn, burgers, fast food, soda"
+456,213,Baseball,Soft drinks,soda,"hotdogs, popcorn, burgers, fast food, soda"
+457,213,Basketball,Burger,burgers,"poutine, hot dogs, burgers, soda, fast food"
+457,213,Basketball,Hot dog,hot dogs,"poutine, hot dogs, burgers, soda, fast food"
+457,213,Basketball,Poutine,poutine,"poutine, hot dogs, burgers, soda, fast food"
+457,213,Basketball,Soft drinks,soda,"poutine, hot dogs, burgers, soda, fast food"
+460,217,Basketball,Hot dog,hot dogs,"Hot dogs popcorn, nachos"
+460,217,Basketball,Nachos,nachos,"Hot dogs popcorn, nachos"
+460,217,Basketball,Popcorn,popcorn,"Hot dogs popcorn, nachos"
+461,220,Soccer,Barbecue,barbecue,beer and barbecue
+461,220,Soccer,Beer,beer,beer and barbecue
+462,220,Baseball,Chicken,fried chicken,cola and fried chicken
+462,220,Baseball,Soft drinks,cola,cola and fried chicken
+463,220,Basketball,Beer,beer,chips and beer
+463,220,Basketball,Chips,chips,chips and beer
+464,221,Soccer,Beer,beer,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+464,221,Soccer,Chicken,fried chicken,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+464,221,Soccer,Chips,chips,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+464,221,Soccer,Fries,fries,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+464,221,Soccer,Gum,gums,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+464,221,Soccer,Hot dog,hot dog,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+464,221,Soccer,Popcorn,pop corn,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+465,221,Baseball,Beer,beer,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+465,221,Baseball,Chicken,fried chicken,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+465,221,Baseball,Chips,chips,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+465,221,Baseball,Fries,fries,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+465,221,Baseball,Gum,gums,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+465,221,Baseball,Hot dog,hot dog,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+465,221,Baseball,Popcorn,pop corn,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+466,221,Basketball,Beer,beer,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+466,221,Basketball,Chicken,fried chicken,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+466,221,Basketball,Chips,chips,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+466,221,Basketball,Fries,fries,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+466,221,Basketball,Gum,gums,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+466,221,Basketball,Hot dog,hot dog,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+466,221,Basketball,Popcorn,pop corn,"Pop corn, beer, hot dog, fries, gums, chips, fried chicken"
+467,222,Soccer,Burger,bergers,bergers and coke
+467,222,Soccer,Soft drinks,coke,bergers and coke
+468,222,Baseball,Burger,bergers,bergers and coke 
+468,222,Baseball,Soft drinks,coke,bergers and coke 
+469,222,Basketball,Chicken,fried chicken,fried chicken mabe
+470,223,Soccer,Beer,beer,Beer
+471,223,Baseball,Beer,beer,"Beer, Hot dog"
+471,223,Baseball,Hot dog,hot dog,"Beer, Hot dog"
+473,224,Soccer,Energy / electrolyte drinks,energy drink,energy drink
+474,224,Baseball,Poutine,poutine,poutine
+475,224,Basketball,Energy / electrolyte drinks,energy drink,energy drink
+476,225,Soccer,Burger,burgers,Burgers & Fries with coke as the drink.
+476,225,Soccer,Fries,fries,Burgers & Fries with coke as the drink.
+476,225,Soccer,Soft drinks,coke,Burgers & Fries with coke as the drink.
+477,225,Baseball,Beer,beer,Hot dogs and beer.
+477,225,Baseball,Hot dog,hot dogs,Hot dogs and beer.
+478,225,Basketball,Pizza,pizza,Pizza and water.
+478,225,Basketball,Water,water,Pizza and water.
+479,226,Soccer,Chips,chips,"Chips, Soda, Pizza and fast food"
+479,226,Soccer,Pizza,pizza,"Chips, Soda, Pizza and fast food"
+479,226,Soccer,Soft drinks,soda,"Chips, Soda, Pizza and fast food"
+480,226,Baseball,Hot dog,hot dog,Hot Dog and Soda
+480,226,Baseball,Soft drinks,soda,Hot Dog and Soda
+481,226,Basketball,Pizza,pizza,Pizza and soda
+481,226,Basketball,Soft drinks,soda,Pizza and soda
+482,227,Soccer,Hot dog,hotdogs,"Hotdogs, Icecream"
+482,227,Soccer,Ice cream / frozen treats,icecream,"Hotdogs, Icecream"
+483,227,Baseball,Hot dog,hotdogs,"Hotdogs, Peanuts"
+483,227,Baseball,Peanuts,peanuts,"Hotdogs, Peanuts"
+484,227,Basketball,Pizza,pizza,Pizza
+485,228,Soccer,Hot dog,hot dog,"Juice box
+
+Hot dog
+
+Orange"
+486,228,Baseball,Beer,beer,"Hot dog
+
+French fries
+
+Beer
+
+Burger"
+486,228,Baseball,Burger,burger,"Hot dog
+
+French fries
+
+Beer
+
+Burger"
+486,228,Baseball,Fries,french fries,"Hot dog
+
+French fries
+
+Beer
+
+Burger"
+486,228,Baseball,Hot dog,hot dog,"Hot dog
+
+French fries
+
+Beer
+
+Burger"
+487,228,Basketball,Chips,potato chips,"Hot dog
+
+Soda
+
+Potato chips "
+487,228,Basketball,Hot dog,hot dog,"Hot dog
+
+Soda
+
+Potato chips "
+487,228,Basketball,Soft drinks,soda,"Hot dog
+
+Soda
+
+Potato chips "
+488,230,Soccer,Beer,beer,beer
+489,230,Baseball,Fries,french fries,"popcorn, and French fries, cola"
+489,230,Baseball,Popcorn,popcorn,"popcorn, and French fries, cola"
+489,230,Baseball,Soft drinks,cola,"popcorn, and French fries, cola"
+490,230,Basketball,Chicken,chicken wings,chicken wings
+491,231,Soccer,Chips,chips,"nuts, chips, coke"
+491,231,Soccer,Soft drinks,coke,"nuts, chips, coke"
+492,231,Baseball,Gum,chewing gum,chewing gum
+493,231,Basketball,Soft drinks,coke,coke
+494,235,Soccer,Beer,beer,Beer
+495,235,Baseball,Hot dog,hotdogs,"Hotdogs, pop"
+495,235,Baseball,Soft drinks,pop,"Hotdogs, pop"
+496,235,Basketball,Water,water,Water
+497,236,Soccer,Energy / electrolyte drinks,gatorade,Gatorade
+498,236,Baseball,Hot dog,hot dogs,Hot dogs
+499,236,Basketball,Popcorn,popcorn,Popcorn
+500,238,Soccer,Beer,beer,"Beer, pizza"
+500,238,Soccer,Pizza,pizza,"Beer, pizza"
+501,238,Baseball,Hot dog,hot dogs,Hot Dogs
+502,238,Basketball,Pizza,pizza,"Pizza, Pop Corn"
+502,238,Basketball,Popcorn,pop corn,"Pizza, Pop Corn"
+503,239,Soccer,Beer,beer,beer
+504,239,Baseball,Hot dog,hotdog,Hotdog
+505,239,Basketball,Nachos,nachos,nachos
+506,240,Soccer,Beer,beer,beer
+507,240,Baseball,Hot dog,hotdogs,hotdogs
+508,240,Basketball,Pizza,pizza,"pizza, soda"
+508,240,Basketball,Soft drinks,soda,"pizza, soda"
+509,241,Soccer,Chips,chips,Pizza chips and cold soft drinks while watching with friends
+509,241,Soccer,Pizza,pizza,Pizza chips and cold soft drinks while watching with friends
+509,241,Soccer,Soft drinks,soft drinks,Pizza chips and cold soft drinks while watching with friends
+510,241,Baseball,Hot dog,hot dogs,Hot dogs popcorn peanuts and a cold soda on a sunny afternoon
+510,241,Baseball,Peanuts,peanuts,Hot dogs popcorn peanuts and a cold soda on a sunny afternoon
+510,241,Baseball,Popcorn,popcorn,Hot dogs popcorn peanuts and a cold soda on a sunny afternoon
+510,241,Baseball,Soft drinks,soda,Hot dogs popcorn peanuts and a cold soda on a sunny afternoon
+511,241,Basketball,Chicken,wings,Wings pizza nachos and soft drinks with friends during an evening game
+511,241,Basketball,Nachos,nachos,Wings pizza nachos and soft drinks with friends during an evening game
+511,241,Basketball,Pizza,pizza,Wings pizza nachos and soft drinks with friends during an evening game
+511,241,Basketball,Soft drinks,soft drinks,Wings pizza nachos and soft drinks with friends during an evening game
+512,245,Soccer,Beer,beer,"Beer, vobla (salt-dried fish), croutons"
+514,245,Basketball,Hot dog,hot dogs,hot dogs
+515,246,Soccer,Beer,beer,"Grilled skewers, crayfish, beer."
+516,246,Baseball,Fries,french fries,French fries.
+517,246,Basketball,Burger,burger,Burger.
+518,247,Soccer,Beer,beer,"Oysters, chips, soda and beer."
+518,247,Soccer,Chips,chips,"Oysters, chips, soda and beer."
+518,247,Soccer,Soft drinks,soda,"Oysters, chips, soda and beer."
+520,247,Basketball,Beer,beer,Coke and beer.
+520,247,Basketball,Soft drinks,coke,Coke and beer.
+521,248,Soccer,Pizza,pizza,"pizza, and coke"
+521,248,Soccer,Soft drinks,coke,"pizza, and coke"
+522,248,Baseball,Hot dog,hot dog,coke and hot dog
+522,248,Baseball,Soft drinks,coke,coke and hot dog
+523,248,Basketball,Pizza,pizza,coke and pizza
+523,248,Basketball,Soft drinks,coke,coke and pizza
+524,249,Soccer,Beer,beer,"beer, fry chicken"
+524,249,Soccer,Chicken,fry chicken,"beer, fry chicken"
+526,249,Basketball,Beer,beer,"beer, fry chicken"
+526,249,Basketball,Chicken,fry chicken,"beer, fry chicken"
+527,250,Soccer,Poutine,poutine,"food: poutine
+
+drink:soda"
+527,250,Soccer,Soft drinks,soda,"food: poutine
+
+drink:soda"
+528,250,Baseball,Hot dog,hot dogs,Hot dogs and cola
+528,250,Baseball,Soft drinks,cola,Hot dogs and cola
+529,250,Basketball,Pizza,pizza,"food:pizza
+
+drinks:water"
+529,250,Basketball,Water,water,"food:pizza
+
+drinks:water"
+530,251,Soccer,Soft drinks,pepsi,pepsi
+531,251,Baseball,Hot dog,hotdogs,Hotdogs
+532,251,Basketball,Nachos,nachos,Nachos
+533,253,Soccer,Nachos,nachos,"Coca cola, nachos"
+533,253,Soccer,Soft drinks,coca cola,"Coca cola, nachos"
+534,253,Baseball,Hot dog,hot dog,Hot dog
+535,253,Basketball,Hot dog,hot dog,"Hot dog, nachos"
+535,253,Basketball,Nachos,nachos,"Hot dog, nachos"
+536,254,Soccer,Beer,beer,"Sausages, Beer, Chips"
+536,254,Soccer,Chips,chips,"Sausages, Beer, Chips"
+537,254,Baseball,Beer,beer,"Hotdogs, Beer, Sodas, Fries, Popcorn, Peanuts, Sunflower Seeds"
+537,254,Baseball,Fries,fries,"Hotdogs, Beer, Sodas, Fries, Popcorn, Peanuts, Sunflower Seeds"
+537,254,Baseball,Hot dog,hotdogs,"Hotdogs, Beer, Sodas, Fries, Popcorn, Peanuts, Sunflower Seeds"
+537,254,Baseball,Peanuts,peanuts,"Hotdogs, Beer, Sodas, Fries, Popcorn, Peanuts, Sunflower Seeds"
+537,254,Baseball,Popcorn,popcorn,"Hotdogs, Beer, Sodas, Fries, Popcorn, Peanuts, Sunflower Seeds"
+537,254,Baseball,Soft drinks,sodas,"Hotdogs, Beer, Sodas, Fries, Popcorn, Peanuts, Sunflower Seeds"
+537,254,Baseball,Sunflower seeds,sunflower seeds,"Hotdogs, Beer, Sodas, Fries, Popcorn, Peanuts, Sunflower Seeds"
+538,254,Basketball,Chicken,wings,"Pizza, Wings, Soda, Nachos"
+538,254,Basketball,Nachos,nachos,"Pizza, Wings, Soda, Nachos"
+538,254,Basketball,Pizza,pizza,"Pizza, Wings, Soda, Nachos"
+538,254,Basketball,Soft drinks,soda,"Pizza, Wings, Soda, Nachos"
+542,259,Soccer,Beer,beer,"Beer, soda, wings, pizza"
+542,259,Soccer,Chicken,wings,"Beer, soda, wings, pizza"
+542,259,Soccer,Pizza,pizza,"Beer, soda, wings, pizza"
+542,259,Soccer,Soft drinks,soda,"Beer, soda, wings, pizza"
+543,259,Baseball,Chips,chips,"Chips, soda"
+543,259,Baseball,Soft drinks,soda,"Chips, soda"
+544,259,Basketball,Beer,beer,"Pizza, wings, nachos, soda, and beer."
+544,259,Basketball,Chicken,wings,"Pizza, wings, nachos, soda, and beer."
+544,259,Basketball,Nachos,nachos,"Pizza, wings, nachos, soda, and beer."
+544,259,Basketball,Pizza,pizza,"Pizza, wings, nachos, soda, and beer."
+544,259,Basketball,Soft drinks,soda,"Pizza, wings, nachos, soda, and beer."
+545,260,Soccer,Beer,beer,"Pizza, Coke Cola, Hamburgers, Sandwiches, Beer, Popcorns"
+545,260,Soccer,Burger,hamburgers,"Pizza, Coke Cola, Hamburgers, Sandwiches, Beer, Popcorns"
+545,260,Soccer,Pizza,pizza,"Pizza, Coke Cola, Hamburgers, Sandwiches, Beer, Popcorns"
+545,260,Soccer,Popcorn,popcorns,"Pizza, Coke Cola, Hamburgers, Sandwiches, Beer, Popcorns"
+545,260,Soccer,Sandwich,sandwiches,"Pizza, Coke Cola, Hamburgers, Sandwiches, Beer, Popcorns"
+545,260,Soccer,Soft drinks,coke cola,"Pizza, Coke Cola, Hamburgers, Sandwiches, Beer, Popcorns"
+546,260,Baseball,Popcorn,popcorn,"Popcorn, Sandwiches"
+546,260,Baseball,Sandwich,sandwiches,"Popcorn, Sandwiches"
+547,260,Basketball,Hot dog,hot dog,"Hot dog, Coke Cola"
+547,260,Basketball,Soft drinks,coke cola,"Hot dog, Coke Cola"
+548,261,Soccer,Beer,beer,Colombia and Brazil. Beer and hot dogs.
+548,261,Soccer,Hot dog,hot dogs,Colombia and Brazil. Beer and hot dogs.
+549,261,Baseball,Burger,burgers,Hot dogs and burgers
+549,261,Baseball,Hot dog,hot dogs,Hot dogs and burgers
+550,261,Basketball,Hot dog,hot dogs,Hot dogs
+551,263,Soccer,Soft drinks,coke,coke
+552,263,Baseball,Soft drinks,coke,coke
+553,263,Basketball,Soft drinks,coke,coke
+554,265,Soccer,Beer,beer,Beer
+555,265,Baseball,Pizza,pizza,Pizza
+556,265,Basketball,Soft drinks,cola,Cola
+557,267,Soccer,Beer,beer,"Pizza, beer, wings"
+557,267,Soccer,Chicken,wings,"Pizza, beer, wings"
+557,267,Soccer,Pizza,pizza,"Pizza, beer, wings"
+560,268,Soccer,Burger,sliders,"Loaded nachos, chicken wings, sliders, soda."
+560,268,Soccer,Chicken,chicken wings,"Loaded nachos, chicken wings, sliders, soda."
+560,268,Soccer,Nachos,nachos,"Loaded nachos, chicken wings, sliders, soda."
+560,268,Soccer,Soft drinks,soda,"Loaded nachos, chicken wings, sliders, soda."
+561,268,Baseball,Hot dog,hot dogs,Hot dogs and soda.
+561,268,Baseball,Soft drinks,soda,Hot dogs and soda.
+562,268,Basketball,Hot dog,hot dog,"Hot dog, nachos, soda."
+562,268,Basketball,Nachos,nachos,"Hot dog, nachos, soda."
+562,268,Basketball,Soft drinks,soda,"Hot dog, nachos, soda."
+563,269,Soccer,Chicken,fried chicken,"Fried Chicken, bubble tea, bear"
+563,269,Soccer,Tea,bubble tea,"Fried Chicken, bubble tea, bear"
+564,269,Baseball,Chicken,fried chicken,"Fried chicken, bubble tea bear"
+564,269,Baseball,Tea,bubble tea,"Fried chicken, bubble tea bear"
+565,269,Basketball,Chicken,fried chicken,"Fried chicken, hot pot, bear"
+566,270,Soccer,Beer,beer,"Chicken Wings and Beer, Nachos."
+566,270,Soccer,Chicken,chicken wings,"Chicken Wings and Beer, Nachos."
+566,270,Soccer,Nachos,nachos,"Chicken Wings and Beer, Nachos."
+567,270,Baseball,Hot dog,hot dogs,Hot Dogs and Coke.
+567,270,Baseball,Soft drinks,coke,Hot Dogs and Coke.
+568,270,Basketball,Chicken,chicken wings,"Chips, Pizza, and Chicken Wings."
+568,270,Basketball,Chips,chips,"Chips, Pizza, and Chicken Wings."
+568,270,Basketball,Pizza,pizza,"Chips, Pizza, and Chicken Wings."
+569,272,Soccer,Chicken,fried chicken,Fried Chicken and Rice
+570,272,Baseball,Popcorn,popcorn,Popcorn 
+571,272,Basketball,Chicken,chicken tenders,Chicken tenders
+572,273,Soccer,Soft drinks,sprite,"American/Mexican cuisine, Sprite/water"
+572,273,Soccer,Water,water,"American/Mexican cuisine, Sprite/water"
+573,273,Baseball,Beer,beer,"Hot dogs, beer"
+573,273,Baseball,Hot dog,hot dogs,"Hot dogs, beer"
+574,273,Basketball,Chicken,wings,"Wings, water"
+574,273,Basketball,Water,water,"Wings, water"
+575,275,Soccer,Hot dog,hot dogs,"Hot dogs, pretzels"
+575,275,Soccer,Pretzel,pretzels,"Hot dogs, pretzels"
+576,275,Baseball,Beer,beer,"Hot dogs, beer, pop, peanuts, sunflower seeds"
+576,275,Baseball,Hot dog,hot dogs,"Hot dogs, beer, pop, peanuts, sunflower seeds"
+576,275,Baseball,Peanuts,peanuts,"Hot dogs, beer, pop, peanuts, sunflower seeds"
+576,275,Baseball,Soft drinks,pop,"Hot dogs, beer, pop, peanuts, sunflower seeds"
+576,275,Baseball,Sunflower seeds,sunflower seeds,"Hot dogs, beer, pop, peanuts, sunflower seeds"
+577,275,Basketball,Chicken,chicken wings,"Nachos, hot dogs, pizza, chicken wings"
+577,275,Basketball,Hot dog,hot dogs,"Nachos, hot dogs, pizza, chicken wings"
+577,275,Basketball,Nachos,nachos,"Nachos, hot dogs, pizza, chicken wings"
+577,275,Basketball,Pizza,pizza,"Nachos, hot dogs, pizza, chicken wings"
+578,276,Soccer,Popcorn,popcorn,Popcorn
+579,276,Baseball,Pizza,pizza,Pizza
+581,278,Soccer,Beer,bier,bier
+583,278,Basketball,Energy / electrolyte drinks,gatorade,gatorade
+584,279,Soccer,Beer,beer,"Hot dogs, burgers, fries, soft drinks, beer, pretzels, popcorn"
+584,279,Soccer,Burger,burgers,"Hot dogs, burgers, fries, soft drinks, beer, pretzels, popcorn"
+584,279,Soccer,Fries,fries,"Hot dogs, burgers, fries, soft drinks, beer, pretzels, popcorn"
+584,279,Soccer,Hot dog,hot dogs,"Hot dogs, burgers, fries, soft drinks, beer, pretzels, popcorn"
+584,279,Soccer,Popcorn,popcorn,"Hot dogs, burgers, fries, soft drinks, beer, pretzels, popcorn"
+584,279,Soccer,Pretzel,pretzels,"Hot dogs, burgers, fries, soft drinks, beer, pretzels, popcorn"
+584,279,Soccer,Soft drinks,soft drinks,"Hot dogs, burgers, fries, soft drinks, beer, pretzels, popcorn"
+585,279,Baseball,Beer,beer,"Hotdogs, peanuts, popcorn, pretzels, nachos, ice cream, beer, soft drinks"
+585,279,Baseball,Hot dog,hotdogs,"Hotdogs, peanuts, popcorn, pretzels, nachos, ice cream, beer, soft drinks"
+585,279,Baseball,Ice cream / frozen treats,ice cream,"Hotdogs, peanuts, popcorn, pretzels, nachos, ice cream, beer, soft drinks"
+585,279,Baseball,Nachos,nachos,"Hotdogs, peanuts, popcorn, pretzels, nachos, ice cream, beer, soft drinks"
+585,279,Baseball,Peanuts,peanuts,"Hotdogs, peanuts, popcorn, pretzels, nachos, ice cream, beer, soft drinks"
+585,279,Baseball,Popcorn,popcorn,"Hotdogs, peanuts, popcorn, pretzels, nachos, ice cream, beer, soft drinks"
+585,279,Baseball,Pretzel,pretzels,"Hotdogs, peanuts, popcorn, pretzels, nachos, ice cream, beer, soft drinks"
+585,279,Baseball,Soft drinks,soft drinks,"Hotdogs, peanuts, popcorn, pretzels, nachos, ice cream, beer, soft drinks"
+586,279,Basketball,Beer,beer,"Hotdogs, peanuts, popcorn, pretzels, nachos, chicken tenders, beer, soft drinks"
+586,279,Basketball,Chicken,chicken tenders,"Hotdogs, peanuts, popcorn, pretzels, nachos, chicken tenders, beer, soft drinks"
+586,279,Basketball,Hot dog,hotdogs,"Hotdogs, peanuts, popcorn, pretzels, nachos, chicken tenders, beer, soft drinks"
+586,279,Basketball,Nachos,nachos,"Hotdogs, peanuts, popcorn, pretzels, nachos, chicken tenders, beer, soft drinks"
+586,279,Basketball,Peanuts,peanuts,"Hotdogs, peanuts, popcorn, pretzels, nachos, chicken tenders, beer, soft drinks"
+586,279,Basketball,Popcorn,popcorn,"Hotdogs, peanuts, popcorn, pretzels, nachos, chicken tenders, beer, soft drinks"
+586,279,Basketball,Pretzel,pretzels,"Hotdogs, peanuts, popcorn, pretzels, nachos, chicken tenders, beer, soft drinks"
+586,279,Basketball,Soft drinks,soft drinks,"Hotdogs, peanuts, popcorn, pretzels, nachos, chicken tenders, beer, soft drinks"
+587,280,Soccer,Beer,beer,hot dogs and beer
+587,280,Soccer,Hot dog,hot dogs,hot dogs and beer
+588,280,Baseball,Beer,beer,hot dogs and beer
+588,280,Baseball,Hot dog,hot dogs,hot dogs and beer
+589,280,Basketball,Hot dog,hot dogs,"pizza, hot dogs, popcorn, and soda"
+589,280,Basketball,Pizza,pizza,"pizza, hot dogs, popcorn, and soda"
+589,280,Basketball,Popcorn,popcorn,"pizza, hot dogs, popcorn, and soda"
+589,280,Basketball,Soft drinks,soda,"pizza, hot dogs, popcorn, and soda"
+590,281,Soccer,Beer,beer,"In my hometown, we have fried chicken and beer when watching this sport."
+590,281,Soccer,Chicken,fried chicken,"In my hometown, we have fried chicken and beer when watching this sport."
+591,281,Baseball,Soft drinks,cola,Cola.
+592,281,Basketball,Chips,chips,Cola and chips.
+592,281,Basketball,Soft drinks,cola,Cola and chips.
+593,282,Soccer,Hot dog,hotdogs,Hotdogs and Coca-Cola
+593,282,Soccer,Soft drinks,coca cola,Hotdogs and Coca-Cola
+594,282,Baseball,Fries,fries,Fries
+595,282,Basketball,Burger,hamburger,Hamburger
+596,283,Soccer,Pizza,pizza,"pizza, pop, shawarma"
+596,283,Soccer,Soft drinks,pop,"pizza, pop, shawarma"
+597,283,Baseball,Hot dog,hotdog,"hotdog, milk"
+598,283,Basketball,Chicken,fried chicken,popcorn and fried chicken
+598,283,Basketball,Popcorn,popcorn,popcorn and fried chicken
+599,284,Soccer,Beer,beer,"beer, soda, fries"
+599,284,Soccer,Fries,fries,"beer, soda, fries"
+599,284,Soccer,Soft drinks,soda,"beer, soda, fries"
+600,284,Baseball,Beer,beer,"beer, nachos, hotdogs, hamburgers, soda, chips"
+600,284,Baseball,Burger,hamburgers,"beer, nachos, hotdogs, hamburgers, soda, chips"
+600,284,Baseball,Chips,chips,"beer, nachos, hotdogs, hamburgers, soda, chips"
+600,284,Baseball,Hot dog,hotdogs,"beer, nachos, hotdogs, hamburgers, soda, chips"
+600,284,Baseball,Nachos,nachos,"beer, nachos, hotdogs, hamburgers, soda, chips"
+600,284,Baseball,Soft drinks,soda,"beer, nachos, hotdogs, hamburgers, soda, chips"
+601,284,Basketball,Fries,fries,"hotdogs, pop, nachos, fries"
+601,284,Basketball,Hot dog,hotdogs,"hotdogs, pop, nachos, fries"
+601,284,Basketball,Nachos,nachos,"hotdogs, pop, nachos, fries"
+601,284,Basketball,Soft drinks,pop,"hotdogs, pop, nachos, fries"
+602,285,Soccer,Pizza,pizza,Pizza and coke
+602,285,Soccer,Soft drinks,coke,Pizza and coke
+603,285,Baseball,Pizza,pizza,Pizza and coke.
+603,285,Baseball,Soft drinks,coke,Pizza and coke.
+604,285,Basketball,Pizza,pizza,Pizza and coke.
+604,285,Basketball,Soft drinks,coke,Pizza and coke.
+605,287,Soccer,Hot dog,hotdogs,none. maybe hotdogs
+606,287,Baseball,Hot dog,hotdogs,hotdogs
+607,287,Basketball,Hot dog,hotdogs,hotdogs
+608,289,Soccer,Burger,hamburger,"Food: Fish and Chips, Hamburger, Snacks
+
+Coke to drink"
+608,289,Soccer,Soft drinks,coke,"Food: Fish and Chips, Hamburger, Snacks
+
+Coke to drink"
+609,289,Baseball,Soft drinks,coke,"Drink Coke, eat Snack"
+610,289,Basketball,Soft drinks,coke,"Drink coke, do not eat"

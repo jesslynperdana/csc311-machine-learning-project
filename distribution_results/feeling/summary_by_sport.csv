@@ -1,0 +1,76 @@
+﻿scope,feeling,selected_count,total_response_count,included_response_count,excluded_count,percent_of_included_answers
+Baseball,Excited,34,203,172,31,19.767441860465116
+Baseball,Bored,62,203,172,31,36.04651162790697
+Baseball,Interested / engaged,11,203,172,31,6.395348837209302
+Baseball,Uninterested,9,203,172,31,5.232558139534884
+Baseball,Neutral / indifferent,14,203,172,31,8.13953488372093
+Baseball,Happy / joyful,9,203,172,31,5.232558139534884
+Baseball,Entertained,9,203,172,31,5.232558139534884
+Baseball,Energetic / intense,3,203,172,31,1.744186046511628
+Baseball,Calm / relaxed,25,203,172,31,14.534883720930232
+Baseball,Tense / anxious,13,203,172,31,7.558139534883721
+Baseball,Anticipatory / suspenseful,9,203,172,31,5.232558139534884
+Baseball,Focused / analytical,6,203,172,31,3.488372093023256
+Baseball,Confused,17,203,172,31,9.883720930232558
+Baseball,Passionate,0,203,172,31,0.0
+Baseball,Angry / frustrated,2,203,172,31,1.1627906976744187
+Baseball,Sad / disappointed,1,203,172,31,0.5813953488372093
+Baseball,Motivated / inspired,0,203,172,31,0.0
+Baseball,Impressed / amazed,2,203,172,31,1.1627906976744187
+Baseball,Tired / sleepy,1,203,172,31,0.5813953488372093
+Baseball,Scared / overwhelmed,0,203,172,31,0.0
+Baseball,Connected,0,203,172,31,0.0
+Baseball,Proud,1,203,172,31,0.5813953488372093
+Baseball,Nostalgic,1,203,172,31,0.5813953488372093
+Baseball,Competitive,0,203,172,31,0.0
+Baseball,Emotional,0,203,172,31,0.0
+Basketball,Excited,98,203,185,18,52.972972972972975
+Basketball,Bored,11,203,185,18,5.945945945945946
+Basketball,Interested / engaged,24,203,185,18,12.972972972972974
+Basketball,Uninterested,4,203,185,18,2.1621621621621623
+Basketball,Neutral / indifferent,10,203,185,18,5.405405405405405
+Basketball,Happy / joyful,14,203,185,18,7.5675675675675675
+Basketball,Entertained,15,203,185,18,8.108108108108109
+Basketball,Energetic / intense,30,203,185,18,16.216216216216218
+Basketball,Calm / relaxed,2,203,185,18,1.0810810810810811
+Basketball,Tense / anxious,22,203,185,18,11.891891891891891
+Basketball,Anticipatory / suspenseful,3,203,185,18,1.6216216216216217
+Basketball,Focused / analytical,4,203,185,18,2.1621621621621623
+Basketball,Confused,2,203,185,18,1.0810810810810811
+Basketball,Passionate,5,203,185,18,2.7027027027027026
+Basketball,Angry / frustrated,1,203,185,18,0.5405405405405406
+Basketball,Sad / disappointed,1,203,185,18,0.5405405405405406
+Basketball,Motivated / inspired,3,203,185,18,1.6216216216216217
+Basketball,Impressed / amazed,4,203,185,18,2.1621621621621623
+Basketball,Tired / sleepy,2,203,185,18,1.0810810810810811
+Basketball,Scared / overwhelmed,3,203,185,18,1.6216216216216217
+Basketball,Connected,1,203,185,18,0.5405405405405406
+Basketball,Proud,0,203,185,18,0.0
+Basketball,Nostalgic,0,203,185,18,0.0
+Basketball,Competitive,3,203,185,18,1.6216216216216217
+Basketball,Emotional,0,203,185,18,0.0
+Soccer,Excited,110,203,186,17,59.13978494623656
+Soccer,Bored,20,203,186,17,10.75268817204301
+Soccer,Interested / engaged,19,203,186,17,10.21505376344086
+Soccer,Uninterested,3,203,186,17,1.6129032258064515
+Soccer,Neutral / indifferent,9,203,186,17,4.838709677419355
+Soccer,Happy / joyful,11,203,186,17,5.913978494623656
+Soccer,Entertained,9,203,186,17,4.838709677419355
+Soccer,Energetic / intense,20,203,186,17,10.75268817204301
+Soccer,Calm / relaxed,2,203,186,17,1.075268817204301
+Soccer,Tense / anxious,37,203,186,17,19.892473118279568
+Soccer,Anticipatory / suspenseful,10,203,186,17,5.376344086021505
+Soccer,Focused / analytical,6,203,186,17,3.225806451612903
+Soccer,Confused,1,203,186,17,0.5376344086021505
+Soccer,Passionate,6,203,186,17,3.225806451612903
+Soccer,Angry / frustrated,6,203,186,17,3.225806451612903
+Soccer,Sad / disappointed,5,203,186,17,2.6881720430107525
+Soccer,Motivated / inspired,3,203,186,17,1.6129032258064515
+Soccer,Impressed / amazed,4,203,186,17,2.150537634408602
+Soccer,Tired / sleepy,0,203,186,17,0.0
+Soccer,Scared / overwhelmed,0,203,186,17,0.0
+Soccer,Connected,4,203,186,17,2.150537634408602
+Soccer,Proud,1,203,186,17,0.5376344086021505
+Soccer,Nostalgic,0,203,186,17,0.0
+Soccer,Competitive,0,203,186,17,0.0
+Soccer,Emotional,2,203,186,17,1.075268817204301

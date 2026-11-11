@@ -1,0 +1,740 @@
+﻿csv_row,id,label,color,matched_phrases,raw_answer
+2,2,Soccer,Green,green,green
+3,2,Baseball,Blue,blue,Blue
+4,2,Basketball,Orange,orange,Orange
+5,5,Soccer,Blue,blue,blue
+6,5,Baseball,Blue,blue,blue
+7,5,Basketball,Orange,orange,orange
+8,6,Soccer,Blue,blue,Blue
+10,6,Basketball,Red,red,Red
+11,7,Soccer,Green,green,Green
+12,7,Baseball,Brown,brown,Brown
+13,7,Basketball,Orange,orange,Orange
+14,9,Soccer,Green,green,green
+15,9,Baseball,Yellow,yellow,yellow
+16,9,Basketball,Orange,orange,orange
+17,10,Soccer,Green,green,Green
+18,10,Baseball,White,white,White
+19,10,Basketball,Orange,orange,Orange
+20,11,Soccer,Green,green,green
+22,11,Basketball,Brown,brown,Brown
+23,12,Soccer,Blue,blue,Blue
+24,12,Baseball,Red,red,Red
+25,12,Basketball,Brown,brown,Brown
+26,14,Soccer,Green,green,Green
+27,14,Baseball,Blue,blue,Blue
+28,14,Basketball,Red,red,Red
+29,15,Soccer,Green,green,Green
+30,15,Baseball,Blue,blue,Blue
+31,15,Basketball,Red,red,Red
+32,16,Soccer,Green,green,Green
+33,16,Baseball,White,white,White
+34,16,Basketball,Red,red,Red
+35,17,Soccer,Green,green,"Green, because it reminds me of the surface on which the game is usually played."
+36,17,Baseball,Red,red,"Red and white, because they remind me of the ball and its distinctive stitching."
+36,17,Baseball,White,white,"Red and white, because they remind me of the ball and its distinctive stitching."
+37,17,Basketball,Orange,orange,"Orange, because it reminds me of the equipment used during the game."
+38,18,Soccer,Green,green,Green
+39,18,Baseball,Blue,blue,Blue
+40,18,Basketball,Black,black,Black
+41,19,Soccer,Black,black,"Green, black and white"
+41,19,Soccer,Green,green,"Green, black and white"
+41,19,Soccer,White,white,"Green, black and white"
+42,19,Baseball,Blue,blue,Blue
+43,19,Basketball,Orange,orange,orange
+44,21,Soccer,Green,green,Green
+45,21,Baseball,Brown,brown,Brown
+46,21,Basketball,Orange,orange,Orange
+47,22,Soccer,Red,red,Red
+48,22,Baseball,Blue,blue,Blue
+49,22,Basketball,Orange,orange,Orange
+50,23,Soccer,Blue,blue,blue
+51,23,Baseball,Blue,blue,Blue
+52,23,Basketball,Red,red,Red
+53,24,Soccer,Green,green,Green. 
+54,24,Baseball,Blue,blue,Blue. 
+55,24,Basketball,Black,black,Black. 
+56,26,Soccer,Green,green,green 
+57,26,Baseball,White,white, white
+58,26,Basketball,Brown,brown,orange-brown
+58,26,Basketball,Orange,orange,orange-brown
+59,29,Soccer,Green,green,Green
+60,29,Baseball,Red,red,red
+61,29,Basketball,Orange,orange,orange
+62,30,Soccer,Red,red,red
+63,30,Baseball,Blue,blue,blue
+64,30,Basketball,Brown,brown,brown
+65,32,Soccer,Green,green,Green
+66,32,Baseball,White,white,White
+67,32,Basketball,Orange,orange,Orange
+68,33,Soccer,Green,green,Green
+69,33,Baseball,White,white,White
+70,33,Basketball,Orange,orange,Orange
+75,35,Baseball,Blue,blue,Blue
+76,35,Basketball,Red,red,Red
+77,36,Soccer,Green,green,Green.
+78,36,Baseball,Brown,brown,Brown.
+79,36,Basketball,Orange,orange,Orange.
+80,37,Soccer,Blue,blue,blue
+81,37,Baseball,White,white,white
+82,37,Basketball,Gold,golden,golden
+83,38,Soccer,Green,green,"Green, like the grass on the pitch."
+84,38,Baseball,Red,red,White with red stitching.
+84,38,Baseball,White,white,White with red stitching.
+85,38,Basketball,Orange,orange,"Orange, like the ball."
+86,40,Soccer,Red,red,Red
+87,40,Baseball,Blue,blue,Blue
+88,40,Basketball,Red,red,Red
+89,41,Soccer,Red,red,Red
+90,41,Baseball,Blue,blue,Blue
+91,41,Basketball,Orange,orange,Orange
+92,42,Soccer,Green,green,green
+93,42,Baseball,Green,green,green
+94,42,Basketball,Red,red,red
+95,43,Soccer,Green,green,green
+96,43,Baseball,Blue,blue,blue
+97,43,Basketball,Orange,orange,orange
+99,44,Baseball,Blue,blue,Blue
+100,44,Basketball,Red,red,red
+101,45,Soccer,Red,red,Red
+102,45,Baseball,Blue,blue,Blue
+103,45,Basketball,Orange,orange,Orange
+104,46,Soccer,Green,green,Green
+105,46,Baseball,Blue,blue,Blue
+106,46,Basketball,Brown,brown,Brown
+107,49,Soccer,Green,green,green
+108,49,Baseball,Brown,brown,brown
+109,49,Basketball,Red,red,red
+110,50,Soccer,Green,green,green
+111,50,Baseball,Blue,blue,blue
+112,50,Basketball,Orange,orange,orange
+113,53,Soccer,White,white,White
+114,53,Baseball,Brown,brown,Brown
+115,53,Basketball,Brown,brown,Brown
+116,54,Soccer,Green,green,"Green, because I strongly associate it with the playing field."
+117,54,Baseball,Red,red,"Red, because I associate it with the stitching."
+118,54,Basketball,Orange,orange,"Orange, because I associate it with the ball."
+119,56,Soccer,Green,green,Green
+120,56,Baseball,White,white,White
+121,56,Basketball,Red,red,Red
+122,58,Soccer,Green,green,green
+123,58,Baseball,Blue,blue,Blue
+124,58,Basketball,Orange,orange,Orange
+125,60,Soccer,Red,red,Red
+126,60,Baseball,Blue,blue,Blue
+127,60,Basketball,Orange,orange,Orange
+128,64,Soccer,Green,green,Green
+129,64,Baseball,Orange,orange,Orange
+130,64,Basketball,Orange,orange,Orange
+131,66,Soccer,Green,green,Green
+132,66,Baseball,Cream,cream, yellowish-cream hue
+132,66,Baseball,Yellow,yellowish, yellowish-cream hue
+133,66,Basketball,Orange,orange,Orange
+134,67,Soccer,Blue,blue,Red and blue
+134,67,Soccer,Red,red,Red and blue
+135,67,Baseball,Blue,blue,Blue
+136,67,Basketball,Red,red,red
+137,68,Soccer,Green,green,A slight association maybe green which is the color of the ground
+140,70,Soccer,Red,red,Red
+141,70,Baseball,Blue,blue,Blue
+142,70,Basketball,Gold,gold,Gold
+143,72,Soccer,Black,black,"black and white, yellow, red"
+143,72,Soccer,Red,red,"black and white, yellow, red"
+143,72,Soccer,White,white,"black and white, yellow, red"
+143,72,Soccer,Yellow,yellow,"black and white, yellow, red"
+144,72,Baseball,Red,red,"white, red"
+144,72,Baseball,White,white,"white, red"
+145,72,Basketball,Brown,brown,brown
+146,73,Soccer,Black,black,Black and white.
+146,73,Soccer,White,white,Black and white.
+147,73,Baseball,Blue,blue,Blue
+148,73,Basketball,Orange,orange,Orange
+149,74,Soccer,Black,black,Black and white
+149,74,Soccer,White,white,Black and white
+150,74,Baseball,Blue,blue,Blue
+151,74,Basketball,Blue,blue,Blue
+152,75,Soccer,Black,black,black and white
+152,75,Soccer,White,white,black and white
+153,75,Baseball,Red,red,Red
+154,75,Basketball,Orange,orange,Orange
+155,77,Soccer,Green,green,Green
+156,77,Baseball,Blue,blue,Blue
+157,77,Basketball,Orange,orange,Orange
+158,78,Soccer,Green,green,Green
+159,78,Baseball,Red,red,Red
+160,78,Basketball,Orange,orange,Orange
+161,79,Soccer,Green,green,Green
+162,79,Baseball,Red,red,Red
+163,79,Basketball,Orange,orange,Orange
+164,80,Soccer,Yellow,yellow,yellow
+165,80,Baseball,Blue,blue,blue
+166,80,Basketball,Blue,blue,"red, blue & gold"
+166,80,Basketball,Gold,gold,"red, blue & gold"
+166,80,Basketball,Red,red,"red, blue & gold"
+167,82,Soccer,Green,green,Green
+168,82,Baseball,Red,red,red
+169,82,Basketball,Red,red,red
+170,84,Soccer,Black,black,"Green, blue, yellow, red, white, and black."
+170,84,Soccer,Blue,blue,"Green, blue, yellow, red, white, and black."
+170,84,Soccer,Green,green,"Green, blue, yellow, red, white, and black."
+170,84,Soccer,Red,red,"Green, blue, yellow, red, white, and black."
+170,84,Soccer,White,white,"Green, blue, yellow, red, white, and black."
+170,84,Soccer,Yellow,yellow,"Green, blue, yellow, red, white, and black."
+171,84,Baseball,Blue,blue,"Blue, white, gray, and red."
+171,84,Baseball,Gray,gray,"Blue, white, gray, and red."
+171,84,Baseball,Red,red,"Blue, white, gray, and red."
+171,84,Baseball,White,white,"Blue, white, gray, and red."
+172,84,Basketball,Black,black,"Orange, black, and red."
+172,84,Basketball,Orange,orange,"Orange, black, and red."
+172,84,Basketball,Red,red,"Orange, black, and red."
+173,85,Soccer,Green,green,Green
+174,85,Baseball,Blue,blue,Blue/Red
+174,85,Baseball,Red,red,Blue/Red
+175,85,Basketball,Gold,gold,Red Gold 
+175,85,Basketball,Red,red,Red Gold 
+176,86,Soccer,Blue,blue,blue
+177,86,Baseball,Blue,blue,blue 
+178,86,Basketball,Red,red,red
+179,87,Soccer,Green,green,Green
+180,87,Baseball,Blue,blue,Blue
+181,87,Basketball,Red,red,Red
+182,88,Soccer,Black,black,Black and white
+182,88,Soccer,White,white,Black and white
+183,88,Baseball,Blue,blue,Blue
+184,88,Basketball,Black,black,Black
+185,89,Soccer,Green,green,Green
+186,89,Baseball,Brown,brown,brown
+187,89,Basketball,Yellow,yellow,Yellow
+188,91,Soccer,Black,black,Black
+189,91,Baseball,Green,green,Green
+190,91,Basketball,Orange,orange,Orange
+191,92,Soccer,White,white,White
+192,92,Baseball,Red,red,Red
+193,92,Basketball,Orange,orange,Orange.
+194,94,Soccer,Black,black,"Bright, saturated colours like Red, Yellow, Blue, Green, and White. Colours are often associated with the teams nationalities. I also associate the sport with Orange, White, and Black given some of the elements of the sport."
+194,94,Soccer,Blue,blue,"Bright, saturated colours like Red, Yellow, Blue, Green, and White. Colours are often associated with the teams nationalities. I also associate the sport with Orange, White, and Black given some of the elements of the sport."
+194,94,Soccer,Green,green,"Bright, saturated colours like Red, Yellow, Blue, Green, and White. Colours are often associated with the teams nationalities. I also associate the sport with Orange, White, and Black given some of the elements of the sport."
+194,94,Soccer,Orange,orange,"Bright, saturated colours like Red, Yellow, Blue, Green, and White. Colours are often associated with the teams nationalities. I also associate the sport with Orange, White, and Black given some of the elements of the sport."
+194,94,Soccer,Red,red,"Bright, saturated colours like Red, Yellow, Blue, Green, and White. Colours are often associated with the teams nationalities. I also associate the sport with Orange, White, and Black given some of the elements of the sport."
+194,94,Soccer,White,white,"Bright, saturated colours like Red, Yellow, Blue, Green, and White. Colours are often associated with the teams nationalities. I also associate the sport with Orange, White, and Black given some of the elements of the sport."
+194,94,Soccer,Yellow,yellow,"Bright, saturated colours like Red, Yellow, Blue, Green, and White. Colours are often associated with the teams nationalities. I also associate the sport with Orange, White, and Black given some of the elements of the sport."
+195,94,Baseball,Blue,navy blues,I associate the sport with Navy Blues and Grey/Gray. Maybe Burgundy or Dark Red. Team colours are usually subdued. They are often white or grey with an accent colour. I also associate the sport with Brown given some of the equipment used in the sport.
+195,94,Baseball,Brown,brown,I associate the sport with Navy Blues and Grey/Gray. Maybe Burgundy or Dark Red. Team colours are usually subdued. They are often white or grey with an accent colour. I also associate the sport with Brown given some of the equipment used in the sport.
+195,94,Baseball,Gray,gray | grey,I associate the sport with Navy Blues and Grey/Gray. Maybe Burgundy or Dark Red. Team colours are usually subdued. They are often white or grey with an accent colour. I also associate the sport with Brown given some of the equipment used in the sport.
+195,94,Baseball,Red,burgundy | red,I associate the sport with Navy Blues and Grey/Gray. Maybe Burgundy or Dark Red. Team colours are usually subdued. They are often white or grey with an accent colour. I also associate the sport with Brown given some of the equipment used in the sport.
+195,94,Baseball,White,white,I associate the sport with Navy Blues and Grey/Gray. Maybe Burgundy or Dark Red. Team colours are usually subdued. They are often white or grey with an accent colour. I also associate the sport with Brown given some of the equipment used in the sport.
+197,95,Soccer,Green,green,green
+198,95,Baseball,White,white,white
+199,95,Basketball,Brown,brown,brown
+200,96,Soccer,Green,green,Green
+201,96,Baseball,Brown,brown,Brown
+202,96,Basketball,Red,red,Red
+203,98,Soccer,Green,green,GREEN
+204,98,Baseball,Blue,blue,blue 
+205,98,Basketball,Red,red,red
+206,100,Soccer,Green,green,Green
+207,100,Baseball,White,white,White
+208,100,Basketball,Orange,orange,Orange
+209,103,Soccer,Black,black,Black/White
+209,103,Soccer,White,white,Black/White
+210,103,Baseball,Blue,blue,Blue
+211,103,Basketball,Orange,orange,Orange
+212,104,Soccer,White,white,White
+213,104,Baseball,Blue,blue,Blue
+214,104,Basketball,Orange,orange,Orange
+215,106,Soccer,Blue,blue,Red and blue.
+215,106,Soccer,Red,red,Red and blue.
+216,106,Baseball,Blue,blue,Blue
+217,106,Basketball,Red,red,red 
+218,107,Soccer,Blue,blue,Blue
+219,107,Baseball,Blue,blue,Blue
+220,107,Basketball,Red,red,Red
+221,108,Soccer,White,white,White
+222,108,Baseball,Red,red,Red
+223,108,Basketball,Orange,orange,Orange
+224,109,Soccer,Yellow,yellow,Yellow
+225,109,Baseball,Blue,blue,Blue
+226,109,Basketball,Red,red,Red
+227,110,Soccer,Green,green,green
+228,110,Baseball,Blue,blue,blue
+229,110,Basketball,Orange,orange,orange
+230,111,Soccer,Black,black,"black,white"
+230,111,Soccer,White,white,"black,white"
+231,111,Baseball,Blue,blue,blue
+232,111,Basketball,Orange,orange,orange
+233,112,Soccer,Green,green,Green
+234,112,Baseball,Blue,blue,Blue
+235,112,Basketball,Purple,purple,Purple
+239,115,Soccer,Red,red,red
+240,115,Baseball,Blue,blue,blue
+241,115,Basketball,Gold,gold,purple and gold
+241,115,Basketball,Purple,purple,purple and gold
+242,117,Soccer,Green,green,Green and white
+242,117,Soccer,White,white,Green and white
+243,117,Baseball,Beige,beige,"Brown, white, black, beige"
+243,117,Baseball,Black,black,"Brown, white, black, beige"
+243,117,Baseball,Brown,brown,"Brown, white, black, beige"
+243,117,Baseball,White,white,"Brown, white, black, beige"
+244,117,Basketball,Beige,beige,"orange, beige, black, white,"
+244,117,Basketball,Black,black,"orange, beige, black, white,"
+244,117,Basketball,Orange,orange,"orange, beige, black, white,"
+244,117,Basketball,White,white,"orange, beige, black, white,"
+245,118,Soccer,Green,green,green
+246,118,Baseball,Blue,blue,blue
+247,118,Basketball,Orange,orange,orange or red
+247,118,Basketball,Red,red,orange or red
+248,120,Soccer,Blue,blue,Blue
+249,120,Baseball,Red,red,Red
+250,120,Basketball,Orange,orange,Orange
+251,121,Soccer,Red,red,Red
+252,121,Baseball,Blue,blue,Blue
+253,121,Basketball,Orange,orange,Orange
+255,122,Baseball,Blue,blue,Blue
+256,122,Basketball,Orange,orange,Orange
+257,123,Soccer,Red,red,I associate red with this sport because of the team I support.
+258,123,Baseball,Blue,blue,Blue
+259,123,Basketball,Black,black,Red and black for the local team.
+259,123,Basketball,Red,red,Red and black for the local team.
+260,124,Soccer,Green,green,Green
+261,124,Baseball,Blue,blue,Blue
+262,124,Basketball,Orange,orange,Orange
+263,125,Soccer,Green,green,green
+264,125,Baseball,White,white,White
+265,125,Basketball,Orange,orange,Orange
+266,126,Soccer,Brown,brown,"Green, Brown"
+266,126,Soccer,Green,green,"Green, Brown"
+267,126,Baseball,Blue,blue,"Blue, White"
+267,126,Baseball,White,white,"Blue, White"
+268,126,Basketball,Black,black,"Orange, Black"
+268,126,Basketball,Orange,orange,"Orange, Black"
+269,127,Soccer,Green,green,Green
+270,127,Baseball,Green,green,Green
+271,127,Basketball,Red,maroon,Maroon
+272,128,Soccer,Green,green,Green
+273,128,Baseball,Blue,blue,Blue
+274,128,Basketball,Red,red,Red 
+275,129,Soccer,Green,green,green
+276,129,Baseball,Brown,brown,brown
+277,129,Basketball,Purple,purple,purple
+278,130,Soccer,Red,red,red
+279,130,Baseball,Blue,blue,blue
+280,130,Basketball,Black,black,red and black
+280,130,Basketball,Red,red,red and black
+281,131,Soccer,Blue,blue,"Green, blue, red, yellow, white"
+281,131,Soccer,Green,green,"Green, blue, red, yellow, white"
+281,131,Soccer,Red,red,"Green, blue, red, yellow, white"
+281,131,Soccer,White,white,"Green, blue, red, yellow, white"
+281,131,Soccer,Yellow,yellow,"Green, blue, red, yellow, white"
+282,131,Baseball,Blue,blue,Blue and white
+282,131,Baseball,White,white,Blue and white
+283,131,Basketball,Orange,orange,"Red, orange, warm colours"
+283,131,Basketball,Red,red,"Red, orange, warm colours"
+284,132,Soccer,Green,green,"Green, white"
+284,132,Soccer,White,white,"Green, white"
+285,132,Baseball,Blue,blue,"Blue, brown, white
+
+ "
+285,132,Baseball,Brown,brown,"Blue, brown, white
+
+ "
+285,132,Baseball,White,white,"Blue, brown, white
+
+ "
+286,132,Basketball,Black,black,"Black, red, light brown "
+286,132,Basketball,Brown,brown,"Black, red, light brown "
+286,132,Basketball,Red,red,"Black, red, light brown "
+287,134,Soccer,Green,green,Green and white
+287,134,Soccer,White,white,Green and white
+288,134,Baseball,White,white,White
+289,134,Basketball,Black,black,Orange and black
+289,134,Basketball,Orange,orange,Orange and black
+290,135,Soccer,Blue,blue,"green, blue, white"
+290,135,Soccer,Green,green,"green, blue, white"
+290,135,Soccer,White,white,"green, blue, white"
+291,135,Baseball,Blue,blue,"Blue, White"
+291,135,Baseball,White,white,"Blue, White"
+292,135,Basketball,Orange,orange,"Orange, Red"
+292,135,Basketball,Red,red,"Orange, Red"
+293,136,Soccer,Green,green,Green
+294,136,Baseball,Red,red,red
+295,136,Basketball,Orange,orange,orange
+296,137,Soccer,Green,green,Green
+297,137,Baseball,Yellow,yellow,Yellow
+298,137,Basketball,Orange,orange,Orange
+299,138,Soccer,Gold,gold,Gold.
+300,138,Baseball,Blue,blue,Blue.
+301,138,Basketball,Orange,orange,Orange.
+302,140,Soccer,White,white,White
+303,140,Baseball,Green,green,Green
+304,140,Basketball,Orange,orange,Orange 
+305,141,Soccer,Green,green,"Red, green"
+305,141,Soccer,Red,red,"Red, green"
+306,141,Baseball,Blue,blue,Blue
+308,142,Soccer,Blue,blue,Blue
+310,142,Basketball,Red,red,Red
+311,143,Soccer,Blue,blue,Blue
+312,143,Baseball,Yellow,yellow,Yellow
+313,143,Basketball,Orange,orange,Orange
+314,147,Soccer,Red,red,Red
+315,147,Baseball,Blue,blue,blue
+316,147,Basketball,Orange,orange,orange
+317,148,Soccer,Green,green,Green
+318,148,Baseball,Brown,brown,Brown
+319,148,Basketball,Orange,orange,Orange
+320,149,Soccer,Green,green,Green
+321,149,Baseball,Gray,gray,Gray
+322,149,Basketball,Orange,orange,Orange
+323,150,Soccer,Green,green,green
+324,150,Baseball,White,white,white
+325,150,Basketball,Orange,orange,orange
+326,151,Soccer,Green,green,Green
+327,151,Baseball,White,white,white
+328,151,Basketball,Red,red,Red
+329,152,Soccer,Green,green,"Green, Yellow, Red "
+329,152,Soccer,Red,red,"Green, Yellow, Red "
+329,152,Soccer,Yellow,yellow,"Green, Yellow, Red "
+330,152,Baseball,Blue,blue,"White, Blue"
+330,152,Baseball,White,white,"White, Blue"
+331,152,Basketball,Orange,orange,"Red, Orange"
+331,152,Basketball,Red,red,"Red, Orange"
+332,153,Soccer,Green,green,green
+333,153,Baseball,Blue,blue,blue
+334,153,Basketball,Red,maroon,maroon 
+335,155,Soccer,Green,green,Green
+336,155,Baseball,Blue,blue,Blue
+337,155,Basketball,Orange,orange,Orange
+338,157,Soccer,Green,green,Green
+339,157,Baseball,White,white,White
+340,157,Basketball,Orange,orange,Orange
+341,158,Soccer,Green,green,Green
+342,158,Baseball,Brown,brown,Brown
+343,158,Basketball,Red,red,Red
+344,159,Soccer,Blue,blue,blue
+345,159,Baseball,White,white,white
+346,159,Basketball,Purple,purple,purple 
+347,161,Soccer,Black,black,"green, black and white (ball?)"
+347,161,Soccer,Green,green,"green, black and white (ball?)"
+347,161,Soccer,White,white,"green, black and white (ball?)"
+348,161,Baseball,Red,red,Red
+349,161,Basketball,Orange,orange,Orange
+350,162,Soccer,Green,green,green
+351,162,Baseball,Blue,blue,blue
+352,162,Basketball,Orange,orange,orange
+353,164,Soccer,Yellow,yellow,Yellow
+354,164,Baseball,White,white,White
+355,164,Basketball,Orange,orange,Orange
+356,166,Soccer,Black,black,"Black, white, green"
+356,166,Soccer,Green,green,"Black, white, green"
+356,166,Soccer,White,white,"Black, white, green"
+357,166,Baseball,Blue,blue,"Blue, red, white"
+357,166,Baseball,Red,red,"Blue, red, white"
+357,166,Baseball,White,white,"Blue, red, white"
+358,166,Basketball,Brown,brown,"brown, orange"
+358,166,Basketball,Orange,orange,"brown, orange"
+359,167,Soccer,Red,red,Red
+360,167,Baseball,Blue,blue,Blue
+361,167,Basketball,Yellow,yellow,Yellow
+362,168,Soccer,Green,green,Green
+363,168,Baseball,Beige,beige,Beige
+364,168,Basketball,Brown,brown,Brown
+365,169,Soccer,Green,green,Green
+366,169,Baseball,Brown,brown,Brown
+367,169,Basketball,Orange,orange,"Orange, mainly because of the [this sport] itself."
+368,171,Soccer,Green,green,green
+369,171,Baseball,Orange,orange,orange
+370,171,Basketball,Red,red,red
+371,173,Soccer,Blue,blue,blue red
+371,173,Soccer,Red,red,blue red
+372,173,Baseball,White,white,white
+373,173,Basketball,Red,red,red
+374,174,Soccer,Black,black,"Black, White, Red"
+374,174,Soccer,Red,red,"Black, White, Red"
+374,174,Soccer,White,white,"Black, White, Red"
+375,174,Baseball,Blue,blue,Blue
+376,174,Basketball,Orange,orange,Orange
+377,176,Soccer,Black,black,Black.
+378,176,Baseball,White,white,White.
+379,176,Basketball,Orange,orange,Orange.
+380,177,Soccer,Blue,blue,Blue
+381,177,Baseball,Blue,blue,Blue
+382,177,Basketball,Orange,orange,Orange
+383,178,Soccer,Blue,blue,Blue and Red
+383,178,Soccer,Red,red,Blue and Red
+384,178,Baseball,Blue,blue,Blue
+385,178,Basketball,Black,black,Red and Black
+385,178,Basketball,Red,red,Red and Black
+386,183,Soccer,Black,black,black and white
+386,183,Soccer,White,white,black and white
+387,183,Baseball,Blue,blue,blue
+388,183,Basketball,Orange,orange,orange
+389,184,Soccer,Green,green,green
+390,184,Baseball,White,white,white
+391,184,Basketball,Yellow,yellow,yellow
+392,186,Soccer,Green,绿色,绿色的
+393,186,Baseball,Brown,brown,Brown
+394,186,Basketball,Red,red,Red—because a lot of players' jerseys are this color.
+395,188,Soccer,Green,green,Green
+396,188,Baseball,Green,green,Green
+397,188,Basketball,Orange,orange,Orange
+398,189,Soccer,Blue,blue,Blue
+399,189,Baseball,Blue,blue,Blue
+400,189,Basketball,Blue,blue,Blue
+401,190,Soccer,Green,green,green
+402,190,Baseball,White,white,white
+403,190,Basketball,Orange,orange,orange
+404,191,Soccer,Red,red,red
+405,191,Baseball,Blue,blue,blue
+406,191,Basketball,Orange,orange,orange
+407,193,Soccer,Gold,gold,gold
+408,193,Baseball,Blue,blue,blue
+409,193,Basketball,Orange,orange,orange
+410,195,Soccer,Black,black,"White, black, green"
+410,195,Soccer,Green,green,"White, black, green"
+410,195,Soccer,White,white,"White, black, green"
+411,195,Baseball,Blue,blue,"Blue, White"
+411,195,Baseball,White,white,"Blue, White"
+412,195,Basketball,Orange,orange,Orange
+413,196,Soccer,Yellow,yellow,yellow
+414,196,Baseball,White,white,white
+415,196,Basketball,Orange,orange,orange
+416,197,Soccer,White,white,White
+417,197,Baseball,Blue,blue,Blue
+418,197,Basketball,Black,black,Black
+419,198,Soccer,Green,green,Green
+420,198,Baseball,Blue,blue,Blue
+421,198,Basketball,Red,red,Red
+422,199,Soccer,Red,red,Red and yellow. 
+422,199,Soccer,Yellow,yellow,Red and yellow. 
+423,199,Baseball,Blue,blue,Blue & White - Toronto [a team in this sport] Colour. 
+423,199,Baseball,White,white,Blue & White - Toronto [a team in this sport] Colour. 
+424,199,Basketball,Black,black,Gold & Black. 
+424,199,Basketball,Gold,gold,Gold & Black. 
+425,200,Soccer,Green,green,Green
+426,200,Baseball,Brown,brown,Brown
+427,200,Basketball,Orange,orange,Orange
+428,201,Soccer,Black,black,"Black, White"
+428,201,Soccer,White,white,"Black, White"
+429,201,Baseball,Blue,blue,Blue
+430,201,Basketball,Orange,orange,Orange
+431,202,Soccer,Red,red,Red
+432,202,Baseball,Blue,blue,Blue
+433,202,Basketball,Orange,orange,Orange
+434,203,Soccer,Green,green,Green
+435,203,Baseball,Blue,blue,Blue
+436,203,Basketball,Orange,orange,Orange
+437,206,Soccer,Blue,blue,Blue
+438,206,Baseball,Red,red,Red
+439,206,Basketball,Brown,brown,Brown
+440,207,Soccer,Blue,blue,"Green, Blue"
+440,207,Soccer,Green,green,"Green, Blue"
+441,207,Baseball,Blue,blue,"Red, Blue, White"
+441,207,Baseball,Red,red,"Red, Blue, White"
+441,207,Baseball,White,white,"Red, Blue, White"
+442,207,Basketball,Black,black,"Brown, Yellow, Red, Orange, Black"
+442,207,Basketball,Brown,brown,"Brown, Yellow, Red, Orange, Black"
+442,207,Basketball,Orange,orange,"Brown, Yellow, Red, Orange, Black"
+442,207,Basketball,Red,red,"Brown, Yellow, Red, Orange, Black"
+442,207,Basketball,Yellow,yellow,"Brown, Yellow, Red, Orange, Black"
+443,208,Soccer,Green,green,green because grass field
+444,208,Baseball,Blue,blue,blue
+445,208,Basketball,Orange,orange,orange
+446,209,Soccer,Green,green,Green
+447,209,Baseball,Green,green,Green
+448,209,Basketball,Orange,orange,Orange
+449,210,Soccer,Green,green,Green
+450,210,Baseball,White,white,White
+451,210,Basketball,Red,red,Red
+452,212,Soccer,Green,green,green
+453,212,Baseball,Blue,blue,blue
+454,212,Basketball,Red,red,red
+455,213,Soccer,Blue,blue,blue
+456,213,Baseball,Blue,blue,blue
+457,213,Basketball,Black,black,black
+458,217,Soccer,Blue,blue,Blue red and white
+458,217,Soccer,Red,red,Blue red and white
+458,217,Soccer,White,white,Blue red and white
+459,217,Baseball,Blue,blue,White and red and blue and jayssss
+459,217,Baseball,Red,red,White and red and blue and jayssss
+459,217,Baseball,White,white,White and red and blue and jayssss
+460,217,Basketball,Orange,orange,Orange
+461,220,Soccer,Green,green,green
+462,220,Baseball,Brown,brown,brown
+463,220,Basketball,Orange,orange,orange
+464,221,Soccer,Blue,blue,"white, red, green, blue"
+464,221,Soccer,Green,green,"white, red, green, blue"
+464,221,Soccer,Red,red,"white, red, green, blue"
+464,221,Soccer,White,white,"white, red, green, blue"
+465,221,Baseball,Gray,gray,mostly white gray since those are the colour of their pants usually 
+465,221,Baseball,White,white,mostly white gray since those are the colour of their pants usually 
+467,222,Soccer,Green,green,green
+468,222,Baseball,Red,red,red
+469,222,Basketball,Brown,brown,brown
+470,223,Soccer,Red,red,Red
+471,223,Baseball,Blue,blue,Blue
+472,223,Basketball,Orange,orange,Orange
+473,224,Soccer,Blue,blue,blue
+474,224,Baseball,White,white,white
+475,224,Basketball,Brown,brown,brown
+476,225,Soccer,Red,red,Red
+477,225,Baseball,Blue,blue,Blue
+478,225,Basketball,Orange,orange,Orange
+479,226,Soccer,Blue,blue,White or red and blue
+479,226,Soccer,Red,red,White or red and blue
+479,226,Soccer,White,white,White or red and blue
+480,226,Baseball,White,white,White
+481,226,Basketball,Orange,orange,Orange
+482,227,Soccer,Green,green,Green
+483,227,Baseball,White,white,White
+484,227,Basketball,Red,red,Red
+485,228,Soccer,Yellow,yellow,Yellow
+486,228,Baseball,Green,green,Green
+487,228,Basketball,Orange,orange,Orange
+488,230,Soccer,Blue,blue,blue
+489,230,Baseball,White,white,white
+490,230,Basketball,Black,black,black
+491,231,Soccer,White,white,White
+492,231,Baseball,White,white,white
+493,231,Basketball,Red,red,red
+494,235,Soccer,Red,red,Red
+495,235,Baseball,Blue,blue,Blue
+496,235,Basketball,Orange,orange,Orange
+497,236,Soccer,Green,green,Green
+498,236,Baseball,Blue,blue,Blue
+499,236,Basketball,Orange,orange,Orange
+500,238,Soccer,White,white,White
+501,238,Baseball,Blue,blue,Blue
+502,238,Basketball,Orange,orange,Orange
+503,239,Soccer,Red,red,Red
+504,239,Baseball,Blue,blue,Blue
+505,239,Basketball,Purple,purple,purple
+506,240,Soccer,Yellow,yellow,yellow
+507,240,Baseball,Blue,blue,blue
+508,240,Basketball,Orange,orange,orange
+509,241,Soccer,Green,green,Green because I picture a large grass field
+510,241,Baseball,Blue,blue,Blue mostly because of the [a team in this sport] and its caps
+511,241,Basketball,Orange,orange,Orange because of the ball against the orange/tan wooden floor
+511,241,Basketball,Tan,tan,Orange because of the ball against the orange/tan wooden floor
+512,245,Soccer,Red,red,Red
+513,245,Baseball,White,white,white
+514,245,Basketball,Orange,orange,orange
+515,246,Soccer,Blue,blue,Blue and white.
+515,246,Soccer,White,white,Blue and white.
+516,246,Baseball,White,white,White.
+517,246,Basketball,Purple,purple,Red and purple.
+517,246,Basketball,Red,red,Red and purple.
+518,247,Soccer,Red,red,Red.
+519,247,Baseball,Blue,blue,Blue.
+520,247,Basketball,Brown,brown,Brown and orange.
+520,247,Basketball,Orange,orange,Brown and orange.
+521,248,Soccer,Blue,blue,Blue
+522,248,Baseball,Blue,blue,Blue
+523,248,Basketball,Red,red,red
+524,249,Soccer,Black,black,"black, white, green"
+524,249,Soccer,Green,green,"black, white, green"
+524,249,Soccer,White,white,"black, white, green"
+525,249,Baseball,Green,green,"white, green, red"
+525,249,Baseball,Red,red,"white, green, red"
+525,249,Baseball,White,white,"white, green, red"
+526,249,Basketball,Orange,orange,orange
+527,250,Soccer,Green,green,green
+528,250,Baseball,Yellow,yellow,yellow
+529,250,Basketball,Brown,brown,brown
+530,251,Soccer,Red,red,red
+531,251,Baseball,Brown,brown,Brown
+532,251,Basketball,Red,red,Red
+533,253,Soccer,Black,black,"White and black, red"
+533,253,Soccer,Red,red,"White and black, red"
+533,253,Soccer,White,white,"White and black, red"
+534,253,Baseball,Blue,blue,Blue
+535,253,Basketball,Orange,orange,"Orange, purple"
+535,253,Basketball,Purple,purple,"Orange, purple"
+536,254,Soccer,Black,black,Black and White
+536,254,Soccer,White,white,Black and White
+537,254,Baseball,Blue,blue,Blue
+538,254,Basketball,Orange,orange,Orange
+542,259,Soccer,Green,green,green
+543,259,Baseball,Blue,blue,blue
+544,259,Basketball,Orange,orange,orange
+545,260,Soccer,Blue,blue,Blue
+546,260,Baseball,Blue,blue,Blue
+547,260,Basketball,Yellow,yellow,Yellow
+548,261,Soccer,Green,green,Green
+549,261,Baseball,Blue,blue,Blue
+550,261,Basketball,Orange,orange,Orange
+551,263,Soccer,Green,green,green
+552,263,Baseball,Blue,blue,blue
+553,263,Basketball,Red,red,red
+554,265,Soccer,Green,green,Green
+555,265,Baseball,Blue,blue,Blue
+556,265,Basketball,Orange,orange,Orange 
+557,267,Soccer,Green,green,Green
+560,268,Soccer,Green,green,Green
+561,268,Baseball,White,white,White
+562,268,Basketball,Orange,orange,Orange
+563,269,Soccer,Blue,blue,Blue
+564,269,Baseball,Blue,blue,Blue
+565,269,Basketball,White,white,White
+566,270,Soccer,Green,green,Green.
+567,270,Baseball,White,white,White
+568,270,Basketball,Orange,orange,Orange.
+569,272,Soccer,Blue,blue,Blue and Red
+569,272,Soccer,Red,red,Blue and Red
+570,272,Baseball,Blue,blue,Blue
+571,272,Basketball,Red,red,Red
+572,273,Soccer,Green,green,Green
+573,273,Baseball,White,white,White
+574,273,Basketball,Orange,orange,Orange
+575,275,Soccer,Black,black,"White and black, green"
+575,275,Soccer,Green,green,"White and black, green"
+575,275,Soccer,White,white,"White and black, green"
+576,275,Baseball,Blue,blue,"White, blue, red, brown"
+576,275,Baseball,Brown,brown,"White, blue, red, brown"
+576,275,Baseball,Red,red,"White, blue, red, brown"
+576,275,Baseball,White,white,"White, blue, red, brown"
+577,275,Basketball,Black,black,"Orange, black"
+577,275,Basketball,Orange,orange,"Orange, black"
+578,276,Soccer,White,white,White
+579,276,Baseball,Brown,brown,brown
+580,276,Basketball,Red,red,Red
+581,278,Soccer,Green,green,"red
+
+green"
+581,278,Soccer,Red,red,"red
+
+green"
+583,278,Basketball,Orange,orange,orange
+584,279,Soccer,Green,green,Green
+585,279,Baseball,White,white,White
+586,279,Basketball,Orange,orange,Orange
+587,280,Soccer,Blue,blue,red and blue
+587,280,Soccer,Red,red,red and blue
+588,280,Baseball,White,white,white
+589,280,Basketball,Brown,brown,"brown and yellow, like the color of the [this sport] and the court"
+589,280,Basketball,Yellow,yellow,"brown and yellow, like the color of the [this sport] and the court"
+590,281,Soccer,Green,green,I feel it should be green.
+591,281,Baseball,White,white,White.
+592,281,Basketball,Orange,orange,Red and orange.
+592,281,Basketball,Red,red,Red and orange.
+593,282,Soccer,Green,green,Green
+594,282,Baseball,Blue,blue,Blue
+595,282,Basketball,Orange,orange,Orange
+596,283,Soccer,Blue,blue,"red, blue"
+596,283,Soccer,Red,red,"red, blue"
+597,283,Baseball,Blue,blue,blue/white
+597,283,Baseball,White,white,blue/white
+598,283,Basketball,Orange,orange,red/orange
+598,283,Basketball,Red,red,red/orange
+599,284,Soccer,Orange,orange,orange
+600,284,Baseball,Blue,blue,blue
+601,284,Basketball,Purple,purple,purple
+602,285,Soccer,Red,red,Red
+603,285,Baseball,Blue,blue,Blue.
+604,285,Basketball,Black,black,Black.
+605,287,Soccer,Green,green,green
+606,287,Baseball,White,white,white
+607,287,Basketball,Orange,orange,orange
+608,289,Soccer,Red,red,Red
+609,289,Baseball,White,white,White
+610,289,Basketball,Blue,blue,"Blue, yellow, red"
+610,289,Basketball,Red,red,"Blue, yellow, red"
+610,289,Basketball,Yellow,yellow,"Blue, yellow, red"
