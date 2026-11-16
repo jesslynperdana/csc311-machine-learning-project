@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 
-NUMBER = re.compile(r"\\d+(?:\\.\\d+)?\\s*k?", re.I)
+NUMBER = re.compile(r"\d+(?:\.\d+)?\s*k?", re.I)
 def normalize_price(raw):
     text = unicodedata.normalize("NFKC", raw).casefold()
     text = re.sub(r"[–—−]", "-", text)
