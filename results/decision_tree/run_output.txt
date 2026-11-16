@@ -1,0 +1,72 @@
+Train (609, 112), validation (129, 112); test set not read.
+ max_depth  min_samples_leaf  actual_depth  n_leaves  train_accuracy  val_accuracy  train_macro_f1  val_macro_f1
+         3                 2             3         5           0.773         0.736           0.773         0.731
+         3                 5             3         5           0.773         0.736           0.773         0.731
+         3                10             3         5           0.773         0.736           0.773         0.731
+         5                 2             5        15           0.860         0.798           0.860         0.797
+         5                 5             5        14           0.857         0.806           0.856         0.805
+         5                10             5        13           0.854         0.798           0.853         0.797
+         8                 2             8        38           0.929         0.837           0.929         0.837
+         8                 5             8        30           0.903         0.822           0.903         0.822
+         8                10             8        23           0.882         0.798           0.881         0.799
+        12                 2            12        57           0.954         0.829           0.954         0.831
+        12                 5            11        37           0.916         0.829           0.916         0.830
+        12                10            10        28           0.887         0.791           0.887         0.793
+{
+  "chosen": {
+    "max_depth": 8,
+    "min_samples_leaf": 5
+  },
+  "actual_depth": 8,
+  "n_leaves": 30,
+  "train_accuracy": 0.9031,
+  "train_macro_f1": 0.9028,
+  "val_accuracy": 0.8217,
+  "val_macro_f1": 0.8215,
+  "best_val_macro_f1_in_grid": 0.8366,
+  "settings_tied_within_2pp": 4,
+  "val_per_class": {
+    "Baseball": {
+      "precision": 0.7234,
+      "recall": 0.7907,
+      "f1": 0.7556
+    },
+    "Basketball": {
+      "precision": 0.8696,
+      "recall": 0.9302,
+      "f1": 0.8989
+    },
+    "Soccer": {
+      "precision": 0.8889,
+      "recall": 0.7442,
+      "f1": 0.8101
+    }
+  },
+  "grid_searched": {
+    "max_depth": [
+      3,
+      5,
+      8,
+      12
+    ],
+    "min_samples_leaf": [
+      2,
+      5,
+      10
+    ]
+  },
+  "numpy_only_prediction_matches_sklearn": true,
+  "saved_tree_json_kb": 4.6,
+  "sklearn_version": "1.9.1"
+}
+Most important features:
+ song__Waka Waka           0.260
+venue__Indoor facility    0.237
+color__Orange             0.113
+color__Green              0.106
+color__Blue               0.060
+food__Hot dog             0.053
+color__White              0.042
+music__Latin              0.020
+music__Hip-hop or rap     0.020
+log_price                 0.016
