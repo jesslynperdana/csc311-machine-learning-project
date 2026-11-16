@@ -141,24 +141,7 @@ def tuning_plot(results, best, path):
     fig.tight_layout()
     fig.savefig(path, dpi=200)
     plt.close(fig)
-
-
-def confusion_plot(y_true, y_pred, path):
-    cm = confusion_matrix(y_true, y_pred, labels=CLASSES)
-    fig, ax = plt.subplots(figsize=(4.2, 3.6))
-    ax.imshow(cm, cmap="Blues")
-    for i in range(3):
-        for j in range(3):
-            ax.text(j, i, cm[i, j], ha="center", va="center",
-                    color="white" if cm[i, j] > cm.max() / 2 else "black")
-    ax.set(xticks=range(3), yticks=range(3), xticklabels=CLASSES, yticklabels=CLASSES,
-           xlabel="Predicted sport", ylabel="True sport",
-           title="Decision tree, validation set")
-    fig.tight_layout()
-    fig.savefig(path, dpi=200)
-    plt.close(fig)
-    return cm
-
+  
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
