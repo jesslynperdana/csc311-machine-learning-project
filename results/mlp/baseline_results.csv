@@ -1,0 +1,2 @@
+model,feature_set,n_features,hidden_layers,alpha,learning_rate,max_iter,train_accuracy,train_macro_f1,validation_accuracy,validation_macro_f1
+baseline_mlp,all_features,112,"(32,)",0.001,0.001,500,0.993431855500821,0.9934398450738321,0.8837209302325582,0.8836898395721926
