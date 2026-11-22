@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_selection import VarianceThreshold
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import GridSearchCV, StratifiedGroupKFold
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.metrics import accuracy_score, f1_score, classification_report
 import joblib
 
 current_dir = Path(__file__).resolve().parent
@@ -25,36 +25,32 @@ def main():
     train_df = pd.read_csv(train_path, dtype=str, keep_default_na=False)
     val_df = pd.read_csv(val_path, dtype=str, keep_default_na=False)
 
-    target_col = "label"
-    y_train = train_df[target_col].values
-    y_val = val_df[target_col].values
+    y_train = train_df["label"].values
+    y_val = val_df["label"].values
     groups = train_df["id"].values
-    X_train_raw = train_df.drop(columns=target_col)
-    X_val_raw = val_df.drop(columns=target_col)
 
     print("Fitting preprocessor...")
     preprocessor = SurveyPreprocessor(project_dir=project_root)
-    X_train = preprocessor.fit_transform(X_train_raw)
-    X_val = preprocessor.transform(X_val_raw)
+    X_train = preprocessor.fit_transform(train_df)
+    X_val = preprocessor.transform(val_df)
     
     print(f"Processed training shape: {X_train.shape}")
     print(f"Processed validation shape: {X_val.shape}")
 
     print("Training Random Forest model...")
     pipe = Pipeline([
-        ('var_thresh', VarianceThreshold(threshold=0.015)),
-        ('rf', RandomForestClassifier(random_state=42))
+        ("var_thresh", VarianceThreshold(threshold=0.01)),
+        ("rf", RandomForestClassifier(criterion="entropy", random_state=42)),
     ])
+
     param_grid = {
-        'rf__n_estimators': [300],
-        'rf__max_depth': [8, 10, 12],
-        'rf__min_samples_leaf': [4, 6, 8],
-        'rf__max_features': ['sqrt', 0.1],
-        'rf__max_samples': [0.7, 0.85],
-        'rf__ccp_alpha': [0.002, 0.005, 0.01]
+        "rf__n_estimators": [300, 500],
+        "rf__max_depth": [12, 16, None],
+        "rf__min_samples_leaf": [2, 3],
+        "rf__max_features": ["sqrt", 0.2],
     }
     cv = StratifiedGroupKFold(n_splits= 5)
-    grid_search = GridSearchCV(pipe, param_grid=param_grid, cv=cv, scoring='accuracy', n_jobs=-1)
+    grid_search = GridSearchCV(pipe, param_grid=param_grid, cv=cv, scoring='f1_macro', n_jobs=-1)
     grid_search.fit(X_train, y_train, groups=groups)
 
     train_preds = grid_search.predict(X_train)
@@ -62,12 +58,14 @@ def main():
 
     train_acc = accuracy_score(y_train, train_preds)
     val_acc = accuracy_score(y_val, val_preds)
+    val_macro_f1 = f1_score(y_val, val_preds, average='macro')
 
-    print("\n--- Results ---")
+    print("\n--- Random Forest Results ---")
     print("Best Hyperparameters:", grid_search.best_params_)
-    print("Best CV Accuracy:", grid_search.best_score_)
+    print(f"Best CV Macro-F1: {grid_search.best_score_:.4f}")
     print(f"Training Accuracy: {train_acc * 100:.2f}%")
     print(f"Validation Accuracy: {val_acc * 100:.2f}%")
+    print(f"Validation Macro-F1: {val_macro_f1:.4f}")
     print("\nValidation Classification Report:")
     print(classification_report(y_val, val_preds))
 
