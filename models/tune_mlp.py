@@ -12,6 +12,7 @@ import argparse
 import json
 import sys
 import warnings
+import joblib
 from itertools import product
 from pathlib import Path
 
@@ -77,6 +78,12 @@ def evaluate():
     with warnings.catch_warnings():
         warnings.simplefilter("ignore", ConvergenceWarning)
         model.fit(X_train[cols].to_numpy(dtype=np.float64), train["label"])
+        OUT.mkdir(parents=True, exist_ok=True)
+    joblib.dump(
+        {"model": model, "preprocessor": pp, "features": cols},
+        OUT / "mlp_model.joblib"
+    )
+    print("Saved:", OUT / "mlp_model.joblib")
 
     print(f"Tuned MLP: {len(cols)} features, hidden=(64,), alpha=0.1, lr=0.001")
     for name, X, y in [
@@ -159,6 +166,12 @@ def export():
     with warnings.catch_warnings():
         warnings.simplefilter("ignore", ConvergenceWarning)
         model.fit(X[cols].to_numpy(dtype=np.float64), full["label"])
+    OUT.mkdir(parents=True, exist_ok=True)
+    joblib.dump(
+        {"model": model, "preprocessor": pp, "features": cols},
+        OUT / "mlp_model.joblib"
+    )
+    print("Saved:", OUT / "mlp_model.joblib")       
 
     numeric = list(pp.medians_.index)
     metadata = {
