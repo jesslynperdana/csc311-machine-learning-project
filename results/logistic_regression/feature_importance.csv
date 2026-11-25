@@ -1,0 +1,111 @@
+,coef_Baseball,coef_Basketball,coef_Soccer,max_abs_coef
+color__Green,-0.6639,-1.007,1.6709,1.6709
+color__Orange,-0.7046,1.5906,-0.886,1.5906
+song__Waka Waka,-0.7847,-0.7256,1.5103,1.5103
+music__Latin,-0.4718,-0.6863,1.1581,1.1581
+color__Blue,0.7351,-1.1027,0.3676,1.1027
+song__Take Me Out to the Ball Game,1.0821,-0.2913,-0.7909,1.0821
+venue__Indoor facility,-0.8893,1.0254,-0.1361,1.0254
+food__Hot dog,0.9464,-0.1483,-0.7982,0.9464
+season__Winter,-0.4627,0.875,-0.4122,0.875
+color__White,0.5141,-0.8631,0.349,0.8631
+color__Brown,0.2475,0.5822,-0.8297,0.8297
+song__Wavin' Flag,-0.2562,-0.4997,0.7559,0.7559
+music__Country,0.7264,-0.2398,-0.4866,0.7264
+music__Hip-hop or rap,-0.4014,0.7117,-0.3103,0.7117
+food__Beer,0.2003,-0.6791,0.4788,0.6791
+color__Black,-0.6687,0.1834,0.4853,0.6687
+venue__At home or nearby,-0.625,0.5033,0.1217,0.625
+ease,-0.6086,0.1802,0.4285,0.6086
+feeling__Excited,-0.5758,0.2005,0.3753,0.5758
+color__Red,-0.5742,0.295,0.2792,0.5742
+song__missing,0.3277,0.2032,-0.5309,0.5309
+food__Peanuts,0.5184,-0.1542,-0.3643,0.5184
+food__Chicken,-0.1428,0.509,-0.3663,0.509
+injury,-0.4955,0.3699,0.1255,0.4955
+food__missing,0.266,0.2284,-0.4943,0.4943
+song__See You Again,-0.1452,0.4849,-0.3397,0.4849
+music__Pop,0.2375,0.2419,-0.4794,0.4794
+venue__Outdoor public space,0.0369,-0.444,0.4071,0.444
+feeling__Focused / analytical,0.4257,-0.1259,-0.2998,0.4257
+color__Purple,-0.1759,0.4154,-0.2395,0.4154
+feeling__Energetic / intense,0.0316,0.3629,-0.3945,0.3945
+venue__Private sports facility,-0.3787,0.1203,0.2584,0.3787
+music__No particular type,-0.2712,-0.1016,0.3727,0.3727
+food__Pizza,-0.3708,0.1099,0.2609,0.3708
+music__Classical or jazz,0.37,-0.1476,-0.2224,0.37
+individual,0.366,-0.0216,-0.3444,0.366
+music__Electronic or dance,0.1202,-0.3627,0.2425,0.3627
+color__Gold,-0.1325,0.3611,-0.2286,0.3611
+food__Water,-0.3163,0.3599,-0.0437,0.3599
+feeling__Happy / joyful,-0.158,0.3472,-0.1892,0.3472
+feeling__Confused,0.3411,-0.1493,-0.1918,0.3411
+food__Chips,-0.052,-0.2774,0.3294,0.3294
+season__Summer,0.3058,-0.1514,-0.1544,0.3058
+music__Rock,-0.2336,-0.068,0.3016,0.3016
+food__Fries,0.2985,-0.1159,-0.1826,0.2985
+feeling__Impressed / amazed,-0.2307,-0.0641,0.2948,0.2948
+song__We Will Rock You,-0.2383,0.2907,-0.0524,0.2907
+feeling__Calm / relaxed,0.289,-0.1167,-0.1723,0.289
+food__Pretzel,0.0271,-0.2883,0.2612,0.2883
+song__Sweet Caroline,0.2709,-0.0149,-0.2559,0.2709
+food__Popcorn,0.2032,0.056,-0.2592,0.2592
+feeling__Anticipatory / suspenseful,-0.0228,-0.234,0.2567,0.2567
+season__Spring,-0.2523,0.0809,0.1714,0.2523
+song__We Are One,-0.1189,-0.1233,0.2421,0.2421
+food__Energy / electrolyte drinks,-0.1002,0.2403,-0.1401,0.2403
+log_price,-0.2204,0.0446,0.1758,0.2204
+music__Folk or traditional,0.0817,-0.2203,0.1386,0.2203
+log_price__missing,-0.1411,-0.0758,0.217,0.217
+feeling__Interested / engaged,-0.1607,-0.0556,0.2163,0.2163
+food__Nachos,-0.1535,0.2121,-0.0587,0.2121
+feeling__missing,0.0817,-0.2079,0.1262,0.2079
+music__Other,0.1268,0.0808,-0.2076,0.2076
+venue__Community recreation facility,-0.1949,0.14,0.0548,0.1949
+feeling__Uninterested,0.0109,0.1791,-0.19,0.19
+song__Space Jam,-0.0096,0.1893,-0.1797,0.1893
+song__Sirius,-0.1063,0.1886,-0.0823,0.1886
+food__Tea,0.0258,-0.188,0.1621,0.188
+feeling__Passionate,-0.149,-0.0307,0.1797,0.1797
+food__Barbecue,-0.0287,-0.142,0.1708,0.1708
+food__Poutine,0.0471,0.1225,-0.1696,0.1696
+strategy,0.0884,-0.1657,0.0773,0.1657
+food__Burger,-0.1586,0.1521,0.0065,0.1586
+feeling__Motivated / inspired,-0.0632,0.1569,-0.0938,0.1569
+season__Fall,0.1145,0.0389,-0.1534,0.1534
+food__Soft drinks,0.1282,-0.149,0.0209,0.149
+individual__missing,-0.1401,0.1153,0.0247,0.1401
+strategy__missing,-0.1401,0.1153,0.0247,0.1401
+injury__missing,-0.14,0.0944,0.0456,0.14
+ease__missing,-0.14,0.0944,0.0456,0.14
+venue__missing,-0.14,0.0944,0.0456,0.14
+music__missing,-0.14,0.0944,0.0456,0.14
+color__missing,-0.14,0.0944,0.0456,0.14
+season__missing,-0.14,0.0944,0.0456,0.14
+feeling__Bored,0.1231,-0.1313,0.0082,0.1313
+food__Sunflower seeds,0.127,-0.0667,-0.0603,0.127
+venue__Others,0.1266,-0.092,-0.0346,0.1266
+song__We Are the Champions,0.0036,0.1171,-0.1207,0.1207
+feeling__Entertained,0.0838,0.0364,-0.1201,0.1201
+color__Gray,0.1159,-0.0834,-0.0325,0.1159
+venue__School or university facility,-0.1157,0.0874,0.0282,0.1157
+food__Gum,0.003,0.1097,-0.1127,0.1127
+color__Yellow,-0.0905,-0.0197,0.1102,0.1102
+song__Forever,-0.003,0.0958,-0.0928,0.0958
+feeling__Emotional,-0.0037,-0.0915,0.0952,0.0952
+feeling__Neutral / indifferent,0.0895,-0.0336,-0.0559,0.0895
+feeling__Tired / sleepy,-0.0185,0.0881,-0.0695,0.0881
+feeling__Angry / frustrated,0.0879,-0.0408,-0.0471,0.0879
+feeling__Scared / overwhelmed,-0.0174,0.0848,-0.0675,0.0848
+feeling__Tense / anxious,-0.0097,0.0797,-0.0701,0.0797
+song__Roundball Rock,-0.002,0.0749,-0.0729,0.0749
+food__Sandwich,-0.0626,0.0156,0.047,0.0626
+feeling__Sad / disappointed,-0.0183,-0.0442,0.0626,0.0626
+feeling__Proud,0.0535,-0.0426,-0.0109,0.0535
+color__Beige,0.0497,-0.03,-0.0197,0.0497
+feeling__Connected,-0.0036,-0.0374,0.041,0.041
+food__Ice cream / frozen treats,0.0202,0.0011,-0.0213,0.0213
+feeling__Competitive,-0.005,0.0097,-0.0047,0.0097
+feeling__Nostalgic,0.005,0.0,-0.005,0.005
+color__Tan,-0.0016,0.0019,-0.0003,0.0019
+color__Cream,0.0004,-0.0004,-0.0001,0.0004

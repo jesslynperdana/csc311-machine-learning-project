@@ -1,0 +1,31 @@
+{
+  "chosen": {
+    "clf__C": 0.5,
+    "clf__l1_ratio": 0.0,
+    "clf__solver": "lbfgs",
+    "var_thresh__threshold": 0.0
+  },
+  "cv_macro_f1": 0.9246,
+  "train_accuracy": 0.9622,
+  "train_macro_f1": 0.9622,
+  "val_accuracy": 0.8682,
+  "val_macro_f1": 0.8691,
+  "val_per_class": {
+    "Baseball": {
+      "precision": 0.7959,
+      "recall": 0.907,
+      "f1": 0.8478
+    },
+    "Basketball": {
+      "precision": 0.9487,
+      "recall": 0.8605,
+      "f1": 0.9024
+    },
+    "Soccer": {
+      "precision": 0.878,
+      "recall": 0.8372,
+      "f1": 0.8571
+    }
+  },
+  "sklearn_version": "1.8.0"
+}
