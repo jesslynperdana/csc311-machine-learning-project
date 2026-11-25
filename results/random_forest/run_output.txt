@@ -1,0 +1,25 @@
+Loading data from /Users/jesslynperdana/Downloads/csc311-machine-learning-project/data_splits...
+Fitting preprocessor...
+Processed training shape: (609, 112)
+Processed validation shape: (129, 112)
+Training Random Forest model...
+
+--- Random Forest Results ---
+Best Hyperparameters: {'rf__max_depth': 16, 'rf__max_features': 'sqrt', 'rf__min_samples_leaf': 2, 'rf__n_estimators': 300}
+Best CV Macro-F1: 0.9164
+Training Accuracy: 98.69%
+Validation Accuracy: 86.82%
+Validation Macro-F1: 0.8691
+
+Validation Classification Report:
+              precision    recall  f1-score   support
+
+    Baseball       0.76      0.95      0.85        43
+  Basketball       0.93      0.88      0.90        43
+      Soccer       0.97      0.77      0.86        43
+
+    accuracy                           0.87       129
+   macro avg       0.89      0.87      0.87       129
+weighted avg       0.89      0.87      0.87       129
+
+Model saved to /Users/jesslynperdana/Downloads/csc311-machine-learning-project/results/random_forest/random_forest_model.joblib

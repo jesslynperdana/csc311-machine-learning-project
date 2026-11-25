@@ -1,0 +1,25 @@
+Loading data from /Users/jesslynperdana/Downloads/csc311-machine-learning-project/data_splits...
+Fitting preprocessor...
+Processed training shape: (609, 112)
+Processed validation shape: (129, 112)
+Training Logistic Regression model...
+
+--- Logistic Regression Results ---
+Best Hyperparameters: {'clf__C': 0.5, 'clf__l1_ratio': 0.0, 'clf__solver': 'lbfgs', 'var_thresh__threshold': 0.0}
+Best CV Macro-F1:0.9246
+Training Accuracy: 96.22%
+Validation Accuracy: 86.82%
+Validation Macro-F1: 0.8691
+
+Validation Classification Report:
+              precision    recall  f1-score   support
+
+    Baseball       0.80      0.91      0.85        43
+  Basketball       0.95      0.86      0.90        43
+      Soccer       0.88      0.84      0.86        43
+
+    accuracy                           0.87       129
+   macro avg       0.87      0.87      0.87       129
+weighted avg       0.87      0.87      0.87       129
+
+Model saved to /Users/jesslynperdana/Downloads/csc311-machine-learning-project/results/logistic_regression/logistic_regression_model.joblib
