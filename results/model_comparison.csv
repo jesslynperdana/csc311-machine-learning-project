@@ -1,5 +1,5 @@
 Model,Training accuracy (%),Validation accuracy (%),Validation macro-F1,Training correct,Training samples,Validation correct,Validation samples,Train minus validation accuracy (pp),Key hyperparameters
 Decision Tree,90.31,82.17,0.8215,550,609,106,129,8.14,"{""max_depth"": 8, ""min_samples_leaf"": 5}"
-Logistic Regression,96.55,89.15,0.8919,588,609,115,129,7.40,"{""C"": 1.0, ""solver"": ""lbfgs"", ""max_iter"": 2000, ""random_state"": 42} "
+Logistic Regression,96.55,89.15,0.8919,588,609,115,129,7.40,"{""C"": 0.5, ""solver"": ""lbfgs"", ""max_iter"": 2000, ""random_state"": 42} "
 MLP,99.51,88.37,0.8843,606,609,114,129,11.14,"{""hidden_layer_sizes"": [64], ""alpha"": 0.1, ""learning_rate_init"": 0.001, ""solver"": ""adam"", ""max_iter"": 800, ""random_state"": 42} "
 Random Forest,92.78,86.05,0.8604,565,609,111,129,6.73,"{""n_estimators"": 300, ""max_depth"": 8, ""min_samples_leaf"": 4, ""max_features"": 0.1, ""ccp_alpha"": 0.005, ""max_samples"": 0.7, ""random_state"": 42, ""variance_threshold"": 0.015} "
